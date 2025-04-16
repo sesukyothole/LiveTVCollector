@@ -408,6 +408,48 @@ URL: https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
+Name: ASIAN TV
+URL: http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: NAGORIK TV
+URL: http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: BANGLA TV
+URL: http://38.96.178.201/live/BanglaTV/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: GLOBAL TV
+URL: http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/436
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: NEXUS TV HD
+URL: http://38.96.178.201/live/NexusTV/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: CHANNELl S HD
+URL: http://38.96.178.201/live/ChannelS/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+
+Group: Bangla News
+Name: CHANNEL 24
+URL: https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: EKHONE TV
+URL: https://www.tbn24.com/api/video/4043_0.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 
 Group: Bangladesh
 Name: ATN BANGLA
@@ -750,6 +792,11 @@ Name: DW
 URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: ALJAZEERA
+URL: https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 
 Group: Entertainment
@@ -1309,6 +1356,11 @@ URL: https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
+Name: ANIMAL PLANET HD
+URL: http://isp.top10bhaluka.com/tv/stream.m3u8?id=ZEE-BANGLA-CINEMA
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 
 Group: Infotainment
 Name: Sony BBC Earth HD
@@ -1380,6 +1432,11 @@ URL: https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
+Name: CARTOON HD
+URL: https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 
 Group: Kids
 Name: Duronto TV
@@ -1412,6 +1469,11 @@ URL: https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 Logo: https://i.postimg.cc/zBCLNtGZ/Duronto.jpg
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
+Name: DISCOVERO KIDS
+URL: https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
+Logo: https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 Name: Nick Jr India (1080p)
 URL: https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png
@@ -1421,6 +1483,13 @@ Name: Nickelodeon Sonic Hindi (1080p)
 URL: https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
+
+Group: Kolkata Bangla Movies
+Name: COLORS BANGLA CINEMA
+URL: http://38.96.178.201/live/AkashAath/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 
 Group: Legislative
@@ -1903,6 +1972,11 @@ Group: Relagion Channel
 Name: AL SUNNAH TV
 URL: http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 Logo: https://i.ibb.co/rtkWYHV/20240827-092043.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: PEACE TV BANGLA
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
+Logo: https://i.ibb.co/Gfw89mC/20240804-033102.png
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 
@@ -3052,11 +3126,6 @@ URL: https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunk
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Ekattor TV
-URL: http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
 Name: Channel 24
 URL: http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3394,11 +3463,6 @@ Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%2
 --------------------------------------------------
 Name: PTV
 URL: https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?|drmScheme=clearkey&drmLicense=https://denver1769.in/TP/key.php
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: PEACE TV BANGLA
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------

@@ -306,6 +306,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ALJAZEERA",
+    "type": "English News",
+    "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"
+  },
+  {
     "name": "Saudi Quran",
     "type": "Islamic",
     "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
@@ -358,6 +364,12 @@
     "type": "Kids",
     "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
     "img": "https://i.postimg.cc/zBCLNtGZ/Duronto.jpg"
+  },
+  {
+    "name": "DISCOVERO KIDS",
+    "type": "Kids",
+    "url": "https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd",
+    "img": "https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg"
   },
   {
     "name": "Nick Jr India (1080p)",
@@ -2082,12 +2094,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Ekattor TV",
-    "type": "Uncategorized",
-    "url": "http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Channel 24",
     "type": "Uncategorized",
     "url": "http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3",
@@ -2493,12 +2499,6 @@
     "name": "PTV",
     "type": "Uncategorized",
     "url": "https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?|drmScheme=clearkey&drmLicense=https://denver1769.in/TP/key.php",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "PEACE TV BANGLA",
-    "type": "Uncategorized",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3222,6 +3222,42 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
   },
   {
+    "name": "ASIAN TV",
+    "type": "Bangla",
+    "url": "http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"
+  },
+  {
+    "name": "NAGORIK TV",
+    "type": "Bangla",
+    "url": "http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"
+  },
+  {
+    "name": "BANGLA TV",
+    "type": "Bangla",
+    "url": "http://38.96.178.201/live/BanglaTV/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"
+  },
+  {
+    "name": "GLOBAL TV",
+    "type": "Bangla",
+    "url": "http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/436",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"
+  },
+  {
+    "name": "NEXUS TV HD",
+    "type": "Bangla",
+    "url": "http://38.96.178.201/live/NexusTV/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"
+  },
+  {
+    "name": "CHANNELl S HD",
+    "type": "Bangla",
+    "url": "http://38.96.178.201/live/ChannelS/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"
+  },
+  {
     "name": "Amazing Discoveries TV",
     "type": "DOCUMENTARY",
     "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
@@ -3696,6 +3732,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"
   },
   {
+    "name": "ANIMAL PLANET HD",
+    "type": "Information",
+    "url": "http://isp.top10bhaluka.com/tv/stream.m3u8?id=ZEE-BANGLA-CINEMA",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
+  },
+  {
     "name": "Zainabia Channel",
     "type": "ISLAMIC",
     "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
@@ -3748,6 +3790,12 @@
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CARTOON HD",
+    "type": "KIDS",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"
   },
   {
     "name": "ICC+",
@@ -4032,6 +4080,18 @@
     "img": "https://i.postimg.cc/4yyTcJWn/GTV.jpg"
   },
   {
+    "name": "CHANNEL 24",
+    "type": "Bangla News",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"
+  },
+  {
+    "name": "EKHONE TV",
+    "type": "Bangla News",
+    "url": "https://www.tbn24.com/api/video/4043_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png"
+  },
+  {
     "name": "ZEE 24",
     "type": "Indian Bangla",
     "url": "https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8",
@@ -4068,6 +4128,12 @@
     "img": "https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg"
   },
   {
+    "name": "COLORS BANGLA CINEMA",
+    "type": "Kolkata Bangla Movies",
+    "url": "http://38.96.178.201/live/AkashAath/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"
+  },
+  {
     "name": "SONY MAX HD",
     "type": "Hindi Movies",
     "url": "https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8",
@@ -4090,6 +4156,12 @@
     "type": "Relagion Channel",
     "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
     "img": "https://i.ibb.co/rtkWYHV/20240827-092043.png"
+  },
+  {
+    "name": "PEACE TV BANGLA",
+    "type": "Relagion Channel",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA",
+    "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
   },
   {
     "name": "BTV Chattogram (1080p)",

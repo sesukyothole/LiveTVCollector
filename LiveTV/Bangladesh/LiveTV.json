@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-16 15:53:25",
+  "date": "2025-04-16 21:44:24",
   "channels": {
     "BANGLA": [
       {
@@ -360,6 +360,13 @@
         "group": "English News",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+      },
+      {
+        "name": "ALJAZEERA",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png",
+        "group": "English News",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
       }
     ],
     "Islamic": [
@@ -427,6 +434,13 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
         "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
+      },
+      {
+        "name": "DISCOVERO KIDS",
+        "logo": "https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd"
       },
       {
         "name": "Nick Jr India (1080p)",
@@ -2456,13 +2470,6 @@
         "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8"
       },
       {
-        "name": "Ekattor TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3"
-      },
-      {
         "name": "Channel 24",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -2937,13 +2944,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
         "url": "https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?|drmScheme=clearkey&drmLicense=https://denver1769.in/TP/key.php"
-      },
-      {
-        "name": "PEACE TV BANGLA",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA"
       },
       {
         "name": "PEACE TV ENGLISH",
@@ -3802,6 +3802,48 @@
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
         "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8"
+      },
+      {
+        "name": "ASIAN TV",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3"
+      },
+      {
+        "name": "NAGORIK TV",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3"
+      },
+      {
+        "name": "BANGLA TV",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://38.96.178.201/live/BanglaTV/index.m3u8"
+      },
+      {
+        "name": "GLOBAL TV",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/436"
+      },
+      {
+        "name": "NEXUS TV HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://38.96.178.201/live/NexusTV/index.m3u8"
+      },
+      {
+        "name": "CHANNELl S HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://38.96.178.201/live/ChannelS/index.m3u8"
       }
     ],
     "DOCUMENTARY": [
@@ -4373,6 +4415,13 @@
         "group": "Information",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
         "url": "https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "ANIMAL PLANET HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png",
+        "group": "Information",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://isp.top10bhaluka.com/tv/stream.m3u8?id=ZEE-BANGLA-CINEMA"
       }
     ],
     "ISLAMIC": [
@@ -4440,6 +4489,13 @@
         "group": "KIDS",
         "source": "https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8",
         "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+      },
+      {
+        "name": "CARTOON HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8"
       }
     ],
     "MOVIES": [
@@ -4787,6 +4843,22 @@
         "url": "https://www.tbn24.com/api/video/4027_0.m3u8"
       }
     ],
+    "Bangla News": [
+      {
+        "name": "CHANNEL 24",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png",
+        "group": "Bangla News",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8"
+      },
+      {
+        "name": "EKHONE TV",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png",
+        "group": "Bangla News",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "https://www.tbn24.com/api/video/4043_0.m3u8"
+      }
+    ],
     "Indian Bangla": [
       {
         "name": "ZEE 24",
@@ -4831,6 +4903,15 @@
         "url": "http://38.96.178.201/live/JalshaMovies/index.m3u8"
       }
     ],
+    "Kolkata Bangla Movies": [
+      {
+        "name": "COLORS BANGLA CINEMA",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png",
+        "group": "Kolkata Bangla Movies",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://38.96.178.201/live/AkashAath/index.m3u8"
+      }
+    ],
     "Hindi Movies": [
       {
         "name": "SONY MAX HD",
@@ -4863,6 +4944,13 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
         "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1"
+      },
+      {
+        "name": "PEACE TV BANGLA",
+        "logo": "https://i.ibb.co/Gfw89mC/20240804-033102.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA"
       }
     ],
     "Undefined": [
