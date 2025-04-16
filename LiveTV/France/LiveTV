@@ -2334,9 +2334,21 @@
     "img": "https://i.ibb.co/tHBB7zv/icimontreal.png"
   },
   {
+    "name": "TRT HABER",
+    "type": "Uncategorized",
+    "url": "https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8",
+    "img": "https://i.ibb.co/Bt6frts/trthaber.png"
+  },
+  {
     "name": "SÖZCÜ TV",
     "type": "Uncategorized",
-    "url": "https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8",
+    "url": "https://trn03.tulix.tv/gt-sozcu/playlist.m3u8",
+    "img": "https://i.ibb.co/B40rjP3/szc1.png"
+  },
+  {
+    "name": "SÖZCÜ TV",
+    "type": "Uncategorized",
+    "url": "http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8",
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
@@ -2346,10 +2358,10 @@
     "img": "https://i.ibb.co/wdwm0fn/haberturk.png"
   },
   {
-    "name": "MK TV",
+    "name": "HABER TÜRK",
     "type": "Uncategorized",
-    "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
-    "img": " https://i.ibb.co/wrMn5rgQ/mktv.png"
+    "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
+    "img": "https://i.ibb.co/wdwm0fn/haberturk.png"
   },
   {
     "name": "HABER GLOBAL",
@@ -2376,10 +2388,10 @@
     "img": "https://i.ibb.co/4Mhmggc/tele1.png"
   },
   {
-    "name": "KRT",
+    "name": "MK TV",
     "type": "Uncategorized",
-    "url": "http://trn03.tulix.tv/gt-krttv/tracks-v1a1/mono.m3u8",
-    "img": "https://i.ibb.co/jZShqBM/Krt24v2.png"
+    "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
+    "img": " https://i.ibb.co/wrMn5rgQ/mktv.png"
   },
   {
     "name": "EKOL TV",
@@ -2414,13 +2426,13 @@
   {
     "name": "EKO TÜRK",
     "type": "Uncategorized",
-    "url": "https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8",
+    "url": "http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8",
     "img": "https://i.ibb.co/xS3zLQr/ekoturk.png"
   },
   {
     "name": "CNN TÜRK",
     "type": "Uncategorized",
-    "url": "https://helga.iptv2022.com/sh/cnn_turk/index.m3u8",
+    "url": "http://116.202.238.88/CNNTURK_TR/index.m3u8",
     "img": "https://i.ibb.co/JqWCczW/cnnturk1.png"
   },
   {
@@ -2476,6 +2488,12 @@
     "type": "Uncategorized",
     "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8",
     "img": "https://i.ibb.co/1X8nWHc/ahaber.png"
+  },
+  {
+    "name": "KRT",
+    "type": "Uncategorized",
+    "url": "http://trn03.tulix.tv/gt-krttv/tracks-v1a1/mono.m3u8",
+    "img": "https://i.ibb.co/jZShqBM/Krt24v2.png"
   },
   {
     "name": "LİDER HABER TV",
@@ -2534,14 +2552,14 @@
   {
     "name": "TRT HABER (backup)",
     "type": "Uncategorized",
-    "url": "https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8",
+    "url": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8",
     "img": "https://i.ibb.co/Bt6frts/trthaber.png"
   },
   {
-    "name": "TRT HABER (backup)",
+    "name": "SÖZCÜ TV (backup)",
     "type": "Uncategorized",
-    "url": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8",
-    "img": "https://i.ibb.co/Bt6frts/trthaber.png"
+    "url": "http://185.234.111.229:8000/play/a00y",
+    "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
     "name": "HABER GLOBAL (backup)",
@@ -2559,12 +2577,6 @@
     "name": "HABER TÜRK (backup)",
     "type": "Uncategorized",
     "url": "https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8",
-    "img": "https://i.ibb.co/wdwm0fn/haberturk.png"
-  },
-  {
-    "name": "HABER TÜRK (backup)",
-    "type": "Uncategorized",
-    "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
     "img": "https://i.ibb.co/wdwm0fn/haberturk.png"
   },
   {
@@ -2662,24 +2674,6 @@
     "type": "Uncategorized",
     "url": "https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8",
     "img": "https://i.ibb.co/F5FcvbZ/flash4ok.png"
-  },
-  {
-    "name": "SÖZCÜ TV (backup)",
-    "type": "Uncategorized",
-    "url": "https://x.canlitvapp.com/sozcu/index.m3u8",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
-  },
-  {
-    "name": "SÖZCÜ TV (backup)",
-    "type": "Uncategorized",
-    "url": "https://canlitvulusal.xyz/live/sozcutv/index.m3u8",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
-  },
-  {
-    "name": "SÖZCÜ TV (backup)",
-    "type": "Uncategorized",
-    "url": "https://trn03.tulix.tv/gt-sozcutv/playlist.m3u8",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
     "name": "EKOL TV (backup)",
@@ -2852,13 +2846,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=OXhTdZq9G-ea_7PuK-4xdw&e=1744766114",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=2yyyAk3Ue9rB5CDyOAxynQ&e=1744830826",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=2yyyAk3Ue9rB5CDyOAxynQ&e=1744830826",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -3036,9 +3030,9 @@
     "img": "https://i.ibb.co/BrGNZJ4/showtv.png"
   },
   {
-    "name": "NOW",
+    "name": "NOW (backup)",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=OXhTdZq9G-ea_7PuK-4xdw&e=1744766114",
+    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {

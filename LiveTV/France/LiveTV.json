@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-16 06:19:16",
+  "date": "2025-04-16 21:44:34",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -2728,11 +2728,25 @@
         "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
       },
       {
+        "name": "TRT HABER",
+        "logo": "https://i.ibb.co/Bt6frts/trthaber.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8"
+      },
+      {
         "name": "SÖZCÜ TV",
         "logo": "https://i.ibb.co/B40rjP3/szc1.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8"
+        "url": "https://trn03.tulix.tv/gt-sozcu/playlist.m3u8"
+      },
+      {
+        "name": "SÖZCÜ TV",
+        "logo": "https://i.ibb.co/B40rjP3/szc1.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8"
       },
       {
         "name": "HABER TÜRK",
@@ -2742,11 +2756,11 @@
         "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
       },
       {
-        "name": "MK TV",
-        "logo": " https://i.ibb.co/wrMn5rgQ/mktv.png",
+        "name": "HABER TÜRK",
+        "logo": "https://i.ibb.co/wdwm0fn/haberturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
+        "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
       },
       {
         "name": "HABER GLOBAL",
@@ -2777,11 +2791,11 @@
         "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
       },
       {
-        "name": "KRT",
-        "logo": "https://i.ibb.co/jZShqBM/Krt24v2.png",
+        "name": "MK TV",
+        "logo": " https://i.ibb.co/wrMn5rgQ/mktv.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "http://trn03.tulix.tv/gt-krttv/tracks-v1a1/mono.m3u8"
+        "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
       },
       {
         "name": "EKOL TV",
@@ -2823,14 +2837,14 @@
         "logo": "https://i.ibb.co/xS3zLQr/ekoturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8"
+        "url": "http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8"
       },
       {
         "name": "CNN TÜRK",
         "logo": "https://i.ibb.co/JqWCczW/cnnturk1.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://helga.iptv2022.com/sh/cnn_turk/index.m3u8"
+        "url": "http://116.202.238.88/CNNTURK_TR/index.m3u8"
       },
       {
         "name": "GZT",
@@ -2894,6 +2908,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8"
+      },
+      {
+        "name": "KRT",
+        "logo": "https://i.ibb.co/jZShqBM/Krt24v2.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://trn03.tulix.tv/gt-krttv/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "LİDER HABER TV",
@@ -2963,14 +2984,14 @@
         "logo": "https://i.ibb.co/Bt6frts/trthaber.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8"
+        "url": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8"
       },
       {
-        "name": "TRT HABER (backup)",
-        "logo": "https://i.ibb.co/Bt6frts/trthaber.png",
+        "name": "SÖZCÜ TV (backup)",
+        "logo": "https://i.ibb.co/B40rjP3/szc1.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8"
+        "url": "http://185.234.111.229:8000/play/a00y"
       },
       {
         "name": "HABER GLOBAL (backup)",
@@ -2992,13 +3013,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8"
-      },
-      {
-        "name": "HABER TÜRK (backup)",
-        "logo": "https://i.ibb.co/wdwm0fn/haberturk.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
       },
       {
         "name": "HABER TÜRK (backup)",
@@ -3111,27 +3125,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8"
-      },
-      {
-        "name": "SÖZCÜ TV (backup)",
-        "logo": "https://i.ibb.co/B40rjP3/szc1.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://x.canlitvapp.com/sozcu/index.m3u8"
-      },
-      {
-        "name": "SÖZCÜ TV (backup)",
-        "logo": "https://i.ibb.co/B40rjP3/szc1.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://canlitvulusal.xyz/live/sozcutv/index.m3u8"
-      },
-      {
-        "name": "SÖZCÜ TV (backup)",
-        "logo": "https://i.ibb.co/B40rjP3/szc1.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://trn03.tulix.tv/gt-sozcutv/playlist.m3u8"
       },
       {
         "name": "EKOL TV (backup)",
@@ -3334,14 +3327,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=OXhTdZq9G-ea_7PuK-4xdw&e=1744766114"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=2yyyAk3Ue9rB5CDyOAxynQ&e=1744830826"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=2yyyAk3Ue9rB5CDyOAxynQ&e=1744830826"
       },
       {
         "name": "TV8",
@@ -3547,11 +3540,11 @@
         "url": "http://canli.haber365.com.tr/tr/showtv/index.m3u8"
       },
       {
-        "name": "NOW",
+        "name": "NOW (backup)",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=OXhTdZq9G-ea_7PuK-4xdw&e=1744766114"
+        "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
       },
       {
         "name": "NOW (backup)",
