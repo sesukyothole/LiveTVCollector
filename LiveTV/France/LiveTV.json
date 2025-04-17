@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-17 06:24:21",
+  "date": "2025-04-17 21:44:02",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -2728,20 +2728,6 @@
         "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
       },
       {
-        "name": "TRT HABER",
-        "logo": "https://i.ibb.co/Bt6frts/trthaber.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8"
-      },
-      {
-        "name": "SÖZCÜ TV",
-        "logo": "https://i.ibb.co/B40rjP3/szc1.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://trn03.tulix.tv/gt-sozcu/playlist.m3u8"
-      },
-      {
         "name": "SÖZCÜ TV",
         "logo": "https://i.ibb.co/B40rjP3/szc1.png",
         "group": "Uncategorized",
@@ -2754,13 +2740,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
-      },
-      {
-        "name": "HABER TÜRK",
-        "logo": "https://i.ibb.co/wdwm0fn/haberturk.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
       },
       {
         "name": "HABER GLOBAL",
@@ -2984,7 +2963,21 @@
         "logo": "https://i.ibb.co/Bt6frts/trthaber.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8"
+      },
+      {
+        "name": "TRT HABER (backup)",
+        "logo": "https://i.ibb.co/Bt6frts/trthaber.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8"
+      },
+      {
+        "name": "SÖZCÜ TV (backup)",
+        "logo": "https://i.ibb.co/B40rjP3/szc1.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://trn03.tulix.tv/gt-sozcu/playlist.m3u8"
       },
       {
         "name": "SÖZCÜ TV (backup)",
@@ -2994,11 +2987,11 @@
         "url": "http://185.234.111.229:8000/play/a00y"
       },
       {
-        "name": "HABER GLOBAL (backup)",
-        "logo": "https://i.ibb.co/k58p7P2/hglobal.png",
+        "name": "HABER TÜRK (backup)",
+        "logo": "https://i.ibb.co/wdwm0fn/haberturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
+        "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
       },
       {
         "name": "HABER TÜRK (backup)",
@@ -3020,6 +3013,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8"
+      },
+      {
+        "name": "HABER GLOBAL (backup)",
+        "logo": "https://i.ibb.co/k58p7P2/hglobal.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
       },
       {
         "name": "TV 100 (backup)",
@@ -3327,14 +3327,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=RamSdRuaUGnItrzq4CALEw&e=1744852446"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=gzhZ7hNhM4SLGFtLK7vUgw&e=1744917308"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=RamSdRuaUGnItrzq4CALEw&e=1744852446"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=gzhZ7hNhM4SLGFtLK7vUgw&e=1744917308"
       },
       {
         "name": "TV8",
@@ -4646,25 +4646,25 @@
         "url": "https://livestream.zazerconer.workers.dev/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8"
       },
       {
-        "name": "SPOTIFY TURKEY • 2025 🎶",
+        "name": "SPOTIFY TURKEY • 2025 🎶🎵🎼🎹🪗",
         "logo": "https://i.ibb.co/gdbyhx2/spotify.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr25.ts"
       },
       {
-        "name": "SPOTIFY TURKEY • TRLIST 👤",
-        "logo": "https://i.ibb.co/gdbyhx2/spotify.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts"
-      },
-      {
-        "name": "SPOTIFY TURKEY • 2024 🎧",
+        "name": "SPOTIFY TURKEY • 2024 🎸🎷🎺🎻🪕",
         "logo": "https://i.ibb.co/gdbyhx2/spotify.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spb24.ts"
+      },
+      {
+        "name": "TRT MÜZİK",
+        "logo": "https://i.ibb.co/d6Zfm2P/trtmuzik21c.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
       },
       {
         "name": "KRAL - KRAL POP",
@@ -6834,14 +6834,28 @@
         "logo": "https://i.ibb.co/y6D9CPT/megagr.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8"
+        "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/megr.m3u8"
       },
       {
-        "name": "MEGA",
+        "name": "MEGA PLAY",
         "logo": "https://i.ibb.co/y6D9CPT/megagr.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/megr.m3u8"
+        "url": "https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8"
+      },
+      {
+        "name": "MEGA PLAY",
+        "logo": "https://i.ibb.co/y6D9CPT/megagr.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8"
+      },
+      {
+        "name": "MEGA NEWS",
+        "logo": "https://i.ibb.co/ynxKwfdR/meganews.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8"
       },
       {
         "name": "MEGA NEWS",
@@ -16464,11 +16478,11 @@
     ],
     "9. |TR|🇹🇷 MÜZİK": [
       {
-        "name": "TRT MÜZİK",
-        "logo": "https://i.ibb.co/d6Zfm2P/trtmuzik21c.png",
+        "name": "SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯",
+        "logo": "https://i.ibb.co/gdbyhx2/spotify.png",
         "group": "9. |TR|🇹🇷 MÜZİK",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+        "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts"
       }
     ],
     "10. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER": [

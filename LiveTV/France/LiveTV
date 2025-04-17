@@ -2334,18 +2334,6 @@
     "img": "https://i.ibb.co/tHBB7zv/icimontreal.png"
   },
   {
-    "name": "TRT HABER",
-    "type": "Uncategorized",
-    "url": "https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8",
-    "img": "https://i.ibb.co/Bt6frts/trthaber.png"
-  },
-  {
-    "name": "SÖZCÜ TV",
-    "type": "Uncategorized",
-    "url": "https://trn03.tulix.tv/gt-sozcu/playlist.m3u8",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
-  },
-  {
     "name": "SÖZCÜ TV",
     "type": "Uncategorized",
     "url": "http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8",
@@ -2355,12 +2343,6 @@
     "name": "HABER TÜRK",
     "type": "Uncategorized",
     "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
-    "img": "https://i.ibb.co/wdwm0fn/haberturk.png"
-  },
-  {
-    "name": "HABER TÜRK",
-    "type": "Uncategorized",
-    "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
     "img": "https://i.ibb.co/wdwm0fn/haberturk.png"
   },
   {
@@ -2552,8 +2534,20 @@
   {
     "name": "TRT HABER (backup)",
     "type": "Uncategorized",
+    "url": "https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8",
+    "img": "https://i.ibb.co/Bt6frts/trthaber.png"
+  },
+  {
+    "name": "TRT HABER (backup)",
+    "type": "Uncategorized",
     "url": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8",
     "img": "https://i.ibb.co/Bt6frts/trthaber.png"
+  },
+  {
+    "name": "SÖZCÜ TV (backup)",
+    "type": "Uncategorized",
+    "url": "https://trn03.tulix.tv/gt-sozcu/playlist.m3u8",
+    "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
     "name": "SÖZCÜ TV (backup)",
@@ -2562,10 +2556,10 @@
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
-    "name": "HABER GLOBAL (backup)",
+    "name": "HABER TÜRK (backup)",
     "type": "Uncategorized",
-    "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
-    "img": "https://i.ibb.co/k58p7P2/hglobal.png"
+    "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
+    "img": "https://i.ibb.co/wdwm0fn/haberturk.png"
   },
   {
     "name": "HABER TÜRK (backup)",
@@ -2584,6 +2578,12 @@
     "type": "Uncategorized",
     "url": "https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8",
     "img": "https://i.ibb.co/wdwm0fn/haberturk.png"
+  },
+  {
+    "name": "HABER GLOBAL (backup)",
+    "type": "Uncategorized",
+    "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
+    "img": "https://i.ibb.co/k58p7P2/hglobal.png"
   },
   {
     "name": "TV 100 (backup)",
@@ -2846,13 +2846,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=RamSdRuaUGnItrzq4CALEw&e=1744852446",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=gzhZ7hNhM4SLGFtLK7vUgw&e=1744917308",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=RamSdRuaUGnItrzq4CALEw&e=1744852446",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=gzhZ7hNhM4SLGFtLK7vUgw&e=1744917308",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -3978,22 +3978,22 @@
     "img": "https://i.ibb.co/F0Tsz1v/htsportr.png"
   },
   {
-    "name": "SPOTIFY TURKEY • 2025 🎶",
+    "name": "SPOTIFY TURKEY • 2025 🎶🎵🎼🎹🪗",
     "type": "Uncategorized",
     "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr25.ts",
     "img": "https://i.ibb.co/gdbyhx2/spotify.png"
   },
   {
-    "name": "SPOTIFY TURKEY • TRLIST 👤",
-    "type": "Uncategorized",
-    "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts",
-    "img": "https://i.ibb.co/gdbyhx2/spotify.png"
-  },
-  {
-    "name": "SPOTIFY TURKEY • 2024 🎧",
+    "name": "SPOTIFY TURKEY • 2024 🎸🎷🎺🎻🪕",
     "type": "Uncategorized",
     "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spb24.ts",
     "img": "https://i.ibb.co/gdbyhx2/spotify.png"
+  },
+  {
+    "name": "TRT MÜZİK",
+    "type": "Uncategorized",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "img": "https://i.ibb.co/d6Zfm2P/trtmuzik21c.png"
   },
   {
     "name": "KRAL - KRAL POP",
@@ -5852,14 +5852,26 @@
   {
     "name": "MEGA",
     "type": "Uncategorized",
+    "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/megr.m3u8",
+    "img": "https://i.ibb.co/y6D9CPT/megagr.png"
+  },
+  {
+    "name": "MEGA PLAY",
+    "type": "Uncategorized",
     "url": "https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8",
     "img": "https://i.ibb.co/y6D9CPT/megagr.png"
   },
   {
-    "name": "MEGA",
+    "name": "MEGA PLAY",
     "type": "Uncategorized",
-    "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/megr.m3u8",
+    "url": "http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8",
     "img": "https://i.ibb.co/y6D9CPT/megagr.png"
+  },
+  {
+    "name": "MEGA NEWS",
+    "type": "Uncategorized",
+    "url": "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8",
+    "img": "https://i.ibb.co/ynxKwfdR/meganews.png"
   },
   {
     "name": "MEGA NEWS",
@@ -14094,10 +14106,10 @@
     "img": "https://i.ibb.co/YjkMYbF/trtcocuk21a.png"
   },
   {
-    "name": "TRT MÜZİK",
+    "name": "SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯",
     "type": "9. |TR|🇹🇷 MÜZİK",
-    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-    "img": "https://i.ibb.co/d6Zfm2P/trtmuzik21c.png"
+    "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts",
+    "img": "https://i.ibb.co/gdbyhx2/spotify.png"
   },
   {
     "name": "TRT AVAZ",

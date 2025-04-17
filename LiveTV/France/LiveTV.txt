@@ -189,9 +189,9 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 
 Group: 9. |TR|🇹🇷 MÜZİK
-Name: TRT MÜZİK
-URL: https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-Logo: https://i.ibb.co/d6Zfm2P/trtmuzik21c.png
+Name: SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯
+URL: https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts
+Logo: https://i.ibb.co/gdbyhx2/spotify.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 
@@ -2588,16 +2588,6 @@ URL: https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 Logo: https://i.ibb.co/tHBB7zv/icimontreal.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
-Name: TRT HABER
-URL: https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
-Logo: https://i.ibb.co/Bt6frts/trthaber.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
-Name: SÖZCÜ TV
-URL: https://trn03.tulix.tv/gt-sozcu/playlist.m3u8
-Logo: https://i.ibb.co/B40rjP3/szc1.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
 Name: SÖZCÜ TV
 URL: http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
 Logo: https://i.ibb.co/B40rjP3/szc1.png
@@ -2605,11 +2595,6 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: HABER TÜRK
 URL: https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-Logo: https://i.ibb.co/wdwm0fn/haberturk.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
-Name: HABER TÜRK
-URL: https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 Logo: https://i.ibb.co/wdwm0fn/haberturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -2769,8 +2754,18 @@ Logo: https://i.ibb.co/jLd8Fcb/aa.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TRT HABER (backup)
+URL: https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
+Logo: https://i.ibb.co/Bt6frts/trthaber.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRT HABER (backup)
 URL: https://tv.ensonhaber.com/trthaber/trthaber.m3u8
 Logo: https://i.ibb.co/Bt6frts/trthaber.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: SÖZCÜ TV (backup)
+URL: https://trn03.tulix.tv/gt-sozcu/playlist.m3u8
+Logo: https://i.ibb.co/B40rjP3/szc1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: SÖZCÜ TV (backup)
@@ -2778,9 +2773,9 @@ URL: http://185.234.111.229:8000/play/a00y
 Logo: https://i.ibb.co/B40rjP3/szc1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
-Name: HABER GLOBAL (backup)
-URL: https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-Logo: https://i.ibb.co/k58p7P2/hglobal.png
+Name: HABER TÜRK (backup)
+URL: https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+Logo: https://i.ibb.co/wdwm0fn/haberturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: HABER TÜRK (backup)
@@ -2796,6 +2791,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 Name: HABER TÜRK (backup)
 URL: https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
 Logo: https://i.ibb.co/wdwm0fn/haberturk.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: HABER GLOBAL (backup)
+URL: https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+Logo: https://i.ibb.co/k58p7P2/hglobal.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TV 100 (backup)
@@ -3014,12 +3014,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=RamSdRuaUGnItrzq4CALEw&e=1744852446
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=gzhZ7hNhM4SLGFtLK7vUgw&e=1744917308
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=RamSdRuaUGnItrzq4CALEw&e=1744852446
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=gzhZ7hNhM4SLGFtLK7vUgw&e=1744917308
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3958,19 +3958,19 @@ URL: https://livestream.zazerconer.workers.dev/channel/UCK3mI2lsk3LSo8PBUc8JTSw.
 Logo: https://i.ibb.co/F0Tsz1v/htsportr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
-Name: SPOTIFY TURKEY • 2025 🎶
+Name: SPOTIFY TURKEY • 2025 🎶🎵🎼🎹🪗
 URL: https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr25.ts
 Logo: https://i.ibb.co/gdbyhx2/spotify.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
-Name: SPOTIFY TURKEY • TRLIST 👤
-URL: https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts
+Name: SPOTIFY TURKEY • 2024 🎸🎷🎺🎻🪕
+URL: https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spb24.ts
 Logo: https://i.ibb.co/gdbyhx2/spotify.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
-Name: SPOTIFY TURKEY • 2024 🎧
-URL: https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spb24.ts
-Logo: https://i.ibb.co/gdbyhx2/spotify.png
+Name: TRT MÜZİK
+URL: https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+Logo: https://i.ibb.co/d6Zfm2P/trtmuzik21c.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: KRAL - KRAL POP
@@ -5519,13 +5519,23 @@ Logo: https://i.ibb.co/y6D9CPT/megagr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: MEGA
+URL: https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/megr.m3u8
+Logo: https://i.ibb.co/y6D9CPT/megagr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: MEGA PLAY
 URL: https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 Logo: https://i.ibb.co/y6D9CPT/megagr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
-Name: MEGA
-URL: https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/megr.m3u8
+Name: MEGA PLAY
+URL: http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
 Logo: https://i.ibb.co/y6D9CPT/megagr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: MEGA NEWS
+URL: https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
+Logo: https://i.ibb.co/ynxKwfdR/meganews.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: MEGA NEWS
