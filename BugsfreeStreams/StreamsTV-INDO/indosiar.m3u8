@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,RESOLUTION=480p
-https://streaming.indihometv.com/atm/DASH/indosiar/480p.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=720p
-https://streaming.indihometv.com/atm/DASH/indosiar/720p.m3u8

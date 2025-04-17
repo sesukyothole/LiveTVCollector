@@ -11,8 +11,6 @@ https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Bu
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-INDO/transtv_dt.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/net.png" group-title="INDONESIA",NET
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-INDO/net.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="INDONESIA",INDOSIAR
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-INDO/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="INDONESIA",SCTV
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-INDO/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rtv.png" group-title="INDONESIA",RTV (DNS)
