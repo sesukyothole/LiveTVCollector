@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDg6ODo1NiBBTSZoYXNoX3ZhbHVlPWx4K3Z0MkJ3ZFhNaE1IamZZL3lVMXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00YTg0ZWZkMC00YTI1LTQ4ZmQtYmY5My1mOTRlZmNkYWY0NDU=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDQ6NzozNSBQTSZoYXNoX3ZhbHVlPSs1MW1qaG1MMWRsd28xM09OYTlZY0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iNWEyYjI1YS1jOWEyLTQ1ZmEtYTY0Yi0xNjBkNGQ3Nzg5MjI=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDg6ODo1NyBBTSZoYXNoX3ZhbHVlPU1oY29ZNDN6Qi9YZW1zS0tzcmFOcGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01YmJkNGZmMi1hZTkzLTQ2YjgtOWM3Yy0zZGI5YzJlNjY1Y2U=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDQ6NzozNSBQTSZoYXNoX3ZhbHVlPU83S0I5QWxZMGxVT1k0L0toM1hKVGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kM2M0YWY0OC0zZGYwLTRhODAtYTlhNC00MWQzNmNiYmI4MzU=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDg6ODo1OCBBTSZoYXNoX3ZhbHVlPUV6LzgzRjk0SzZlNlp2eFdpNDdYVGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iOTgwNzQ0Zi05OTQ4LTRiMGEtYWUwZS04ZjQ3NmI1NWYwMzY=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDQ6NzozNiBQTSZoYXNoX3ZhbHVlPWZpbDZISnhNVVVzS3AvcEpmVmFicHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NDUzY2M3MC1iMTU0LTQzYjYtYTVmMi00YzQxY2M3NGJhZjc=/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -5666,13 +5666,13 @@
   {
     "name": "TVI Internacionalᶠᴴᴰ 🇵🇹",
     "type": "🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDQ6NDE6NCBBTSZoYXNoX3ZhbHVlPVBZakUxYkpwYkYxVVpkYjJzQjZYc2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00MjY0NTJlZi1iMzk2LTQ0NTQtOGRhNS03Y2M1ZDY5N2FiMTg=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDEyOjU5OjQ2IFBNJmhhc2hfdmFsdWU9ZG82TlFSVk52QmZuNmVKNGUxUkZsZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUzYTMxNDAzLTY3N2EtNDc3MS1iZjhlLTI5ZDZjNzQ3NTQ3Ng==/",
     "img": "https://logo.iptveditor.com/tviinternacional.png"
   },
   {
     "name": "TVI 🇵🇹",
     "type": "🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDQ6NDE6MyBBTSZoYXNoX3ZhbHVlPU9GcVNFdU1NaThzVWpYS1grQ1dJZnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yZDYzMmNiMi1jOTI2LTQ2MzQtYTI5MS1kODA4MDk0NzRhOWI=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDEyOjU5OjQ1IFBNJmhhc2hfdmFsdWU9bTZFaFhGdEYva2FEWVVoRzhvbEJUZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU4OGQ3MzhjLWUxOWUtNDgxNS05Mjc4LWYzMjYwZmZjZDhjMw==/",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp"
   },
   {
@@ -5726,7 +5726,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "🌈🆁™ News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDQ6NDE6MyBBTSZoYXNoX3ZhbHVlPUZCa1BTN3UveWRjMFc1aXQzcitCS0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wMTkyM2JkYy03YzFhLTQyYTktYjMyNC0yMTE0N2FiYjA3ZmE=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDEyOjU5OjQ1IFBNJmhhc2hfdmFsdWU9cG8wZk1FUXdOdmtrQzdqM2xSdVFlUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWYzNWMzMDM2LWM5NzAtNGMwYS1hY2VmLTg4NTVmMmZhNjA1MQ==/",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp"
   },
   {
