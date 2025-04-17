@@ -222,7 +222,7 @@ Logo: https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: ATN Bangla
-URL: https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722.m3u8
+URL: http://38.96.178.201/live/ATNBangla/index.m3u8
 Logo: https://s6.gifyu.com/images/image27cfa7002786c232.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -274,11 +274,6 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 Name: Channel 9
 URL: http://kst.moonplex.net:8080/CH6/tracks-v1a1/mono.m3u8
 Logo: https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: NAGORIK TV HD
-URL: http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
-Logo: https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Desh TV
@@ -452,11 +447,6 @@ Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3
 --------------------------------------------------
 
 Group: Bangladesh
-Name: ATN BANGLA
-URL: http://38.96.178.201/live/ATNBangla/index.m3u8
-Logo: https://i.postimg.cc/NFq4kvY7/BTV-World.jpg
-Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
---------------------------------------------------
 Name: SOMOY HD
 URL: https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 Logo: https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg
@@ -536,11 +526,6 @@ Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/head
 Name: In the Kitchen
 URL: https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/medhigh.m3u8
 Logo: https://images.squarespace-cdn.com/content/v1/58d4460d725e25f7c643e3b3/e60edc64-fff2-4cd1-91d2-75691681cc2d/TheKitchen_Logo.png
-Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
---------------------------------------------------
-Name: LOVE NATURE
-URL: https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-Logo: https://i.postimg.cc/MZR248Yw/20240823_024104.png
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
 Name: LOVE NATURE 4K
@@ -646,7 +631,7 @@ Logo: https://photos.prnewswire.com/prnfull/20150515/10122924
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Love nature
-URL: http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+URL: https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2028,16 +2013,6 @@ URL: https://cdn.hoichoi24.com/LIVE/video.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
-Name: GAZI TV
-URL: http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
-Logo: https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: GAZI TV-2
-URL: http://172.16.88.30:18190/starsports1/tracks-v1a1/mono.m3u8
-Logo: https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
 Name: Star Sports 1
 URL: https://www.tbn24.com/api/video/4028_0.m3u8
 Logo: https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg
@@ -2119,7 +2094,7 @@ Logo: https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: PTV Sports
-URL: http://172.16.88.40:18190/ptvsports/tracks-v1a1/mono.m3u8
+URL: http://xtv.ooo:8080/danyear12/am809100/167567
 Logo: https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2134,7 +2109,7 @@ Logo: https://iconape.com/wp-content/files/da/323865/png/323865.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Ten Sports Cricket
-URL: http://172.16.88.40:18190/tencricket/tracks-v1a1/mono.m3u8
+URL: http://xtv.ooo:8080/danyear12/am809100/167587
 Logo: https://iconape.com/wp-content/files/da/323865/png/323865.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2213,33 +2188,23 @@ URL: http://xtv.ooo:8080/danyear12/am809100/238480
 Logo: https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
-Name: beiN Sport 1 English
-URL: http://103.122.74.6:8888/hls/SONY.SPORTS.1HD.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: beiN Sport 2 English
-URL: http://103.122.74.6:8888/hls/BEINSPORTS.2.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: beiN Sport 3 English
-URL: http://103.122.74.6:8888/hls/BEIN.SPORT.3.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
 Name: BeIN Sports 1
-URL: http://xtv.ooo:8080/live/danyear12/am809100/381330.ts
+URL: http://xtv.ooo:8080/danyear12/am809100/381330
 Logo: https://static.epg.best/qa/beINSports1.qa.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: BeIN Sports 2
+URL: http://xtv.ooo:8080/danyear12/am809100/381331
+Logo: https://static.epg.best/qa/beINSports2.qa.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: BeIN Sports 3
-URL: http://xtv.ooo:8080/live/danyear12/am809100/381332.ts
+URL: http://xtv.ooo:8080/danyear12/am809100/381332
 Logo: https://static.epg.best/qa/beINSports3.qa.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: BeIN Sports 4
-URL: http://xtv.ooo:8080/live/danyear12/am809100/381335.ts
+URL: http://xtv.ooo:8080/danyear12/am809100/381335
 Logo: https://static.epg.best/qa/beINSports4.qa.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2367,41 +2332,6 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: 3
 URL: http://172.16.29.34/ontest1/ontest1/446
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: 4
-URL: http://172.16.29.34/ontest1/ontest1/294
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: 5
-URL: http://172.16.29.34/ontest1/ontest1/312
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: 6
-URL: http://172.16.29.34/ontest1/ontest1/395
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: 7
-URL: http://172.16.29.34/ontest1/ontest1/323
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: 8
-URL: http://172.16.29.34/ontest1/ontest1/387
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: 9
-URL: http://172.16.29.34/ontest1/ontest1/181
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: 10
-URL: http://172.16.29.34/ontest1/ontest1/233
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -3261,8 +3191,18 @@ URL: http://xtv.ooo:8080/danyear12/am809100/220060
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Ten Sports Cricket
-URL: http://xtv.ooo:8080/danyear12/am809100/167587
+Name: BeIN Sports 1
+URL: http://xtv.ooo:8080/live/danyear12/am809100/381330.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BeIN Sports 3
+URL: http://xtv.ooo:8080/live/danyear12/am809100/381332.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BeIN Sports 4
+URL: http://xtv.ooo:8080/live/danyear12/am809100/381335.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
