@@ -4298,7 +4298,7 @@
   {
     "name": "Bloomberg TV Asia",
     "type": "TV Berita Internasional",
-    "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/Bloomberg/sa_dash/Bloomberg.mpd",
+    "url": "https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8",
     "img": "https://www.mncvision.id/userfiles/image/channel/bloomberg.png"
   },
   {
