@@ -12680,7 +12680,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BET Soul
-URL: http://fortv.cc:8080/0n8u9R/169324/21844
+URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131328
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -12810,7 +12810,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount Network
-URL: http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131323
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
