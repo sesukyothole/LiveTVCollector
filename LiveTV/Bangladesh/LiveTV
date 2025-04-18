@@ -276,6 +276,12 @@
     "img": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg"
   },
   {
+    "name": "COLORS BANGLA CINEMA",
+    "type": "BANGLA",
+    "url": "http://38.96.178.201/live/AkashAath/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s"
+  },
+  {
     "name": "Al Jazeera",
     "type": "English News",
     "url": "https://live-hls-web-aje.getaj.net/AJE/02.m3u8",
@@ -358,12 +364,6 @@
     "type": "Kids",
     "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
     "img": "https://i.postimg.cc/zBCLNtGZ/Duronto.jpg"
-  },
-  {
-    "name": "DISCOVERO KIDS",
-    "type": "Kids",
-    "url": "https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd",
-    "img": "https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg"
   },
   {
     "name": "Nick Jr India (1080p)",
@@ -1228,12 +1228,6 @@
     "type": "Movie",
     "url": "https://jett3.routemachine.site/v3-hls-playback/3c1c0df05716cf6369e4c329982e0bfc8f7b14eb97d02269479ed7c814a9b3dca11a6382abffa47285775ff23e1526a084a632d9b9ea604cb092a1a1e289c5b311aaf5eafdaecbcd0dd110f6ccbc063e49b21fd9579dba5df859c26d6670b8e00b9f527ebf297e73c45e2facca180db10a3ca32ecc1a240668d99c213b92831678a3b1c21d708344efc77e67db12c2f12ba1cf938b4f786aa7e73a560aeb372d77ee67c34daf3fda5d2f203d02ad47b292f5a1c30a0ca9865084a51d54f7f20b/1080/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ZEE ACTION",
-    "type": "Movie",
-    "url": "https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8",
-    "img": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png"
   },
   {
     "name": "&PICTURES HD",
@@ -3048,6 +3042,30 @@
     "img": "https://kriratv.stream/images/channel/starselect1.png"
   },
   {
+    "name": "STAR SPORTS 1 HD",
+    "type": "Sports",
+    "url": "https://raw.githubusercontent.com/rahul979854/Channels/refs/heads/main/StarSport1Hd.m3u8",
+    "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png"
+  },
+  {
+    "name": "STAR SPORTS 2 HD",
+    "type": "Sports",
+    "url": "https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8",
+    "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png"
+  },
+  {
+    "name": "STAR SPORTS 1 HD",
+    "type": "Sports",
+    "url": "https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8",
+    "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png"
+  },
+  {
+    "name": "STAR SPORTS 2 HD",
+    "type": "Sports",
+    "url": "https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8",
+    "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png"
+  },
+  {
     "name": "SONY 1 HD",
     "type": "Sports",
     "url": "https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8",
@@ -3174,28 +3192,10 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"
   },
   {
-    "name": "BANGLA TV",
-    "type": "Bangla",
-    "url": "http://38.96.178.201/live/BanglaTV/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"
-  },
-  {
-    "name": "GLOBAL TV",
-    "type": "Bangla",
-    "url": "http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/436",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"
-  },
-  {
     "name": "NEXUS TV HD",
     "type": "Bangla",
     "url": "http://38.96.178.201/live/NexusTV/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"
-  },
-  {
-    "name": "CHANNELl S HD",
-    "type": "Bangla",
-    "url": "http://38.96.178.201/live/ChannelS/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"
   },
   {
     "name": "Amazing Discoveries TV",
@@ -3668,7 +3668,7 @@
   {
     "name": "ANIMAL PLANET HD",
     "type": "Information",
-    "url": "http://isp.top10bhaluka.com/tv/stream.m3u8?id=ZEE-BANGLA-CINEMA",
+    "url": "https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
   },
   {
@@ -3730,6 +3730,12 @@
     "type": "KIDS",
     "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"
+  },
+  {
+    "name": "DISCOVERY KIDS",
+    "type": "KIDS",
+    "url": "https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"
   },
   {
     "name": "ICC+",
@@ -3978,22 +3984,34 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "SOMOY HD",
-    "type": "Bangladesh",
+    "name": "SOMOY TV",
+    "type": "News",
     "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8",
-    "img": "https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg"
+    "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png"
+  },
+  {
+    "name": "JAMUNA HD",
+    "type": "News",
+    "url": "http://38.96.178.201/live/JamunaTV/index.m3u8",
+    "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png"
+  },
+  {
+    "name": "Jamuna TV (720p) [Geo-blocked]",
+    "type": "News",
+    "url": "http://113.212.111.246:8080/hls/col12.m3u8",
+    "img": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png"
+  },
+  {
+    "name": "Probashi TV News (720p)",
+    "type": "News",
+    "url": "http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8",
+    "img": "https://i.imgur.com/7oTsfQ4.png"
   },
   {
     "name": "INDEPNDENT HD",
     "type": "Bangladesh",
     "url": "http://38.96.178.201/live/Independent/index.m3u8",
     "img": "https://i.postimg.cc/VLrcGjj7/Independent.jpg"
-  },
-  {
-    "name": "JAMUNA HD",
-    "type": "Bangladesh",
-    "url": "http://38.96.178.201/live/JamunaTV/index.m3u8",
-    "img": "https://i.postimg.cc/63K8YKmD/Jamuna-TV.jpg"
   },
   {
     "name": "CHANNEL I",
@@ -4018,6 +4036,12 @@
     "type": "Bangla News",
     "url": "https://www.tbn24.com/api/video/4043_0.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png"
+  },
+  {
+    "name": "S TV",
+    "type": "বাংলাদেশ",
+    "url": "http://38.96.178.201/live/ChannelS/index.m3u8",
+    "img": "https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true"
   },
   {
     "name": "ZEE 24",
@@ -4056,12 +4080,6 @@
     "img": "https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg"
   },
   {
-    "name": "COLORS BANGLA CINEMA",
-    "type": "Kolkata Bangla Movies",
-    "url": "http://38.96.178.201/live/AkashAath/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"
-  },
-  {
     "name": "SONY MAX HD",
     "type": "Hindi Movies",
     "url": "https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8",
@@ -4078,6 +4096,24 @@
     "type": "India",
     "url": "https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8",
     "img": "https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg"
+  },
+  {
+    "name": "STAR GOLD HD",
+    "type": "मनोरंजन",
+    "url": "https://www.tbn24.com/api/video/4029_0.m3u8",
+    "img": "https://static.epg.best/in/StarGold.in.png"
+  },
+  {
+    "name": "STAR BHARAT HD",
+    "type": "मनोरंजन",
+    "url": "https://www.tbn24.com/api/video/4032_0.m3u8",
+    "img": "https://static.epg.best/in/StarBharat.in.png"
+  },
+  {
+    "name": "STAR PLUS HD",
+    "type": "मनोरंजन",
+    "url": "https://www.tbn24.com/api/video/4039_0.m3u8",
+    "img": "https://static.epg.best/in/StarPlus.in.png"
   },
   {
     "name": "AL SUNNAH TV",
@@ -4132,18 +4168,6 @@
     "type": "Business",
     "url": "https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8",
     "img": "https://i.imgur.com/Mn8Rsup.png"
-  },
-  {
-    "name": "Jamuna TV (720p) [Geo-blocked]",
-    "type": "News",
-    "url": "http://113.212.111.246:8080/hls/col12.m3u8",
-    "img": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png"
-  },
-  {
-    "name": "Probashi TV News (720p)",
-    "type": "News",
-    "url": "http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8",
-    "img": "https://i.imgur.com/7oTsfQ4.png"
   },
   {
     "name": "Madani Channel Bangla (1080p)",
