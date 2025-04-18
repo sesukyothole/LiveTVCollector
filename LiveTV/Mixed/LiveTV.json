@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-18 13:47:32",
+  "date": "2025-04-18 21:46:01",
   "channels": {
     "STREAMING": [
       {
@@ -24,42 +24,35 @@
         "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
       },
       {
-        "name": "POGO (IND)",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfId_T0V4HAriyHUZVbBbAw-RUkxp8n8e29dSpRjor74SBmLFTj0dojE9LQUgLOp7vCV-6Z2p54NTBfPkzr-W5M4V0fez-skjcadNSeLwyIk07x8OLadEc6jY_c3LwyFNZr3e7IdyEcFEUj531ft_1zvPRfCtEcQGFlgoYnGl-ry5GAFU7QcedD88lRRk/s320/Picsart_24-01-28_11-22-30-626.jpg",
-        "group": "STREAMING",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-pogo-samsungin/playlist.m3u8"
-      },
-      {
-        "name": "NAT GEO WILD (USA)",
-        "logo": " ",
-        "group": "STREAMING",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
-      },
-      {
-        "name": "NAT GEO (USA)",
-        "logo": " ",
-        "group": "STREAMING",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://fl2.moveonjoy.com/National_Geographic/index.m3u8"
-      },
-      {
         "name": "DANGAL (IND)",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimriUVOPAIp6TeNZ9-1JDs6RD38FxnVxia28ziPn3JIhvwcMILRjtKEPgBuaIsi8bfEN1_u_UZgM9iB0dx-Z72foq5SJQ_nPUnoiJeLf_eKpH9ddUd_7nbDreSIkIFI3BPaKmerWu3mTt9KabzbMi758qk9fJMl_6pBLzElqKe7Gp3i_4ZgS0OuD7VQ80/s320/1000065702.jpg",
         "group": "STREAMING",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
+      },
+      {
+        "name": "ZEE TV (IL)",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg",
+        "group": "STREAMING",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://ott.premium-tv.org:8789/wonton57/874893/332295"
+      },
+      {
+        "name": "NAT GEO WILD (NL)",
+        "logo": " ",
+        "group": "STREAMING",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/38143"
+      },
+      {
+        "name": "FOOD FOOD (USA)",
+        "logo": " ",
+        "group": "STREAMING",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://tvmate.icu:8080/vNay0H/219352/125807"
       }
     ],
     "ADULT TV": [
-      {
-        "name": "PASSION XXX (EU)",
-        "logo": " ",
-        "group": "ADULT TV",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8"
-      },
       {
         "name": "SEX TREME (USA)",
         "logo": " ",
@@ -117,13 +110,6 @@
         "group": "AP TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://ahostingportal.com:2095/3875147095/3458182665/3016"
-      },
-      {
-        "name": "GEO (UK)",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFsDHaLJUplpD0YAqWt0u_PWDoUAArwEV1FFWm2Hmu3lP9FBK3GVlEUrX4GGdxzVoycNjygWg6Kdv7TouovKYQlKqoLuxp_q7zoLvV6EX8q9aTL9veL6B6oZnX_uECg2K-EGymnvfWkc0y-9Ys7wP7rKaIXACWbPXjhbhN8gosxbGRQXu_KPMG37szPQ0/s320/Picsart_24-10-13_11-29-45-353.jpg",
-        "group": "AP TV",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://ahostingportal.com:2095/3875147095/3458182665/2896"
       },
       {
         "name": "HUM (UK)",
@@ -224,47 +210,6 @@
         "url": "http://ahostingportal.com:2095/3875147095/3458182665/3017"
       }
     ],
-    "OTT TV": [
-      {
-        "name": "ZEE TV (IL)",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg",
-        "group": "OTT TV",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://ott.premium-tv.org:8789/wonton57/874893/332295"
-      },
-      {
-        "name": "NAT GEO WILD (SE)",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYrFWZAx45sssgGEsNLi8PNfOnr6lv8pE2Ax_7nAOkI11Viexx8_U7OCO1TUo4_AEVY4fLM3JV4xOf2M9DrsE_TkrcH8GV5gwWBDyX0E_Y1S-WuSafrgDAlVK6aCLE56x6Of9fRJJCgu1tZk2F1o7WuxBLy-wy2jEjp1XRR2JGdPWNJRWNoEpQR8cdfA/s1080/1000065708.jpg",
-        "group": "OTT TV",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://ott.premium-tv.org:80/wonton57/874893/283717"
-      }
-    ],
-    "TV MATE": [
-      {
-        "name": "TV ASIA (USA)",
-        "logo": " ",
-        "group": "TV MATE",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/125819"
-      },
-      {
-        "name": "FOOD FOOD (USA)",
-        "logo": " ",
-        "group": "TV MATE",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://tvmate.icu:8080/vNay0H/219352/125807"
-      }
-    ],
-    "DDNS NET": [
-      {
-        "name": "NAT GEO WILD (NL)",
-        "logo": " ",
-        "group": "DDNS NET",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/38143"
-      }
-    ],
     "VIP": [
       {
         "name": "GALAXY (ML)",
@@ -286,6 +231,20 @@
         "group": "VIP",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2687.ts"
+      },
+      {
+        "name": "GALAXY  PRIMIUM (ML)",
+        "logo": " ",
+        "group": "VIP",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts"
+      },
+      {
+        "name": "SONY PIX HD (IND)",
+        "logo": " ",
+        "group": "VIP",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2688.ts"
       }
     ],
     "film": [
@@ -776,7 +735,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiN2Q2NGEyNTktOGU0Ny00OWZiLTg0ODMtMzcyNTBlMzEyNDU1IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiODRlYTdlMDYtNmFkNS00NTVlLTk0NWQtNzc2ZTNlZDJiYTM0IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -811,7 +770,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNGZlM2JmOTctMDYzMi00NGM2LWJkYTMtYTBiZGI1MGM5ZGU1IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYjFkZTY0Y2YtMTg1MC00MDJkLWE3ZjYtZjAxMjI0OTZhOWU5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -1962,7 +1921,7 @@
         "logo": "https://directostv.teleame.com/wp-content/uploads/2020/10/TVR-Canal-11-Curico-en-vivo-Online-696x392.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://cloudpro.servidoresdestream.com:8081/8006/tracks-v1a1/mono.m3u8"
+        "url": "https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8"
       },
       {
         "name": "CANAL 24 HORAS HD",
@@ -2036,7 +1995,7 @@
       },
       {
         "name": "TVMAS 2",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/320?cb=20211128231238&path-prefix=e",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/TV_MAS_2.png ",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "https://marine2.miplay.cl/tateti/tracks-v1a1/mono.m3u8"
