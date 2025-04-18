@@ -12763,6 +12763,11 @@ URL: https://jmp2.uk/sam-ESBC4700001GR.m3u8
 Logo: https://i.imgur.com/gRFQ35W.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: Nickelodeon
+URL: http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: TRT Cocuk (1080p)
 URL: http://185.234.111.229:8000/play/a00b
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png

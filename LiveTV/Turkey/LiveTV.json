@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-17 21:43:11",
+  "date": "2025-04-18 06:21:15",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -37096,6 +37096,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://jmp2.uk/sam-ESBC4700001GR.m3u8"
+      },
+      {
+        "name": "Nickelodeon",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
       },
       {
         "name": "TRT Cocuk (1080p)",

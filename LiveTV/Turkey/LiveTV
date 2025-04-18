@@ -31626,6 +31626,12 @@
     "img": "https://i.imgur.com/gRFQ35W.png"
   },
   {
+    "name": "Nickelodeon",
+    "type": "Kids",
+    "url": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png"
+  },
+  {
     "name": "TRT Cocuk (1080p)",
     "type": "Kids",
     "url": "http://185.234.111.229:8000/play/a00b",
