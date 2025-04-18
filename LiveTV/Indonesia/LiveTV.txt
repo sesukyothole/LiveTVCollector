@@ -3906,6 +3906,31 @@ URL: https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
+Name: HBO
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+Logo: https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: HBO Hits
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+Logo: https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOhits.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: HBO Family
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+Logo: https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOFam.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: HBO Signature
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+Logo: https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOsig.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Cinemax
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
 Name: FLIK
 URL: http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNpFz93R9j5x0A1BzdwNM7w1aRjZawF5iHH-kSHgFZdeXF1L0nSkU5qPHbC2W4DX7L8ZeKODNVsYCNIT-jolR4LQA5y6YquJm1lW9h8FnNjgGTVvk9rDE2s_LjmW9wL3T-OboK6aRJ2Oo/s479-Ic42/Flik%252520TV.png

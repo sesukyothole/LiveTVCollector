@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-18 13:44:34",
+  "date": "2025-04-18 21:43:17",
   "channels": {
     "INDONESIA": [
       {
@@ -1011,6 +1011,41 @@
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8"
+      },
+      {
+        "name": "HBO",
+        "logo": "https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd"
+      },
+      {
+        "name": "HBO Hits",
+        "logo": "https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOhits.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd"
+      },
+      {
+        "name": "HBO Family",
+        "logo": "https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOFam.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd"
+      },
+      {
+        "name": "HBO Signature",
+        "logo": "https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOsig.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd"
+      },
+      {
+        "name": "Cinemax",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
       },
       {
         "name": "FLIK",

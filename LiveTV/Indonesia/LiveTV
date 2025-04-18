@@ -864,6 +864,36 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png"
   },
   {
+    "name": "HBO",
+    "type": "Movies",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd",
+    "img": "https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png"
+  },
+  {
+    "name": "HBO Hits",
+    "type": "Movies",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd",
+    "img": "https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOhits.png"
+  },
+  {
+    "name": "HBO Family",
+    "type": "Movies",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd",
+    "img": "https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOFam.png"
+  },
+  {
+    "name": "HBO Signature",
+    "type": "Movies",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd",
+    "img": "https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOsig.png"
+  },
+  {
+    "name": "Cinemax",
+    "type": "Movies",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
+  },
+  {
     "name": "FLIK",
     "type": "Movies",
     "url": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095",
