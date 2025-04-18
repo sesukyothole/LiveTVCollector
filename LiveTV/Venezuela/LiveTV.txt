@@ -9,8 +9,8 @@ URL: https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65
 Logo: https://cdn.energeek.cl/logos/Marca-512.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
-Name: Fanpop TV
-URL: https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+Name: EnerGeek FAN (1080p)
+URL: https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF
 Logo: https://cdn.energeek.cl/logos/Fanpop-512.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
