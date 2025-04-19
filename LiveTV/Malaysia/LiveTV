@@ -14,7 +14,7 @@
   {
     "name": "TV3",
     "type": "siaranMy",
-    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+    "url": "https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
     "img": "https://mifntechnology.github.io/siaranMy/logo/Tv3.png"
   },
   {
@@ -32,19 +32,19 @@
   {
     "name": "DidikTv KPM",
     "type": "siaranMy",
-    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846",
+    "url": "https://live-ssar-01.tonton.com.my/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846",
     "img": "https://mifntechnology.github.io/siaranMy/logo/DidikTv.png"
   },
   {
     "name": "8TV",
     "type": "siaranMy",
-    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5",
+    "url": "https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5",
     "img": "https://mifntechnology.github.io/siaranMy/logo/8tv.png"
   },
   {
     "name": "TV9",
     "type": "siaranMy",
-    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5",
+    "url": "https://live-ssar-01.tonton.com.my/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5",
     "img": "https://mifntechnology.github.io/siaranMy/logo/Tv9.png"
   },
   {
@@ -226,6 +226,12 @@
     "type": "Malaysia",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
     "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png"
+  },
+  {
+    "name": "103 TV3",
+    "type": "Malaysia",
+    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+    "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png"
   },
   {
     "name": "103 TV3 SEMENTARA",

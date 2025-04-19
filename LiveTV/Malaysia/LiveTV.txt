@@ -6209,6 +6209,11 @@ URL: https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 103 TV3
+URL: https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 103 TV3 SEMENTARA
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png
@@ -8741,7 +8746,7 @@ Logo: https://mifntechnology.github.io/siaranMy/logo/Tv2.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: TV3
-URL: https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+URL: https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 Logo: https://mifntechnology.github.io/siaranMy/logo/Tv3.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
@@ -8756,17 +8761,17 @@ Logo: https://mifntechnology.github.io/siaranMy/logo/Tv6.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: DidikTv KPM
-URL: https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846
+URL: https://live-ssar-01.tonton.com.my/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846
 Logo: https://mifntechnology.github.io/siaranMy/logo/DidikTv.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: 8TV
-URL: https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+URL: https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
 Logo: https://mifntechnology.github.io/siaranMy/logo/8tv.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: TV9
-URL: https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+URL: https://live-ssar-01.tonton.com.my/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
 Logo: https://mifntechnology.github.io/siaranMy/logo/Tv9.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------

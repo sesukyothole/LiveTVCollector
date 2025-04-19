@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-18 21:41:17",
+  "date": "2025-04-19 06:13:12",
   "channels": {
     "siaranMy": [
       {
@@ -21,7 +21,7 @@
         "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv3.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+        "url": "https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
       },
       {
         "name": "Okey Tv",
@@ -42,21 +42,21 @@
         "logo": "https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846"
+        "url": "https://live-ssar-01.tonton.com.my/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846"
       },
       {
         "name": "8TV",
         "logo": "https://mifntechnology.github.io/siaranMy/logo/8tv.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5"
+        "url": "https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5"
       },
       {
         "name": "TV9",
         "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv9.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5"
+        "url": "https://live-ssar-01.tonton.com.my/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5"
       },
       {
         "name": "BERITA RTM",
@@ -275,6 +275,13 @@
         "group": "Malaysia",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd"
+      },
+      {
+        "name": "103 TV3",
+        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",
+        "group": "Malaysia",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
       },
       {
         "name": "103 TV3 SEMENTARA",
