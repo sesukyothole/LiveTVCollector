@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-18 21:52:55",
+  "date": "2025-04-19 06:54:09",
   "channels": {
     "Music": [
       {
@@ -860,7 +860,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "http://109.233.89.166/Polsat_News_Polityka/index.m3u8"
+        "url": "http://109.233.89.170/Polsat_News_Polityka/index.m3u8"
       },
       {
         "name": "Rai News 24 (720p)",
@@ -910,6 +910,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8"
+      },
+      {
+        "name": "tv9 Telemaremma (576p)",
+        "logo": "https://i.imgur.com/3WAyf6H.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8"
       },
       {
         "name": "Zerouno TV News (720p)",
@@ -1656,11 +1663,11 @@
         "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8"
       },
       {
-        "name": "Top Movies Polska (720p)",
+        "name": "Top Movies Polska (1080i)",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://d14678b7277b4f21964f367309c8f3e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_TopMoviesPolska/playlist.m3u8"
+        "url": "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
       },
       {
         "name": "Trentino TV (720p) [Not 24/7]",
