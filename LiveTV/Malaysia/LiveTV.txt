@@ -6210,11 +6210,6 @@ Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 103 TV3
-URL: https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 103 TV3 SEMENTARA
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
@@ -8617,6 +8612,11 @@ Source: https://iptv-org.github.io/iptv/countries/my.m3u
 Name: Sukan RTM [Geo-blocked]
 URL: https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 Logo: https://i.imgur.com/1pYYSu2.png
+Source: https://iptv-org.github.io/iptv/countries/my.m3u
+--------------------------------------------------
+Name: TV3
+URL: https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+Logo: https://i.imgur.com/bHcZgIo.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
 Name: TV5 Monde Asia (Asie) (1080p) [Geo-blocked]

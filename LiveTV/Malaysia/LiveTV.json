@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-19 06:13:12",
+  "date": "2025-04-19 13:41:04",
   "channels": {
     "siaranMy": [
       {
@@ -278,13 +278,6 @@
       },
       {
         "name": "103 TV3",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",
-        "group": "Malaysia",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
-      },
-      {
-        "name": "103 TV3 SEMENTARA",
         "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",
         "group": "Malaysia",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
@@ -12259,6 +12252,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd"
+      },
+      {
+        "name": "TV3",
+        "logo": "https://i.imgur.com/bHcZgIo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
+        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
       },
       {
         "name": "TV5 Monde Asia (Asie) (1080p) [Geo-blocked]",

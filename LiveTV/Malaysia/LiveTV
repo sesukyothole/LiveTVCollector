@@ -230,12 +230,6 @@
   {
     "name": "103 TV3",
     "type": "Malaysia",
-    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
-    "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png"
-  },
-  {
-    "name": "103 TV3 SEMENTARA",
-    "type": "Malaysia",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd",
     "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png"
   },
@@ -10462,6 +10456,12 @@
     "type": "Undefined",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
     "img": "https://i.imgur.com/1pYYSu2.png"
+  },
+  {
+    "name": "TV3",
+    "type": "Undefined",
+    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+    "img": "https://i.imgur.com/bHcZgIo.png"
   },
   {
     "name": "TV5 Monde Asia (Asie) (1080p) [Geo-blocked]",
