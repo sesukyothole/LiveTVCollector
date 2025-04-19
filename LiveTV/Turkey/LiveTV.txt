@@ -13022,7 +13022,7 @@ Logo: https://i.imgur.com/thvk3Py.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Polsat News Polityka (1080p)
-URL: http://109.233.89.166/Polsat_News_Polityka/index.m3u8
+URL: http://109.233.89.170/Polsat_News_Polityka/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
