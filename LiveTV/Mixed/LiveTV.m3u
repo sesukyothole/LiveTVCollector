@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKfEKf83Qf4_VcOeZw906UlkbvP1WEzgHtt57bIC8kX7S6DbBXi6NCSzI5QOvL-YQ8XGrXlTf8ptJ0Oarq4JxyHc4zMaCUwo102-bRV15vDTiECvELzZzxjRfIZBaSDvmd9usgm8KIaXJ7VV8DMYE6_SJSloG-a09EU7qJMaNZ5cf7QfVyCuc-h_yAklA/s344/Picsart_23-09-13_17-05-39-801.png" group-title="STREAMING",CNA (MY)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvF7g1CyjLBVtqztGntyQPTYYaIMM4r6Eo_OGVtruq6inzavTlrr2PPjttP-hSGo_AZkLNzThd4jO2lPuRJd3Ulh95PMawNjma8tKzSzXJw9wa6lJp_pBRc2tNQ7_3ndvSG08ylp1ofdIW4OqWYIf39YKcyFRtwTjtiwcirIdP7TVS1smDyvpTrWHasWk/s320/Picsart_24-11-02_14-10-00-229.jpg" group-title="STREAMING",CNN (USA)
-http://208.86.19.13:81/20.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEY3PxWPPJXaPgL2q8110TQWLbJ0KOH2GeYvwPBNyDrAd1EmNQmSB-V5e3PQ-vcG2FtuHtBiX-WWv376GNdCKjNkR9ByGfSpn5zUmlZdDkL-_jG-64fKfhiMy1NLcXG3v1qSpsRcytTGGp_td6C4OjAXbrnOtSBKlXKUVn-TfV3S2Z9RXLY15eWIUQ_aI/s2412/Picsart_24-09-06_11-38-14-506.jpg" group-title="STREAMING",BBC NEWS (UK)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimriUVOPAIp6TeNZ9-1JDs6RD38FxnVxia28ziPn3JIhvwcMILRjtKEPgBuaIsi8bfEN1_u_UZgM9iB0dx-Z72foq5SJQ_nPUnoiJeLf_eKpH9ddUd_7nbDreSIkIFI3BPaKmerWu3mTt9KabzbMi758qk9fJMl_6pBLzElqKe7Gp3i_4ZgS0OuD7VQ80/s320/1000065702.jpg" group-title="STREAMING",DANGAL (IND)
@@ -200,7 +198,7 @@ https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakute
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="documentari",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Euronews IN DIRETTA
-https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZGMwMWM2MTYtY2Y1Zi00ZTJlLTlhMzQtZTNmYmFkMTdkZWQ2IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZjUwN2E4NDUtYjExNi00YjgxLWE4NGItNjAxNjAxZTVhODA5IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",The Reuters 60
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Revry News
@@ -210,7 +208,7 @@ https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Bloomberg Television
 https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Africanews
-https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZWFjNGM4NmItZTZjOC00MjAwLWFkYWMtYjkwMjFlZTk0ZTU2IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMWVjYmEwMDQtZjQ0My00OTVmLWIwMmYtNjE1ZjM0ODg2NzMyIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",NewsWorld
