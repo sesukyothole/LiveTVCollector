@@ -3930,27 +3930,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "NBC Sports+ (Philadelphia)",
-    "type": "Sports",
-    "url": "http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpKNO5zFFsM6RHD9hwuyyxo",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "NBC Sports (Chicago)",
     "type": "Sports",
-    "url": "http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23784",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319515",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "NBC Sports (Washington)",
     "type": "Sports",
-    "url": "http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlbtbw-34OIrF6a4YrABZvE",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "NBC Sports+ (Washington)",
-    "type": "Sports",
-    "url": "http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrmNk65TgPRg6__SofxipW0",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319518",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4232,7 +4220,7 @@
   {
     "name": "Sportsnet New York",
     "type": "Sports",
-    "url": "http://netlevel.online:8080/MARIO630/GWPRM/479287",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319545",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -14772,9 +14760,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "BET Jams",
+    "type": "Network Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319446",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "BET Soul",
     "type": "Network Channels",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131328",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319447",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -15609,6 +15603,12 @@
     "name": "MeTV Toons",
     "type": "Children Channels",
     "url": "https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ToonCast (i/e)",
+    "type": "Children Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313161",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -16458,6 +16458,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/WIPR_2015_blue.svg/1200px-WIPR_2015_blue.svg.png"
   },
   {
+    "name": "WLII-TV Univision 11 (San Juan PR)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334597",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
     "name": "WWXY-TV Ind. 19.1 (San Juan PR)",
     "type": "Latino (Spanish)",
     "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8",
@@ -16506,9 +16512,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "KMEX-TV Univision 34 (Los Angeles CA)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334533",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
     "name": "KVEA-TV Telemundo 52 (Corona/Los Angeles CA)",
     "type": "Latino (Spanish)",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131151",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334580",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
   },
   {
@@ -16526,32 +16538,68 @@
   {
     "name": "WFTY-DT UniMás 67 (New York NY)",
     "type": "Latino (Spanish)",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/148794",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334570",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png"
   },
   {
     "name": "WLTV-TV Univision 23 (Miami FL)",
     "type": "Latino (Spanish)",
-    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108248",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334528",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
   },
   {
     "name": "WSCV-TV Telemundo 51 (Miami FL)",
     "type": "Latino (Spanish)",
-    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/56410",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334579",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
   },
   {
     "name": "WSNS-TV Telemundo 44 (Chicago IL)",
     "type": "Latino (Spanish)",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131344",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334582",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
+  },
+  {
+    "name": "WBGO-TV Univision 66 (Chicago IL)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312974",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
+    "name": "WQHS-DT UniMás 61.2 (Cleveland OH)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334563",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png"
   },
   {
     "name": "WNEU-TV Telemundo 60 (Boston MA)",
     "type": "Latino (Spanish)",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131146",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334595",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
+  },
+  {
+    "name": "WFPA-DT UniMás 28 (Philadelphia PA)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334560",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png"
+  },
+  {
+    "name": "WUVP-TV Univision 65 (Philadelphia PA)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334521",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
+    "name": "WZDC-CD Telemundo 44 (Washington DC)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334584",
+    "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
+  },
+  {
+    "name": "KELV-DT UniMás 27 (Las Vegas NV)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334566",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png"
   },
   {
     "name": "KBLR-TV Telemundo 39 (Las Vegas NV)",
@@ -16560,16 +16608,94 @@
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
   },
   {
+    "name": "KNIC-TV UniMás 17 (San Antonio TX)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334557",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
+    "name": "KWEX-TV Univision 41 (San Antonio TX)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334525",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
+    "name": "KUVN-TV Univision 23 (Ft. Worth/Dallas TX)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334530",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
     "name": "KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)",
     "type": "Latino (Spanish)",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131149",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334594",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
+  },
+  {
+    "name": "KSTR-TV UniMás 49 (Ft. Worth/Dallas TX)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35114",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png"
+  },
+  {
+    "name": "KAKW-TV Univision 62 (Austin TX)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334519",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
+    "name": "KXLN-TV Univision 45 (Houston TX)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334532",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
+    "name": "KTMD-TV Telemundo 47 (Houston TX)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334592",
+    "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
+  },
+  {
+    "name": "KFTH-DT UniMás 67 (Houston TX)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334569",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png"
+  },
+  {
+    "name": "KTVW-TV Univision 33 (Phoenix AZ)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334522",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
   },
   {
     "name": "KTAZ-TV Telemundo 39 (Phoenix AZ)",
     "type": "Latino (Spanish)",
     "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131153",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
+  },
+  {
+    "name": "KUTH-TV Univision 32 (Salt Lake City UT)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334524",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
+    "name": "KCEC-TV Univision 14 (Denver CO)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334529",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
+    "name": "KDEN-TV Telemundo 25 (Denver CO)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334593",
+    "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
+  },
+  {
+    "name": "KDTV-TV Univision 14 (San Francisco CA)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334526",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
   },
   {
     "name": "KSTS-TV Telemundo 48 (San Francisco CA)",
@@ -16590,10 +16716,40 @@
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
   },
   {
+    "name": "KTFF-DT UniMás 61 (Fresno CA)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334559",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png"
+  },
+  {
+    "name": "KUVS-TV Univision 19 (Modesto/Sacramento CA)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334596",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
     "name": "WTMO-TV Telemundo 31 (Orlando FL)",
     "type": "Latino (Spanish)",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131145",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334583",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
+  },
+  {
+    "name": "WRMD-CD Telemundo 49 (Tampa FL)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334581",
+    "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
+  },
+  {
+    "name": "WUVG-TV Univision 34.1 (Atlanta GA)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334518",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
+  },
+  {
+    "name": "WUVG-TV UniMás 34.2 (Atlanta GA)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334558",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png"
   },
   {
     "name": "UniMás",
@@ -16812,21 +16968,27 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Galavisión",
+    "name": "Galavisión (West)",
     "type": "Latino (Spanish)",
-    "url": "http://fortv.cc:8080/0n8u9R/169324/58770",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334548",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Galavisión (East)",
+    "type": "Latino (Spanish)",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334541",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "NBC Universo",
     "type": "Latino (Spanish)",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149865",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319509",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Telemundo Internacional",
     "type": "Latino (Spanish)",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3024",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334576",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -16880,7 +17042,7 @@
   {
     "name": "Azteca 7",
     "type": "Latino (Spanish)",
-    "url": "http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/24167",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302683",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -18500,13 +18662,13 @@
   {
     "name": "Milenio",
     "type": "Latino (Spanish)",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130025",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302702",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "N+ FORO",
     "type": "Latino (Spanish)",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3748",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302620",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -19154,7 +19316,7 @@
   {
     "name": "Outer Max",
     "type": "Premium Channels",
-    "url": "http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34536",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -19238,7 +19400,7 @@
   {
     "name": "Starz Comedy",
     "type": "Premium Channels",
-    "url": "http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23901",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319548",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -19262,7 +19424,7 @@
   {
     "name": "Starz Encore",
     "type": "Premium Channels",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150086",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319549",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -19274,31 +19436,31 @@
   {
     "name": "Starz Encore Suspense",
     "type": "Premium Channels",
-    "url": "http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23916",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/31955423916",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Starz Encore Action",
     "type": "Premium Channels",
-    "url": "http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23919",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319550",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Starz Encore Westerns",
     "type": "Premium Channels",
-    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16263",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319555",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Starz Encore Black",
     "type": "Premium Channels",
-    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16141",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319551",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Starz Encore Family",
     "type": "Premium Channels",
-    "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150085",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319553",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -19322,7 +19484,7 @@
   {
     "name": "MoviePlex",
     "type": "Premium Channels",
-    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/1829",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34537",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -19623,6 +19785,210 @@
     "name": "Pluto TV Black Cinema",
     "type": "Premium Channels",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575bd0af-08fa-11f0-bed2-86d507b84126&userId=&serverSideAds=true",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 01",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 02",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34478",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 03",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34479",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 04",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34480",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 05",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34481",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 06",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34482",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 07",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34483",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 08",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34484",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 09",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34485",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 10",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34486",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 11",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34487",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 12",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34488",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 13",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34489",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 14",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34490",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 15",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34491",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 16",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34492",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 17",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34493",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 18",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34494",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 19",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34495",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 20",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34496",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 21",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34497",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 22",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34498",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 24",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34500",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 25",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34501",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 26",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34502",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 27",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34503",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 28",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34504",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 30",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34506",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 31",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34507",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 33",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34509",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 34",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34510",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 35",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34511",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 36",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34512",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PPV Cinema 37",
+    "type": "Premium Channels",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34513",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

@@ -3028,6 +3028,11 @@ URL: https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: ToonCast (i/e)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313161
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: Kartoon Channel
 URL: https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6526,6 +6531,11 @@ URL: http://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/WIPR_2015_blue.svg/1200px-WIPR_2015_blue.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: WLII-TV Univision 11 (San Juan PR)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334597
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: WWXY-TV Ind. 19.1 (San Juan PR)
 URL: https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6566,8 +6576,13 @@ URL: https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: KMEX-TV Univision 34 (Los Angeles CA)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334533
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131151
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334580
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -6582,28 +6597,58 @@ Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WFTY-DT UniMás 67 (New York NY)
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/148794
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334570
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WLTV-TV Univision 23 (Miami FL)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108248
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334528
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WSCV-TV Telemundo 51 (Miami FL)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/56410
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334579
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WSNS-TV Telemundo 44 (Chicago IL)
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131344
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334582
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: WBGO-TV Univision 66 (Chicago IL)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312974
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: WQHS-DT UniMás 61.2 (Cleveland OH)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334563
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: WNEU-TV Telemundo 60 (Boston MA)
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131146
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334595
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: WFPA-DT UniMás 28 (Philadelphia PA)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334560
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: WUVP-TV Univision 65 (Philadelphia PA)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334521
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: WZDC-CD Telemundo 44 (Washington DC)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334584
+Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KELV-DT UniMás 27 (Las Vegas NV)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334566
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KBLR-TV Telemundo 39 (Las Vegas NV)
@@ -6611,14 +6656,79 @@ URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131150
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: KNIC-TV UniMás 17 (San Antonio TX)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334557
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KWEX-TV Univision 41 (San Antonio TX)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334525
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KUVN-TV Univision 23 (Ft. Worth/Dallas TX)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334530
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131149
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334594
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KSTR-TV UniMás 49 (Ft. Worth/Dallas TX)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35114
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KAKW-TV Univision 62 (Austin TX)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334519
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KXLN-TV Univision 45 (Houston TX)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334532
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KTMD-TV Telemundo 47 (Houston TX)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334592
+Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KFTH-DT UniMás 67 (Houston TX)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334569
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KTVW-TV Univision 33 (Phoenix AZ)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334522
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KTAZ-TV Telemundo 39 (Phoenix AZ)
 URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131153
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KUTH-TV Univision 32 (Salt Lake City UT)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334524
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KCEC-TV Univision 14 (Denver CO)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334529
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KDEN-TV Telemundo 25 (Denver CO)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334593
+Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KDTV-TV Univision 14 (San Francisco CA)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334526
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KSTS-TV Telemundo 48 (San Francisco CA)
@@ -6636,9 +6746,34 @@ URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131347
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: KTFF-DT UniMás 61 (Fresno CA)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334559
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KUVS-TV Univision 19 (Modesto/Sacramento CA)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334596
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: WTMO-TV Telemundo 31 (Orlando FL)
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131145
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334583
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: WRMD-CD Telemundo 49 (Tampa FL)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334581
+Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: WUVG-TV Univision 34.1 (Atlanta GA)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334518
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: WUVG-TV UniMás 34.2 (Atlanta GA)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334558
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: UniMás
@@ -6821,18 +6956,23 @@ URL: https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Galavisión
-URL: http://fortv.cc:8080/0n8u9R/169324/58770
+Name: Galavisión (West)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334548
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Galavisión (East)
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334541
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: NBC Universo
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149865
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319509
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Telemundo Internacional
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3024
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334576
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -6877,7 +7017,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Azteca 7
-URL: http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/24167
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302683
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -8227,12 +8367,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Milenio
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130025
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302702
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: N+ FORO
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3748
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302620
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -12679,8 +12819,13 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: BET Jams
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319446
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: BET Soul
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131328
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319447
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -14190,7 +14335,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Outer Max
-URL: http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34536
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -14260,7 +14405,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Comedy
-URL: http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23901
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319548
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -14280,7 +14425,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150086
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319549
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -14290,27 +14435,27 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Suspense
-URL: http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23916
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/31955423916
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Action
-URL: http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23919
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319550
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Westerns
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16263
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319555
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Black
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16141
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319551
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Family
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150085
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319553
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -14330,7 +14475,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MoviePlex
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/1829
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34537
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -14581,6 +14726,176 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Pluto TV Black Cinema
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575bd0af-08fa-11f0-bed2-86d507b84126&userId=&serverSideAds=true
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 01
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 02
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34478
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 03
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34479
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 04
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34480
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 05
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34481
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 06
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34482
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 07
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34483
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 08
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34484
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 09
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34485
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 10
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34486
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 11
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34487
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 12
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34488
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 13
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34489
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 14
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34490
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 15
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34491
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 16
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34492
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 17
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34493
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 18
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34494
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 19
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34495
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 20
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34496
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 21
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34497
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 22
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34498
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 24
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34500
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 25
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34501
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 26
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34502
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 27
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34503
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 28
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34504
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 30
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34506
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 31
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34507
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 33
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34509
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 34
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34510
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 35
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34511
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 36
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34512
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: PPV Cinema 37
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34513
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -17023,23 +17338,13 @@ URL: https://v1.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: NBC Sports+ (Philadelphia)
-URL: http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpKNO5zFFsM6RHD9hwuyyxo
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: NBC Sports (Chicago)
-URL: http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23784
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319515
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: NBC Sports (Washington)
-URL: http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlbtbw-34OIrF6a4YrABZvE
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: NBC Sports+ (Washington)
-URL: http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrmNk65TgPRg6__SofxipW0
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319518
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -17274,7 +17579,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sportsnet New York
-URL: http://netlevel.online:8080/MARIO630/GWPRM/479287
+URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319545
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------

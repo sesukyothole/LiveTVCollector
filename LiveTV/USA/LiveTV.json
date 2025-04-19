@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-18 21:44:24",
+  "date": "2025-04-19 06:26:02",
   "channels": {
     "Religious": [
       {
@@ -4604,32 +4604,18 @@
         "url": "https://v1.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8"
       },
       {
-        "name": "NBC Sports+ (Philadelphia)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpKNO5zFFsM6RHD9hwuyyxo"
-      },
-      {
         "name": "NBC Sports (Chicago)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23784"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319515"
       },
       {
         "name": "NBC Sports (Washington)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlbtbw-34OIrF6a4YrABZvE"
-      },
-      {
-        "name": "NBC Sports+ (Washington)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrmNk65TgPRg6__SofxipW0"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319518"
       },
       {
         "name": "NBC Sports (North West)",
@@ -4958,7 +4944,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://netlevel.online:8080/MARIO630/GWPRM/479287"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319545"
       },
       {
         "name": "HBCU Go Sports",
@@ -17395,11 +17381,18 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c846e-7b2e-11ef-be38-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcf09099-9489-47b3-a6f1-93c341c215be&userId=&serverSideAds=true"
       },
       {
+        "name": "BET Jams",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319446"
+      },
+      {
         "name": "BET Soul",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131328"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319447"
       },
       {
         "name": "FOX Soul",
@@ -18377,6 +18370,13 @@
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "ToonCast (i/e)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Children Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313161"
       },
       {
         "name": "Kartoon Channel",
@@ -19372,6 +19372,13 @@
         "url": "http://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789"
       },
       {
+        "name": "WLII-TV Univision 11 (San Juan PR)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334597"
+      },
+      {
         "name": "WWXY-TV Ind. 19.1 (San Juan PR)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
@@ -19428,11 +19435,18 @@
         "url": "https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8"
       },
       {
+        "name": "KMEX-TV Univision 34 (Los Angeles CA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334533"
+      },
+      {
         "name": "KVEA-TV Telemundo 52 (Corona/Los Angeles CA)",
         "logo": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131151"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334580"
       },
       {
         "name": "WXTV-TV Univision 41 (New York NY)",
@@ -19453,35 +19467,77 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/148794"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334570"
       },
       {
         "name": "WLTV-TV Univision 23 (Miami FL)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108248"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334528"
       },
       {
         "name": "WSCV-TV Telemundo 51 (Miami FL)",
         "logo": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/56410"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334579"
       },
       {
         "name": "WSNS-TV Telemundo 44 (Chicago IL)",
         "logo": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131344"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334582"
+      },
+      {
+        "name": "WBGO-TV Univision 66 (Chicago IL)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312974"
+      },
+      {
+        "name": "WQHS-DT UniMás 61.2 (Cleveland OH)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334563"
       },
       {
         "name": "WNEU-TV Telemundo 60 (Boston MA)",
         "logo": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131146"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334595"
+      },
+      {
+        "name": "WFPA-DT UniMás 28 (Philadelphia PA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334560"
+      },
+      {
+        "name": "WUVP-TV Univision 65 (Philadelphia PA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334521"
+      },
+      {
+        "name": "WZDC-CD Telemundo 44 (Washington DC)",
+        "logo": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334584"
+      },
+      {
+        "name": "KELV-DT UniMás 27 (Las Vegas NV)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334566"
       },
       {
         "name": "KBLR-TV Telemundo 39 (Las Vegas NV)",
@@ -19491,11 +19547,74 @@
         "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131150"
       },
       {
+        "name": "KNIC-TV UniMás 17 (San Antonio TX)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334557"
+      },
+      {
+        "name": "KWEX-TV Univision 41 (San Antonio TX)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334525"
+      },
+      {
+        "name": "KUVN-TV Univision 23 (Ft. Worth/Dallas TX)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334530"
+      },
+      {
         "name": "KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)",
         "logo": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131149"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334594"
+      },
+      {
+        "name": "KSTR-TV UniMás 49 (Ft. Worth/Dallas TX)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35114"
+      },
+      {
+        "name": "KAKW-TV Univision 62 (Austin TX)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334519"
+      },
+      {
+        "name": "KXLN-TV Univision 45 (Houston TX)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334532"
+      },
+      {
+        "name": "KTMD-TV Telemundo 47 (Houston TX)",
+        "logo": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334592"
+      },
+      {
+        "name": "KFTH-DT UniMás 67 (Houston TX)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334569"
+      },
+      {
+        "name": "KTVW-TV Univision 33 (Phoenix AZ)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334522"
       },
       {
         "name": "KTAZ-TV Telemundo 39 (Phoenix AZ)",
@@ -19503,6 +19622,34 @@
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131153"
+      },
+      {
+        "name": "KUTH-TV Univision 32 (Salt Lake City UT)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334524"
+      },
+      {
+        "name": "KCEC-TV Univision 14 (Denver CO)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334529"
+      },
+      {
+        "name": "KDEN-TV Telemundo 25 (Denver CO)",
+        "logo": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334593"
+      },
+      {
+        "name": "KDTV-TV Univision 14 (San Francisco CA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334526"
       },
       {
         "name": "KSTS-TV Telemundo 48 (San Francisco CA)",
@@ -19526,11 +19673,46 @@
         "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131347"
       },
       {
+        "name": "KTFF-DT UniMás 61 (Fresno CA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334559"
+      },
+      {
+        "name": "KUVS-TV Univision 19 (Modesto/Sacramento CA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334596"
+      },
+      {
         "name": "WTMO-TV Telemundo 31 (Orlando FL)",
         "logo": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131145"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334583"
+      },
+      {
+        "name": "WRMD-CD Telemundo 49 (Tampa FL)",
+        "logo": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334581"
+      },
+      {
+        "name": "WUVG-TV Univision 34.1 (Atlanta GA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334518"
+      },
+      {
+        "name": "WUVG-TV UniMás 34.2 (Atlanta GA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334558"
       },
       {
         "name": "UniMás",
@@ -19785,25 +19967,32 @@
         "url": "https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8"
       },
       {
-        "name": "Galavisión",
+        "name": "Galavisión (West)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fortv.cc:8080/0n8u9R/169324/58770"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334548"
+      },
+      {
+        "name": "Galavisión (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334541"
       },
       {
         "name": "NBC Universo",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149865"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319509"
       },
       {
         "name": "Telemundo Internacional",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3024"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334576"
       },
       {
         "name": "Telemundo Al Día",
@@ -19866,7 +20055,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/24167"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302683"
       },
       {
         "name": "TV Azteca GUATE",
@@ -21756,14 +21945,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130025"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302702"
       },
       {
         "name": "N+ FORO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3748"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302620"
       },
       {
         "name": "N+ Noticieros",
@@ -22527,7 +22716,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34536"
       },
       {
         "name": "Thriller Max",
@@ -22625,7 +22814,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23901"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319548"
       },
       {
         "name": "Starz In Black",
@@ -22653,7 +22842,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150086"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319549"
       },
       {
         "name": "Starz Encore Classic",
@@ -22667,35 +22856,35 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23916"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/31955423916"
       },
       {
         "name": "Starz Encore Action",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23919"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319550"
       },
       {
         "name": "Starz Encore Westerns",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16263"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319555"
       },
       {
         "name": "Starz Encore Black",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16141"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319551"
       },
       {
         "name": "Starz Encore Family",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150085"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319553"
       },
       {
         "name": "MGM+",
@@ -22723,7 +22912,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/1829"
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34537"
       },
       {
         "name": "IndiePlex",
@@ -23074,6 +23263,244 @@
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575bd0af-08fa-11f0-bed2-86d507b84126&userId=&serverSideAds=true"
+      },
+      {
+        "name": "PPV Cinema 01",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477"
+      },
+      {
+        "name": "PPV Cinema 02",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34478"
+      },
+      {
+        "name": "PPV Cinema 03",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34479"
+      },
+      {
+        "name": "PPV Cinema 04",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34480"
+      },
+      {
+        "name": "PPV Cinema 05",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34481"
+      },
+      {
+        "name": "PPV Cinema 06",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34482"
+      },
+      {
+        "name": "PPV Cinema 07",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34483"
+      },
+      {
+        "name": "PPV Cinema 08",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34484"
+      },
+      {
+        "name": "PPV Cinema 09",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34485"
+      },
+      {
+        "name": "PPV Cinema 10",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34486"
+      },
+      {
+        "name": "PPV Cinema 11",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34487"
+      },
+      {
+        "name": "PPV Cinema 12",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34488"
+      },
+      {
+        "name": "PPV Cinema 13",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34489"
+      },
+      {
+        "name": "PPV Cinema 14",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34490"
+      },
+      {
+        "name": "PPV Cinema 15",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34491"
+      },
+      {
+        "name": "PPV Cinema 16",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34492"
+      },
+      {
+        "name": "PPV Cinema 17",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34493"
+      },
+      {
+        "name": "PPV Cinema 18",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34494"
+      },
+      {
+        "name": "PPV Cinema 19",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34495"
+      },
+      {
+        "name": "PPV Cinema 20",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34496"
+      },
+      {
+        "name": "PPV Cinema 21",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34497"
+      },
+      {
+        "name": "PPV Cinema 22",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34498"
+      },
+      {
+        "name": "PPV Cinema 24",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34500"
+      },
+      {
+        "name": "PPV Cinema 25",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34501"
+      },
+      {
+        "name": "PPV Cinema 26",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34502"
+      },
+      {
+        "name": "PPV Cinema 27",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34503"
+      },
+      {
+        "name": "PPV Cinema 28",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34504"
+      },
+      {
+        "name": "PPV Cinema 30",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34506"
+      },
+      {
+        "name": "PPV Cinema 31",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34507"
+      },
+      {
+        "name": "PPV Cinema 33",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34509"
+      },
+      {
+        "name": "PPV Cinema 34",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34510"
+      },
+      {
+        "name": "PPV Cinema 35",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34511"
+      },
+      {
+        "name": "PPV Cinema 36",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34512"
+      },
+      {
+        "name": "PPV Cinema 37",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34513"
       }
     ],
     "Canadian Channels": [
