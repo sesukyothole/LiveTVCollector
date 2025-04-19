@@ -68,97 +68,97 @@
   {
     "name": "ON Vie Giải Trí",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=180",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=180",
     "img": "https://i.imgur.com/7GSKm46.png"
   },
   {
     "name": "ON Phim Việt",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=175",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=175",
     "img": "https://i.imgur.com/MPNlpzb.png"
   },
   {
     "name": "ON Movies",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=181",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=181",
     "img": "https://i.imgur.com/765Y3jw.png"
   },
   {
     "name": "ON E Channel",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=182",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=182",
     "img": "https://i.imgur.com/87JEXEQ.png"
   },
   {
     "name": "ON O2TV",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=136",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=136",
     "img": "https://i.imgur.com/nqwVkmM.png"
   },
   {
     "name": "ON BiBi",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=178",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=178",
     "img": "https://i.imgur.com/YFmPo7l.png"
   },
   {
     "name": "ON Info TV",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=189",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=189",
     "img": "https://i.imgur.com/jp57P0v.png"
   },
   {
     "name": "ON Cine",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=176",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=176",
     "img": "https://i.imgur.com/6f9ngwY.png"
   },
   {
     "name": "ON Style TV",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=184",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=184",
     "img": "https://i.imgur.com/6LQ0Z1O.png"
   },
   {
     "name": "ON Music",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=185",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=185",
     "img": "https://i.imgur.com/45BXPY3.png"
   },
   {
     "name": "ON Trending TV",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=186",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=186",
     "img": "https://i.imgur.com/hHYzxmS.png"
   },
   {
     "name": "ON Vie DRAMAS",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=177",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=177",
     "img": "https://i.imgur.com/n7QICK7.png"
   },
   {
     "name": "ON VFamily",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=187",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=187",
     "img": "https://i.imgur.com/R82M53x.png"
   },
   {
     "name": "ON KIDS",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=179",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=179",
     "img": "https://i.ibb.co/mq65M0Y/On-kids.jpg"
   },
   {
     "name": "On Life",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=188",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=188",
     "img": "https://i.ibb.co/QXk7C6G/On-life.jpg"
   },
   {
     "name": "ON Golf",
     "type": "VTVcab HD",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=169",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=169",
     "img": "https://i.imgur.com/BGF2I58.png"
   },
   {
@@ -386,13 +386,13 @@
   {
     "name": "YouTV",
     "type": "Địa phương",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=31",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=31",
     "img": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_480_270.png"
   },
   {
     "name": "HiTV",
     "type": "Địa phương",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=32",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=32",
     "img": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_480_270.png"
   },
   {
@@ -854,61 +854,61 @@
   {
     "name": "Box Movie 1",
     "type": "In The Box",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=159",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=159",
     "img": "https://i.imgur.com/leWw1zz.png"
   },
   {
     "name": "Box Hits",
     "type": "In The Box",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=239",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=239",
     "img": "https://i.ibb.co/BBN7g4y/boxhits.png"
   },
   {
     "name": "Hollywood Classics",
     "type": "In The Box",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=160",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=160",
     "img": "https://i.imgur.com/2EDOvcL.png"
   },
   {
     "name": "In The Box",
     "type": "In The Box",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=235",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=235",
     "img": "https://i.ibb.co/Qdv98Db/inthebox.png"
   },
   {
     "name": "Dr.Fit",
     "type": "In The Box",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=162",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=162",
     "img": "https://i.imgur.com/1D37LIf.png"
   },
   {
     "name": "Happy Kids",
     "type": "In The Box",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=212",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=212",
     "img": "https://i.imgur.com/KbZPtgB.png"
   },
   {
     "name": "Music Box",
     "type": "In The Box",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=289",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=289",
     "img": "https://i.imgur.com/kPJktTH.png"
   },
   {
     "name": "Planet Earth",
     "type": "In The Box",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=135",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=135",
     "img": "https://i.imgur.com/GKOac3p.png"
   },
   {
     "name": "Woman",
     "type": "In The Box",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=163",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=163",
     "img": "https://i.imgur.com/s8nALCG.png"
   },
   {
     "name": "Man",
     "type": "In The Box",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=237",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=237",
     "img": "https://i.ibb.co/wcT2VqP/man.png"
   },
   {
@@ -968,7 +968,7 @@
   {
     "name": "History",
     "type": "Quốc tế",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=9856",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=9856",
     "img": "https://i.ibb.co/41wJdvL/history.png"
   },
   {
@@ -1094,7 +1094,7 @@
   {
     "name": "KBS World",
     "type": "Quốc tế",
-    "url": "https://sgchill.io.vn/tv/tv360.php?id=213",
+    "url": "http://14.177.53.107:8889/ace/tv360mpd.php?id=213",
     "img": "https://i.imgur.com/vylHBC8.png"
   },
   {

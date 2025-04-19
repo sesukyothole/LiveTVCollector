@@ -257,52 +257,52 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 
 Group: In The Box
 Name: Box Movie 1
-URL: https://sgchill.io.vn/tv/tv360.php?id=159
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=159
 Logo: https://i.imgur.com/leWw1zz.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Box Hits
-URL: https://sgchill.io.vn/tv/tv360.php?id=239
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=239
 Logo: https://i.ibb.co/BBN7g4y/boxhits.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Hollywood Classics
-URL: https://sgchill.io.vn/tv/tv360.php?id=160
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=160
 Logo: https://i.imgur.com/2EDOvcL.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: In The Box
-URL: https://sgchill.io.vn/tv/tv360.php?id=235
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=235
 Logo: https://i.ibb.co/Qdv98Db/inthebox.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Dr.Fit
-URL: https://sgchill.io.vn/tv/tv360.php?id=162
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=162
 Logo: https://i.imgur.com/1D37LIf.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Happy Kids
-URL: https://sgchill.io.vn/tv/tv360.php?id=212
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=212
 Logo: https://i.imgur.com/KbZPtgB.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Music Box
-URL: https://sgchill.io.vn/tv/tv360.php?id=289
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=289
 Logo: https://i.imgur.com/kPJktTH.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Planet Earth
-URL: https://sgchill.io.vn/tv/tv360.php?id=135
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=135
 Logo: https://i.imgur.com/GKOac3p.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Woman
-URL: https://sgchill.io.vn/tv/tv360.php?id=163
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=163
 Logo: https://i.imgur.com/s8nALCG.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Man
-URL: https://sgchill.io.vn/tv/tv360.php?id=237
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=237
 Logo: https://i.ibb.co/wcT2VqP/man.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -405,7 +405,7 @@ Logo: https://i.imgur.com/2JR5vSZ.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: History
-URL: https://sgchill.io.vn/tv/tv360.php?id=9856
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=9856
 Logo: https://i.ibb.co/41wJdvL/history.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -510,7 +510,7 @@ Logo: https://i.ibb.co/nbzwz4w/arirang.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: KBS World
-URL: https://sgchill.io.vn/tv/tv360.php?id=213
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=213
 Logo: https://i.imgur.com/vylHBC8.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -873,82 +873,82 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 
 Group: VTVcab HD
 Name: ON Vie Giải Trí
-URL: https://sgchill.io.vn/tv/tv360.php?id=180
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=180
 Logo: https://i.imgur.com/7GSKm46.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Phim Việt
-URL: https://sgchill.io.vn/tv/tv360.php?id=175
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=175
 Logo: https://i.imgur.com/MPNlpzb.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Movies
-URL: https://sgchill.io.vn/tv/tv360.php?id=181
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=181
 Logo: https://i.imgur.com/765Y3jw.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON E Channel
-URL: https://sgchill.io.vn/tv/tv360.php?id=182
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=182
 Logo: https://i.imgur.com/87JEXEQ.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON O2TV
-URL: https://sgchill.io.vn/tv/tv360.php?id=136
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=136
 Logo: https://i.imgur.com/nqwVkmM.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON BiBi
-URL: https://sgchill.io.vn/tv/tv360.php?id=178
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=178
 Logo: https://i.imgur.com/YFmPo7l.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Info TV
-URL: https://sgchill.io.vn/tv/tv360.php?id=189
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=189
 Logo: https://i.imgur.com/jp57P0v.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Cine
-URL: https://sgchill.io.vn/tv/tv360.php?id=176
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=176
 Logo: https://i.imgur.com/6f9ngwY.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Style TV
-URL: https://sgchill.io.vn/tv/tv360.php?id=184
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=184
 Logo: https://i.imgur.com/6LQ0Z1O.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Music
-URL: https://sgchill.io.vn/tv/tv360.php?id=185
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=185
 Logo: https://i.imgur.com/45BXPY3.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Trending TV
-URL: https://sgchill.io.vn/tv/tv360.php?id=186
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=186
 Logo: https://i.imgur.com/hHYzxmS.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Vie DRAMAS
-URL: https://sgchill.io.vn/tv/tv360.php?id=177
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=177
 Logo: https://i.imgur.com/n7QICK7.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON VFamily
-URL: https://sgchill.io.vn/tv/tv360.php?id=187
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=187
 Logo: https://i.imgur.com/R82M53x.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON KIDS
-URL: https://sgchill.io.vn/tv/tv360.php?id=179
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=179
 Logo: https://i.ibb.co/mq65M0Y/On-kids.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: On Life
-URL: https://sgchill.io.vn/tv/tv360.php?id=188
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=188
 Logo: https://i.ibb.co/QXk7C6G/On-life.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Golf
-URL: https://sgchill.io.vn/tv/tv360.php?id=169
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=169
 Logo: https://i.imgur.com/BGF2I58.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -965,12 +965,12 @@ Logo: https://i.imgur.com/UIGZw0y.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: YouTV
-URL: https://sgchill.io.vn/tv/tv360.php?id=31
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=31
 Logo: https://img-zlr1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_480_270.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: HiTV
-URL: https://sgchill.io.vn/tv/tv360.php?id=32
+URL: http://14.177.53.107:8889/ace/tv360mpd.php?id=32
 Logo: https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_480_270.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
