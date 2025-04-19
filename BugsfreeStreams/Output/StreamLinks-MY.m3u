@@ -3,18 +3,10 @@
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/tv1.m3u8
 #EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png" group-title="siaranMy",TV2
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/tv2.m3u8
-#EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png" group-title="siaranMy",TV3
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/tv3.m3u8
 #EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png" group-title="siaranMy",Okey Tv
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/okey_tv.m3u8
 #EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png" group-title="siaranMy",TV6
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/tv6.m3u8
-#EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png" group-title="siaranMy",DidikTv KPM
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/didiktv_kpm.m3u8
-#EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png" group-title="siaranMy",8TV
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/8tv.m3u8
-#EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png" group-title="siaranMy",TV9
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/tv9.m3u8
 #EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png" group-title="siaranMy",BERITA RTM
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/berita_rtm.m3u8
 #EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png" group-title="siaranMy",SUKAN RTM
@@ -59,6 +51,8 @@ https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Bu
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/asyikfm.m3u8
 #EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png" group-title="radio",8Fm
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/8fm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png" group-title="BUY DI SHOPEE ZAYANZACKTV",ID ORIGINAL DI SHOPEE ZAYANZACKTV
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/id_original_di_shopee_zayanzacktv.m3u8
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="Malaysia",101 TV1 HD(Backup)
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/101_tv1_hdbackup.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia",102 TV2 HD ???
