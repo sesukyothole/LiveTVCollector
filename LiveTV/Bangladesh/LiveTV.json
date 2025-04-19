@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-19 06:20:59",
+  "date": "2025-04-19 13:42:57",
   "channels": {
     "BANGLA": [
       {
@@ -1456,6 +1456,13 @@
         "group": "Movie",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "https://jett3.routemachine.site/v3-hls-playback/3c1c0df05716cf6369e4c329982e0bfc8f7b14eb97d02269479ed7c814a9b3dca11a6382abffa47285775ff23e1526a084a632d9b9ea604cb092a1a1e289c5b311aaf5eafdaecbcd0dd110f6ccbc063e49b21fd9579dba5df859c26d6670b8e00b9f527ebf297e73c45e2facca180db10a3ca32ecc1a240668d99c213b92831678a3b1c21d708344efc77e67db12c2f12ba1cf938b4f786aa7e73a560aeb372d77ee67c34daf3fda5d2f203d02ad47b292f5a1c30a0ca9865084a51d54f7f20b/1080/index.m3u8"
+      },
+      {
+        "name": "ZEE ACTION",
+        "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8"
       },
       {
         "name": "&PICTURES HD",
@@ -3100,13 +3107,6 @@
         "url": "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "Wild Earth",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "https://wildearth-plex.amagi.tv/master.m3u8"
-      },
-      {
         "name": "Korean TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -3410,13 +3410,6 @@
         "group": "Entertainment",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
         "url": "https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8"
-      },
-      {
-        "name": "ZEE ANMOI",
-        "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
-        "url": "https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8"
       },
       {
         "name": "& TV HD",
@@ -3725,7 +3718,7 @@
         "url": "https://otttv.co.in/d2h/livestream/tlc/manifest.mpd"
       },
       {
-        "name": "ZEE ZEST HU",
+        "name": "ZEE ZEST HD",
         "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png",
         "group": "Lifestyle",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
@@ -4785,6 +4778,27 @@
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
         "url": "http://38.96.178.201/live/JalshaMovies/index.m3u8"
+      },
+      {
+        "name": "NATIONAL",
+        "logo": "https://i.ibb.co.com/q3870F8P/images.png",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8"
+      },
+      {
+        "name": "WILD",
+        "logo": "https://i.ibb.co.com/1Gny5NSv/images-1.jpg",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://88.212.15.29/live/test_ngw/playlist.m3u8"
+      },
+      {
+        "name": "Unnamed Channel",
+        "logo": "https://i.ibb.co.com/8n4VVBGm/images.jpg",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "https://wildearth-plex.amagi.tv/master.m3u8"
       }
     ],
     "BANGLADESH": [
@@ -4861,13 +4875,6 @@
         "group": "INDIA",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
         "url": "https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8"
-      },
-      {
-        "name": "SONY 5 HD",
-        "logo": "https://i.ibb.co.com/Xkd1kwn0/Six-HD.png",
-        "group": "INDIA",
-        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
-        "url": "https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8"
       }
     ],
     "India": [
@@ -4877,6 +4884,15 @@
         "group": "India",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
         "url": "https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8"
+      }
+    ],
+    "DAKWAH": [
+      {
+        "name": "MAKKAH",
+        "logo": "https://i.ibb.co.com/tT0yQVWb/images.jpg",
+        "group": "DAKWAH",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd"
       }
     ],
     "Relagion Channel": [

@@ -467,6 +467,21 @@ URL: http://38.96.178.201/live/JalshaMovies/index.m3u8
 Logo: https://i.ibb.co.com/XZdWGJcr/images-9.jpg
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
+Name: NATIONAL
+URL: http://88.212.15.19/live/test_ngc/playlist.m3u8
+Logo: https://i.ibb.co.com/q3870F8P/images.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: WILD
+URL: http://88.212.15.29/live/test_ngw/playlist.m3u8
+Logo: https://i.ibb.co.com/1Gny5NSv/images-1.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: Unnamed Channel
+URL: https://wildearth-plex.amagi.tv/master.m3u8
+Logo: https://i.ibb.co.com/8n4VVBGm/images.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 
 Group: Business
 Name: CNBC Asia HD (720p) [Geo-blocked]
@@ -485,6 +500,13 @@ Name: Channel S (1080p)
 URL: https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 Logo: https://i.imgur.com/IDjoXfu.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
+
+Group: DAKWAH
+Name: MAKKAH
+URL: https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
+Logo: https://i.ibb.co.com/tT0yQVWb/images.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 
 Group: DOCUMENTARY
@@ -840,11 +862,6 @@ URL: https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
-Name: ZEE ANMOI
-URL: https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
-Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.png
-Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
---------------------------------------------------
 Name: & TV HD
 URL: https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png
@@ -1085,11 +1102,6 @@ Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3
 Name: SON 2 HD
 URL: https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
 Logo: https://i.ibb.co.com/YMJ7T9N/Ten2-HD.png
-Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
---------------------------------------------------
-Name: SONY 5 HD
-URL: https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
-Logo: https://i.ibb.co.com/Xkd1kwn0/Six-HD.png
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 
@@ -1488,7 +1500,7 @@ URL: https://otttv.co.in/d2h/livestream/tlc/manifest.mpd
 Logo: https://otapp.store/uploads/tv_image/sm/tlc-hindi.png
 Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
 --------------------------------------------------
-Name: ZEE ZEST HU
+Name: ZEE ZEST HD
 URL: https://live.drmlive-02.workers.dev/zee/348.m3u8
 Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
@@ -1658,6 +1670,11 @@ Name: 2073
 URL: https://jett3.routemachine.site/v3-hls-playback/3c1c0df05716cf6369e4c329982e0bfc8f7b14eb97d02269479ed7c814a9b3dca11a6382abffa47285775ff23e1526a084a632d9b9ea604cb092a1a1e289c5b311aaf5eafdaecbcd0dd110f6ccbc063e49b21fd9579dba5df859c26d6670b8e00b9f527ebf297e73c45e2facca180db10a3ca32ecc1a240668d99c213b92831678a3b1c21d708344efc77e67db12c2f12ba1cf938b4f786aa7e73a560aeb372d77ee67c34daf3fda5d2f203d02ad47b292f5a1c30a0ca9865084a51d54f7f20b/1080/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: ZEE ACTION
+URL: https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
+Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 Name: &PICTURES HD
 URL: https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
@@ -3566,11 +3583,6 @@ Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%2
 --------------------------------------------------
 Name: HBO2
 URL: https://tdameritrade-distro.amagi.tv/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Wild Earth
-URL: https://wildearth-plex.amagi.tv/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------

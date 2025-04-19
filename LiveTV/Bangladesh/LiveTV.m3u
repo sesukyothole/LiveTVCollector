@@ -409,6 +409,8 @@ https://jett5.routemachine.site/v3-hls-playback/9f7daf42eda44d5f218436f724b92b75
 https://jett5.routemachine.site/v3-hls-playback/fab33e2c4a3cd1862ad01cbbd0ec9f6ffeb20c308f36202ee1a0d882c575e7d228cbd36e294b9ef56567fa8de00bc63b24511f3ebf6eb930d6c6494fda62d393b1cec35089af9e14c202505dda1949eae7551de2df2c9bd2cfc433792ce778a443df685c65248f5e80714777cec2d3e27d4efd9c54d9cf4e687740f3ecbdf3d65f80f0199cf0d1a65e79320a33929cf59d1d0ba06df03857bb79266e2e9c2125b047eff9c6a7f381cc5e25e828fc1626b062541adf7b32ef9c6c7adba3dd0f32/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Movie",2073
 https://jett3.routemachine.site/v3-hls-playback/3c1c0df05716cf6369e4c329982e0bfc8f7b14eb97d02269479ed7c814a9b3dca11a6382abffa47285775ff23e1526a084a632d9b9ea604cb092a1a1e289c5b311aaf5eafdaecbcd0dd110f6ccbc063e49b21fd9579dba5df859c26d6670b8e00b9f527ebf297e73c45e2facca180db10a3ca32ecc1a240668d99c213b92831678a3b1c21d708344efc77e67db12c2f12ba1cf938b4f786aa7e73a560aeb372d77ee67c34daf3fda5d2f203d02ad47b292f5a1c30a0ca9865084a51d54f7f20b/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="Movie",ZEE ACTION
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png" group-title="Movie",&PICTURES HD
 https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SR",1
@@ -877,8 +879,6 @@ https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",HBO2
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Korean TV
 https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/78bfd4bdb173772172aee2c3ce585949" group-title="AynaOTT",Bangla TV
@@ -965,8 +965,6 @@ https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="Entertainment",ZEE TV HD
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.png" group-title="Entertainment",ZEE ANMOI
-https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png" group-title="Entertainment",& TV HD
 https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="Entertainment",Asian TV (720p)
@@ -1051,7 +1049,7 @@ https://otttv.co.in/d2h/livestream/zing/manifest.mpd
 https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png" group-title="Lifestyle",TLC
 https://otttv.co.in/d2h/livestream/tlc/manifest.mpd
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="Lifestyle",ZEE ZEST HU
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="Lifestyle",ZEE ZEST HD
 https://live.drmlive-02.workers.dev/zee/348.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starJalsha.png" group-title="Bangla",Star Jalsha
 http://103.122.74.6:8888/hls/STAR.JALSHA.HD.m3u8
@@ -1343,6 +1341,12 @@ http://38.96.178.201/live/NexusTV/index.m3u8
 https://www.tbn24.com/api/video/4027_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XZdWGJcr/images-9.jpg" group-title="Bangladesh",JALSHA MOVIES
 http://38.96.178.201/live/JalshaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3870F8P/images.png" group-title="Bangladesh",NATIONAL
+http://88.212.15.19/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1Gny5NSv/images-1.jpg" group-title="Bangladesh",WILD
+http://88.212.15.29/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8n4VVBGm/images.jpg" group-title="Bangladesh",Unnamed Channel
+https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BKGkcw3b/Channel-S-Bangladesh-Logo.png" group-title="BANGLADESH",S TV
 http://38.96.178.201/live/ChannelS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Indian Bangla",ZEE 24
@@ -1363,10 +1367,10 @@ https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YMJ7T9N/Ten2-HD.png" group-title="INDIA",SON 2 HD
 https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xkd1kwn0/Six-HD.png" group-title="INDIA",SONY 5 HD
-https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg" group-title="India",ZEE CINEMA HD
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tT0yQVWb/images.jpg" group-title="DAKWAH",MAKKAH
+https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel",AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Relagion Channel",PEACE TV BANGLA
