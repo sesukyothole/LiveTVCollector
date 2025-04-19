@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDQ6NzoxNSBQTSZoYXNoX3ZhbHVlPU5PNkpNTUN3YzVGd2pKZktLUk52T1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01OWJlNDQ1MC1lZGViLTRhY2EtYWM5Yi1lN2E2MTRjMTJhZTI=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDEyOjI3OjUwIEFNJmhhc2hfdmFsdWU9R0ROQXlTUFJNdnhkOFZhTldod1JsQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY2Y2MzMjFjLTM5ZTItNGZkYS1iNjRjLThkMWM5ODdlMTM3Ng==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDQ6NzoxNiBQTSZoYXNoX3ZhbHVlPTZZY2FxaERIUHF1eUZ1YXJtNzU0WUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xYmY5NTEyOS02M2NkLTRmZDktYjRlYS0yZDZhNWYxNTdiNGU=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDEyOjI3OjUxIEFNJmhhc2hfdmFsdWU9QnlOSmRtUFBRemY2cUZFcEVZRnY1Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTZkNWZkMDZkLTI1ZWUtNDcxNy04NDg3LTgwNWQ0ODNhMmRlMQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDQ6NzoxNyBQTSZoYXNoX3ZhbHVlPUd5UlF0MDdRY1V1YTFzZUVwKzZzb1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hMTg0MWQzOC02NmZjLTQ1YWQtOTc4Zi0yYjlmNTMyNmVlMzQ=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDEyOjI3OjUyIEFNJmhhc2hfdmFsdWU9bEREdHVZSjdmRkRXSGM5ZG1YVzYyZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVmOTlmYjFiLTQ1ZjItNDA3NC04OTRjLThiNGI5ZDk1MjVhMQ==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -5174,7 +5174,7 @@
   {
     "name": "Polsat News Polityka (1080p)",
     "type": "News",
-    "url": "http://109.233.89.166/Polsat_News_Polityka/index.m3u8",
+    "url": "http://109.233.89.170/Polsat_News_Polityka/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png"
   },
   {
@@ -5400,9 +5400,9 @@
     "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg"
   },
   {
-    "name": "Top Movies Polska (720p)",
+    "name": "Top Movies Polska (1080i)",
     "type": "Undefined",
-    "url": "https://d14678b7277b4f21964f367309c8f3e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_TopMoviesPolska/playlist.m3u8",
+    "url": "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8",
     "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png"
   },
   {
@@ -5690,13 +5690,13 @@
   {
     "name": "TVI Internacionalᶠᴴᴰ 🇵🇹",
     "type": "🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDEyOjU3OjQ0IFBNJmhhc2hfdmFsdWU9MitCVVJuMW9YdUxiNjQrSzVJckhjUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA4ZjhlZTI1LTJiYmQtNDkyOC1hYmI5LTY3NWExOWFmNGE4OQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDg6MzU6NTggUE0maGFzaF92YWx1ZT1UeWZkalJOQ2liYU5EcUVOcXIvQzZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDg3NTRhZDYtZjNkOC00OGQ3LTkwNjUtOTUxY2MyMDZjYjQ2/",
     "img": "https://logo.iptveditor.com/tviinternacional.png"
   },
   {
     "name": "TVI 🇵🇹",
     "type": "🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDEyOjU3OjQyIFBNJmhhc2hfdmFsdWU9MCs0OEFFOER3bzVaVXhDQVRvcElaQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkzODgyNGY1LTg0ZmQtNDRmMS1iOWM2LWVlY2JjZDA5Y2FlMQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDg6MzU6NTYgUE0maGFzaF92YWx1ZT1Fb1c3aThwUTVyaGhmNEJTalBjM2JBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTA3ZDM3NDAtMDIxMS00NTEwLTkxZWEtM2E0ZTMwMTMyOTU0/",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp"
   },
   {
@@ -5750,14 +5750,8 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "🌈🆁™News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDEyOjU3OjQzIFBNJmhhc2hfdmFsdWU9alZiZkNFQXRaaTFIVm5Obm85M0Vudz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBiOWJiZGU0LWE1OGYtNGMxOC1hMzNmLWRlYzRjNzZiYjg1YQ==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDg6MzU6NTcgUE0maGFzaF92YWx1ZT1FM1VFamhsUXE5MUVra01Kd1JGVlhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzVhM2Y5NDUtYjJmNC00YzFmLThhNDAtNTVmMjQ5YzQ4ZmUz/",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp"
-  },
-  {
-    "name": "Euronews 🇵🇹",
-    "type": "🌈🆁™News 🇵🇹🇧🇷",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png"
   },
   {
     "name": "Record News 🇧🇷 [ᴏᴛᴛᴇʀᴀ]",
@@ -5834,7 +5828,7 @@
   {
     "name": "La Casa de los Famosos All Stars 🇲🇽",
     "type": "🌈🆁™Secret Story 👁️🌎",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/146252.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/146252.ts",
     "img": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-01/22303531LCDLF5logo-aa6f66.png"
   },
   {
@@ -5864,7 +5858,7 @@
   {
     "name": "Gran Hermano 🇦🇷",
     "type": "🌈🆁™Secret Story 👁️🌎",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/143227.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/143227.m3u8",
     "img": "https://ghglobal.ar/favicon.png"
   },
   {
@@ -6524,7 +6518,7 @@
   {
     "name": "Cartoon Network 🇧🇷",
     "type": "🌈🆁™Kids 🧒🌎",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96385.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96385.ts",
     "img": "https://logo.iptveditor.com/cartoonnet.png"
   },
   {
@@ -7100,7 +7094,7 @@
   {
     "name": "HBO Signature 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96415.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96415.ts",
     "img": "https://logo.iptveditor.com/hbosignature.png"
   },
   {
@@ -7858,6 +7852,42 @@
     "type": "🌈🆁™Espanha 🇪🇸",
     "url": "http://185.189.225.150:85/LaSexta/index.m3u8",
     "img": "https://logo.iptveditor.com/lasexta.png"
+  },
+  {
+    "name": "Hollywood 🇪🇸",
+    "type": "🌈🆁™Espanha 🇪🇸",
+    "url": "http://185.189.225.150:85/Hollywood/index.m3u8",
+    "img": "https://logo.iptveditor.com/hollywood.png"
+  },
+  {
+    "name": "Mega 🇪🇸",
+    "type": "🌈🆁™Espanha 🇪🇸",
+    "url": "http://185.189.225.150:85/mega/index.m3u8",
+    "img": "https://logo.iptveditor.com/mega.png"
+  },
+  {
+    "name": "AXN 🇪🇸",
+    "type": "🌈🆁™Espanha 🇪🇸",
+    "url": "http://185.189.225.150:85/AXN/index.m3u8",
+    "img": "https://logo.iptveditor.com/axn.png"
+  },
+  {
+    "name": "Odisea 🇪🇸",
+    "type": "🌈🆁™Espanha 🇪🇸",
+    "url": "http://185.189.225.150:85/odisea/index.m3u8",
+    "img": "https://logo.iptveditor.com/odisea.png"
+  },
+  {
+    "name": "SYFY 🇪🇸",
+    "type": "🌈🆁™Espanha 🇪🇸",
+    "url": "http://185.189.225.150:85/syfy/index.m3u8",
+    "img": "https://logo.iptveditor.com/syfy.png"
+  },
+  {
+    "name": "Nova 🇪🇸",
+    "type": "🌈🆁™Espanha 🇪🇸",
+    "url": "http://185.189.225.150:85/nova/index.m3u8",
+    "img": "https://logo.iptveditor.com/nova.png"
   },
   {
     "name": "TV3CAT 🇪🇸",
@@ -9728,7 +9758,7 @@
   {
     "name": "ESPN 🇧🇷",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96367.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96367.ts",
     "img": "https://logo.iptveditor.com/espn.png"
   },
   {
@@ -9740,7 +9770,7 @@
   {
     "name": "ESPN 2 🇧🇷",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96364.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96364.ts",
     "img": "https://logo.iptveditor.com/espn2.png"
   },
   {
@@ -9770,7 +9800,7 @@
   {
     "name": "ESPN 5 🇧🇷",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96369.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96369.ts",
     "img": "https://logo.iptveditor.com/espn5.png"
   },
   {
@@ -9782,7 +9812,7 @@
   {
     "name": "Goltv 🇪🇨",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149786.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149786.ts",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp"
   },
   {
@@ -9822,15 +9852,15 @@
     "img": "https://logo.iptveditor.com/elevensport3.png"
   },
   {
-    "name": "Sportunga 2 🇵🇹",
+    "name": "Sportunga 2 🇵🇹 [Test]",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96439.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96439.ts",
     "img": "https://logo.iptveditor.com/sporttv2.png"
   },
   {
-    "name": "Sportunga 3 🇵🇹",
+    "name": "Sportunga 3 🇵🇹 [Test]",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96440.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96440.ts",
     "img": "https://logo.iptveditor.com/sporttv3.png"
   },
   {
@@ -9954,9 +9984,9 @@
     "img": "https://logo.iptveditor.com/daznf1.png"
   },
   {
-    "name": "MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]",
+    "name": "M+ La Liga Campeones",
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/150031.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/150031.ts",
     "img": "https://i.ibb.co/SvhnzBP/CHAP1.png"
   },
   {
@@ -9986,19 +10016,19 @@
   {
     "name": "Claro Sports",
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/94803.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/94803.m3u8",
     "img": "https://logo.iptveditor.com/clarosports.png"
   },
   {
     "name": "Tyc Sports 🇦🇷",
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149932.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149932.m3u8",
     "img": "https://logo.iptveditor.com/tycsports.png"
   },
   {
     "name": "ESPN Deportes 🇲🇽",
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149901.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149901.m3u8",
     "img": "https://logo.iptveditor.com/espndeportes.png"
   },
   {
@@ -10010,7 +10040,7 @@
   {
     "name": "ESPN Premium 🇦🇷",
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149903.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149903.m3u8",
     "img": "https://logo.iptveditor.com/espnpremium.png"
   },
   {
@@ -10040,13 +10070,13 @@
   {
     "name": "Eurosport 1 🇬🇧🇷🇺",
     "type": "🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",
-    "url": "http://ua.1usd.tv:34000/ch039/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtvTy2FD1SrpqEspEPTmPoPZJzc13gL8A-cfK0HP8mcgb",
+    "url": "http://185.189.225.150:85/Eurosport1/index.m3u8",
     "img": "https://logo.iptveditor.com/eurosport1.png"
   },
   {
     "name": "Eurosport 2 🇬🇧🇷🇺",
     "type": "🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",
-    "url": "http://ua.1usd.tv:34000/ch071/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtpADdXEuHDYBBU0h3k6grHPJpGHuEvcBopOb6q4pMgNJ",
+    "url": "http://185.189.225.150:85/Eurosport2/index.m3u8",
     "img": "https://logo.iptveditor.com/eurosport2.png"
   },
   {
@@ -10136,7 +10166,7 @@
   {
     "name": "TUDN 🇺🇸",
     "type": "🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",
-    "url": "http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149920.m3u8",
+    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149920.m3u8",
     "img": "https://logo.iptveditor.com/tudn.png"
   },
   {

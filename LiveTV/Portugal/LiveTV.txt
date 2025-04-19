@@ -1644,7 +1644,7 @@ Logo: https://i.imgur.com/IUVRm5L.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 Name: Polsat News Polityka (1080p)
-URL: http://109.233.89.166/Polsat_News_Polityka/index.m3u8
+URL: http://109.233.89.170/Polsat_News_Polityka/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
@@ -4136,7 +4136,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDQ6NzoxNSBQTSZoYXNoX3ZhbHVlPU5PNkpNTUN3YzVGd2pKZktLUk52T1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01OWJlNDQ1MC1lZGViLTRhY2EtYWM5Yi1lN2E2MTRjMTJhZTI=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDEyOjI3OjUwIEFNJmhhc2hfdmFsdWU9R0ROQXlTUFJNdnhkOFZhTldod1JsQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY2Y2MzMjFjLTM5ZTItNGZkYS1iNjRjLThkMWM5ODdlMTM3Ng==/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4151,7 +4151,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDQ6NzoxNiBQTSZoYXNoX3ZhbHVlPTZZY2FxaERIUHF1eUZ1YXJtNzU0WUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xYmY5NTEyOS02M2NkLTRmZDktYjRlYS0yZDZhNWYxNTdiNGU=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDEyOjI3OjUxIEFNJmhhc2hfdmFsdWU9QnlOSmRtUFBRemY2cUZFcEVZRnY1Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTZkNWZkMDZkLTI1ZWUtNDcxNy04NDg3LTgwNWQ0ODNhMmRlMQ==/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4196,7 +4196,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDQ6NzoxNyBQTSZoYXNoX3ZhbHVlPUd5UlF0MDdRY1V1YTFzZUVwKzZzb1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hMTg0MWQzOC02NmZjLTQ1YWQtOTc4Zi0yYjlmNTMyNmVlMzQ=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDEyOjI3OjUyIEFNJmhhc2hfdmFsdWU9bEREdHVZSjdmRkRXSGM5ZG1YVzYyZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVmOTlmYjFiLTQ1ZjItNDA3NC04OTRjLThiNGI5ZDk1MjVhMQ==/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4897,8 +4897,8 @@ URL: https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playl
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
-Name: Top Movies Polska (720p)
-URL: https://d14678b7277b4f21964f367309c8f3e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_TopMoviesPolska/playlist.m3u8
+Name: Top Movies Polska (1080i)
+URL: https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
 Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
@@ -8534,7 +8534,7 @@ Logo: https://logo.iptveditor.com/hbo2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO Signature 🇧🇷
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96415.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96415.ts
 Logo: https://logo.iptveditor.com/hbosignature.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -9854,6 +9854,36 @@ URL: http://185.189.225.150:85/LaSexta/index.m3u8
 Logo: https://logo.iptveditor.com/lasexta.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
+Name: Hollywood 🇪🇸
+URL: http://185.189.225.150:85/Hollywood/index.m3u8
+Logo: https://logo.iptveditor.com/hollywood.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Mega 🇪🇸
+URL: http://185.189.225.150:85/mega/index.m3u8
+Logo: https://logo.iptveditor.com/mega.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: AXN 🇪🇸
+URL: http://185.189.225.150:85/AXN/index.m3u8
+Logo: https://logo.iptveditor.com/axn.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Odisea 🇪🇸
+URL: http://185.189.225.150:85/odisea/index.m3u8
+Logo: https://logo.iptveditor.com/odisea.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: SYFY 🇪🇸
+URL: http://185.189.225.150:85/syfy/index.m3u8
+Logo: https://logo.iptveditor.com/syfy.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Nova 🇪🇸
+URL: http://185.189.225.150:85/nova/index.m3u8
+Logo: https://logo.iptveditor.com/nova.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
 Name: TV3CAT 🇪🇸
 URL: https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 Logo: https://www.3cat.cat/_resources/favicons/3cat-favicon-192x192.png
@@ -10623,7 +10653,7 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/d
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Cartoon Network 🇧🇷
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96385.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96385.ts
 Logo: https://logo.iptveditor.com/cartoonnet.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -10905,7 +10935,7 @@ Logo: https://logo.iptveditor.com/espn.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN 🇧🇷
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96367.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96367.ts
 Logo: https://logo.iptveditor.com/espn.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -10915,7 +10945,7 @@ Logo: https://logo.iptveditor.com/espn2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN 2 🇧🇷
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96364.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96364.ts
 Logo: https://logo.iptveditor.com/espn2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -10940,7 +10970,7 @@ Logo: https://logo.iptveditor.com/espn4.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN 5 🇧🇷
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96369.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96369.ts
 Logo: https://logo.iptveditor.com/espn5.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -10950,7 +10980,7 @@ Logo: https://logo.iptveditor.com/espn6.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Goltv 🇪🇨
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149786.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149786.ts
 Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -10984,13 +11014,13 @@ URL: http://pro-solut-xi.eu:5436//live/live:dinjo79/SkypeDinjo@telon.al/16499.m3
 Logo: https://logo.iptveditor.com/elevensport3.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: Sportunga 2 🇵🇹
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96439.m3u8
+Name: Sportunga 2 🇵🇹 [Test]
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96439.ts
 Logo: https://logo.iptveditor.com/sporttv2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: Sportunga 3 🇵🇹
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/96440.m3u8
+Name: Sportunga 3 🇵🇹 [Test]
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96440.ts
 Logo: https://logo.iptveditor.com/sporttv3.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -11183,13 +11213,8 @@ Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDEyOjU3OjQzIFBNJmhhc2hfdmFsdWU9alZiZkNFQXRaaTFIVm5Obm85M0Vudz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBiOWJiZGU0LWE1OGYtNGMxOC1hMzNmLWRlYzRjNzZiYjg1YQ==/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDg6MzU6NTcgUE0maGFzaF92YWx1ZT1FM1VFamhsUXE5MUVra01Kd1JGVlhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzVhM2Y5NDUtYjJmNC00YzFmLThhNDAtNTVmMjQ5YzQ4ZmUz/
 Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: Euronews 🇵🇹
-URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-Logo: https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Record News 🇧🇷 [ᴏᴛᴛᴇʀᴀ]
@@ -11929,12 +11954,12 @@ Logo: https://logo.iptveditor.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacionalᶠᴴᴰ 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDEyOjU3OjQ0IFBNJmhhc2hfdmFsdWU9MitCVVJuMW9YdUxiNjQrSzVJckhjUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA4ZjhlZTI1LTJiYmQtNDkyOC1hYmI5LTY3NWExOWFmNGE4OQ==/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDg6MzU6NTggUE0maGFzaF92YWx1ZT1UeWZkalJOQ2liYU5EcUVOcXIvQzZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDg3NTRhZDYtZjNkOC00OGQ3LTkwNjUtOTUxY2MyMDZjYjQ2/
 Logo: https://logo.iptveditor.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDEyOjU3OjQyIFBNJmhhc2hfdmFsdWU9MCs0OEFFOER3bzVaVXhDQVRvcElaQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkzODgyNGY1LTg0ZmQtNDRmMS1iOWM2LWVlY2JjZDA5Y2FlMQ==/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDg6MzU6NTYgUE0maGFzaF92YWx1ZT1Fb1c3aThwUTVyaGhmNEJTalBjM2JBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTA3ZDM3NDAtMDIxMS00NTEwLTkxZWEtM2E0ZTMwMTMyOTU0/
 Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -11966,7 +11991,7 @@ Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: La Casa de los Famosos All Stars 🇲🇽
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/146252.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/146252.ts
 Logo: https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-01/22303531LCDLF5logo-aa6f66.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -11991,7 +12016,7 @@ Logo: https://photos.tf1.fr/0/40/logo-chaine-secret-story-3935ed-01c0f2-0@3x.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Gran Hermano 🇦🇷
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/143227.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/143227.m3u8
 Logo: https://ghglobal.ar/favicon.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -12391,8 +12416,8 @@ URL: http://ua.1usd.tv:34000/ch765/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmX
 Logo: https://logo.iptveditor.com/daznf1.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/150031.m3u8
+Name: M+ La Liga Campeones
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/150031.ts
 Logo: https://i.ibb.co/SvhnzBP/CHAP1.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -12417,17 +12442,17 @@ Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/mundonautica.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Claro Sports
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/94803.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/94803.m3u8
 Logo: https://logo.iptveditor.com/clarosports.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Tyc Sports 🇦🇷
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149932.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149932.m3u8
 Logo: https://logo.iptveditor.com/tycsports.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN Deportes 🇲🇽
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149901.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149901.m3u8
 Logo: https://logo.iptveditor.com/espndeportes.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -12437,7 +12462,7 @@ Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/mai
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN Premium 🇦🇷
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149903.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149903.m3u8
 Logo: https://logo.iptveditor.com/espnpremium.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -12531,12 +12556,12 @@ Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/mai
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Eurosport 1 🇬🇧🇷🇺
-URL: http://ua.1usd.tv:34000/ch039/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtvTy2FD1SrpqEspEPTmPoPZJzc13gL8A-cfK0HP8mcgb
+URL: http://185.189.225.150:85/Eurosport1/index.m3u8
 Logo: https://logo.iptveditor.com/eurosport1.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Eurosport 2 🇬🇧🇷🇺
-URL: http://ua.1usd.tv:34000/ch071/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtpADdXEuHDYBBU0h3k6grHPJpGHuEvcBopOb6q4pMgNJ
+URL: http://185.189.225.150:85/Eurosport2/index.m3u8
 Logo: https://logo.iptveditor.com/eurosport2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -12611,7 +12636,7 @@ Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.pn
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TUDN 🇺🇸
-URL: http://tv.iprotv.live:80//canales-ProYeCtoX998/NuevacanalesProyectoRw/149920.m3u8
+URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149920.m3u8
 Logo: https://logo.iptveditor.com/tudn.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
