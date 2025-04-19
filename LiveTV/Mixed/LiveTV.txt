@@ -374,8 +374,13 @@ URL: http://190.11.130.46/mnp/tntnovelas/output.mpd
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
+Name: TCM
+URL: http://190.11.130.46/mnp/tcm/output.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
 Name: USA
-URL: http://38.41.8.1:8000/play/a057
+URL: http://190.11.130.46/mnp/usa/output.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/330px-USA_Network_logo_%282016%29.svg.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -436,8 +441,18 @@ URL: http://200.60.124.19:29000/play/a01b/index.m3u8
 Logo: https://i.imgur.com/XW8CuxK.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
+Name: LIFETIME
+URL: http://190.11.130.46/mnp/lifetime/output.mpd
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
 Name: ANIMAL PLANET
 URL: http://38.41.8.1:8000/play/a07m
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: ANIMAL PLANET
+URL: http://190.11.130.46/mnp/animalplanet/output.mpd
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -456,13 +471,18 @@ URL: http://200.60.124.19:29000/play/a02d/index.m3u8
 Logo: http://digitaltvsv.com:80/images/6z4swcxHbKk6hOL9is6k_pbCw1qXryfPchVOjCPGeKbVEC4wnhBTQMHW78xNqc-dMjMwR5yc7S2mbeCVMWxDR4Skk8CWvFVMo3E4kQjPLn4lfHRW4fc4zNfsPYCwMC5XCT1Tp66yXXasEh7YtQQ7LOu0EiFvkUeu8kv1NqUsXvXxOa-ajpsbt9HexjDxxEcQZmwpLGC9ky4rHtPx4WqhZA.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: VELOCIDAD
-URL: https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dd6dc7480e3550009133d4a/3321280/playlist.m3u8?terminate=false&sid=7a26d7e0-1812-11f0-914a-86086df0a1ce&deviceDNT=0&deviceLat=-35.220001220703125&deviceLon=-70.91000366210938&deviceModel=web&deviceVersion=135.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=151c934a-0065-4971-b9dc-5ad4f5e4538d&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjE4ZTRkY2M3LWVjZDctNDVhYi05NWNhLTQyNGRiNmNlNGY2ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3YTI2ZDdlMC0xODEyLTExZjAtOTE0YS04NjA4NmRmMGExY2UiLCJjbGllbnRJUCI6IjIwMS4xODYuMTY0LjIxMCIsImNpdHkiOiJDdXJpY28iLCJwb3N0YWxDb2RlIjoiMzM0MDAwMCIsImNvdW50cnkiOiJDTCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0zNS4yMjAwMDEyMjA3MDMxMjUsImRldmljZUxvbiI6LTcwLjkxMDAwMzY2MjEwOTM4LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzUuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjExLjAtZmQwMjZlN2U5NzE0ZjFlMjczYzNjNTgwNjllYjllOTY3ZjJjN2NhOCIsImNsaWVudElEIjoiMTUxYzkzNGEtMDA2NS00OTcxLWI5ZGMtNWFkNGY1ZTQ1MzhkIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FudGlhZ28iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxNTFjOTM0YS0wMDY1LTQ5NzEtYjlkYy01YWQ0ZjVlNDUzOGQiLCJmd1ZjSUQyQ29wcGEiOiIxNTFjOTM0YS0wMDY1LTQ5NzEtYjlkYy01YWQ0ZjVlNDUzOGQiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjE1MWM5MzRhLTAwNjUtNDk3MS1iOWRjLTVhZDRmNWU0NTM4ZCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMTUsMTAwMTYsMTAwMjAsMTAwMDksMTAwMDMsMTAwMTMsMTAwMjEsMTAwMDAifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpNVFV4WXprek5HRXRNREEyTlMwME9UY3hMV0k1WkdNdE5XRmtOR1kxWlRRMU16aGsiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzQ0NTk5MjA4LCJpYXQiOjE3NDQ1MTI4MDgsImp0aSI6IjMzZWE1MzE2LTZjNmEtNGNmOS1iOGNhLTZjM2Q2NTFmMWJhNSJ9.Q-7Hkvb62_GE49Jag3GfwQKtdK4zczBDzoZQUQGkcXQ&paln=AQzzBGQEfS6cy3Gm1b-J4MzIeNI5v4ZcZ9pBNfX9pMhfLZs-dxY7N97CYJEwgUkxwzdNEMQDnDl8zZ6EN8BLvhx43jZk7IEu4iiOanJnS70jMpX8SH1gRFN-CMxRYZMA1clH_iKCRgH9XmY3nOduFrumtmqhUXDemm7_KEWOFXaSxr6VQppVzgvyqhvXlF-e__2gb8vWU5lXlpu1WVCqoo-jfD-91U6B9r3NhnJV9Ww2JuHUiGSe7TRQGTU5TWue6l7LqNclKa6g_w7IKh53WPQOUby3eYhV2PSb_MatdkEjfwTw-u5naEwDzyEEPP9fdKXP6SOpMYNNDMuPyv3b2OzEcn_yOmltvriqrXBXUzw4YDVS_DIvCdgpCe8_zDRbXk2kdPn8uuhj5Q6B4FX5wezRFozfY_3O1uponXJtAAkqnwLc9SRFdlO0zzsjUad2ERGSy_Ln9I8g7YJIm9IkK77to24IPkcJv_S9reIrm2r-akbOkDiTW6TPWzoebei6c2JEaG1wvAXIO2zHqCiGcbTmERTlNeaBFJljsDL4aGru-WgHrsraOK36yqty6pVRZBMPIgmkerPzwnb5PsUvQgQ0tNtitNLCKg3PCAlgByDlLIOO41_xLYnTEyNLrJHlnQPndtF6cyAO1xItIzW3zcdnUsKMsY0Nlx6F21RZ7YJRSh2ziQtkSdYJfofPstK8ACWWUq3L24Ggf7ffRmuA53MNoy-R8V3KL7rqTEjN7-K-Y4G-sa3uDn4GTH-VlZL9Y6XLltiE0IGS9qZ4wKM3udTneBZOd3dPt3F7jvToOpqAvhMjivw2-oCCrpKPfxxypUOxat7VvVUaoCu_C6O5JLZebPUFTDqaYebJZrzzuOJxZyhBvutmcsFSnD7qF_QeKto3QUap2w7R6Cv5Bxpi1m2xaFegN76h25YOEFT0LO3TjVf_8FB2ev6Gn3VFyi3q6JCA08cv8LXdgNn6aGEQYYc2iwpHPI_B0iuM1ZSlI0S5OYUPadUmDiQcgb3g_STJxmM2yr1jPcPZ-ST88gJDeMLMb1JDkxW1_GZfOR12yj1WNp-DxEMFoLMapVBXGfqtKGXDnI2J_7QHqacyvz7IAAL6WViBIBkYWPRLOfFy0T1xE19R1fiQR4KMqkSY54XrEgnXIbbr-TlLdy2S2ZSLfQjuxRPomzejLk0ACqumozQOFWdUy4gO1-_GG1wt-zE2dGafi2JxYy_4VIMYm_8.&CMCD=mtp%3D130900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2254247b54-87f1-4f28-bb6c-9a0551b7a181%22
-Logo: https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg
+Name: DISCOVERY H&H
+URL: http://190.11.130.46/mnp/discoveryh&h/output.mpd
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DISCOVERY THEATER
 URL: http://digitaltvsv.com:80/play/uDc17ThDQbzp1szvU3U_HVLw_lZX1-ZDMt4TjH4gGTPMgwbdGayDbK4676SZO9ni/m3u8
+Logo: http://digitaltvsv.com:80/images/8zBeiJyQKaf74z4XOgAXK7jkqlsl33335-csAqL-ckvotZwpmRi6_t8NCl1ARouLQCRCoIUoJNYfkGXoH5JA2Wjug-TgC0sAL2zpT7u3loo.jpg
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: DISCOVERY THEATER
+URL: http://190.11.130.46/mnp/discoverytheater/output.mpd
 Logo: http://digitaltvsv.com:80/images/8zBeiJyQKaf74z4XOgAXK7jkqlsl33335-csAqL-ckvotZwpmRi6_t8NCl1ARouLQCRCoIUoJNYfkGXoH5JA2Wjug-TgC0sAL2zpT7u3loo.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -1000,11 +1020,6 @@ URL: http://190.11.130.46/mnp/disneyjr/output.mpd
 Logo: https://i.ibb.co/MSXFY3T/disney-jr.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: NICKELODEON HD (2)
-URL: http://38.41.8.1:8000/play/a00i
-Logo: https://i.ibb.co/Vjw3R8m/nick.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
 Name: NICK JR HD
 URL: http://200.60.124.19:29000/play/a02c/index.m3u8
 Logo: https://i.ibb.co/5j96nsY/nick-jr.png
@@ -1254,6 +1269,11 @@ Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 Name: Canal 13 Cultura
 URL: https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 Logo: https://i.imgur.com/F3sDlSe.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: CANAL 13 FESTIVALES
+URL: https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/13festival/13festival.smil/13festival/livestream0/l_413_1534626000_256583.ts
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowo87mrhzwoe77DwRiHJud3e_OEVw19MUCQ&s
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: Canal 13 Realities
@@ -1838,7 +1858,7 @@ Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/hea
 
 Group: cultura y entretenimiento
 Name: las estrellas
-URL: http://200.60.124.19:29000/play/a01d/index.m3u8
+URL: https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 Logo: https://1000marcas.net/wp-content/uploads/2021/04/Las-Estrellas-Logo.png?raw=true
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
