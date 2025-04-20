@@ -2442,6 +2442,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Rocktv",
+    "type": "Uncategorized",
+    "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Run Time Latino",
     "type": "Uncategorized",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154",

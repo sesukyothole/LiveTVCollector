@@ -3017,6 +3017,11 @@ URL: https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.co
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
+Name: Rocktv
+URL: https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
 Name: Run Time Latino
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 Logo: https://buddytv.netlify.app/img/no-logo.png
