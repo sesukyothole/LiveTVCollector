@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-19 21:46:02",
+  "date": "2025-04-20 06:39:22",
   "channels": {
     "STREAMING": [
       {
@@ -2084,14 +2084,14 @@
         "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.41.8.1:8000/play/a082"
+        "url": "http://200.60.124.19:29000/play/a01f/index.m3u8"
       },
       {
         "name": "ESPN 7 HD",
         "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.41.8.1:8000/play/a081"
+        "url": "http://200.60.124.19:29000/play/a01e/index.m3u8"
       },
       {
         "name": "TYC SPORTS HD",
@@ -2105,35 +2105,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://clubtv.link/ab1704/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8"
+        "url": "http://181.78.208.25:8000/play/a01f/index.m3u8"
       },
       {
-        "name": "WIN SPORTS +",
+        "name": "WIN SPORTS HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.11.130.46/mnp/winspor+/output.mpd"
-      },
-      {
-        "name": "FOX SPORT",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.11.130.46/mnp/foxsport/output.mpd"
-      },
-      {
-        "name": "FOX SPORT 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.11.130.46/mnp/foxsprt2/output.mpd"
-      },
-      {
-        "name": "FOX SPORT 3",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.11.130.46/mnp/foxsport3/output.mpd"
+        "url": "http://181.78.208.25:8000/play/a02e/index.m3u8"
       }
     ],
     "Deportes": [
@@ -2196,6 +2175,13 @@
         "url": "http://190.11.130.46/mnp/amc/output.mpd"
       },
       {
+        "name": "AMC HD 2",
+        "logo": "https://i.ibb.co/ncDh80L/amc.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.208.25:8000/play/a02g/index.m3u8"
+      },
+      {
         "name": "AMC 2",
         "logo": "https://i.ibb.co/ncDh80L/amc.png",
         "group": "CINE Y SERIES",
@@ -2210,6 +2196,13 @@
         "url": "http://190.11.130.46/mnp/cinecanal/output.mpd"
       },
       {
+        "name": "CINECANAL",
+        "logo": "https://i.ibb.co/tYK9Prg/cinecanal.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://200.60.124.19:29000/play/a01l/index.m3u8"
+      },
+      {
         "name": "CINECANAL HD (2)",
         "logo": "https://i.ibb.co/tYK9Prg/cinecanal.png",
         "group": "CINE Y SERIES",
@@ -2221,7 +2214,7 @@
         "logo": "https://i.ibb.co/72RBXLk/cinemax.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.41.8.1:8000/play/a05v"
+        "url": "http://181.78.208.25:8000/play/a01a/index.m3u8"
       },
       {
         "name": "CINEMAX HD",
@@ -2364,11 +2357,11 @@
         "url": "http://clubtv.link/ab1704/phpcode/lista0.php?c=27&token=Tecnoplus11&f=.m3u8"
       },
       {
-        "name": "FX HD 3",
+        "name": "FX 2",
         "logo": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://cdn-live.mundogo.cl/fx/fx.mpd"
+        "url": "http://181.78.208.25:8000/play/a01e/index.m3u8"
       },
       {
         "name": "PARAMOUNT CHANNEL HD",
@@ -2413,6 +2406,13 @@
         "url": "http://200.60.124.19:29000/play/a02b/index.m3u8"
       },
       {
+        "name": "CAYENA TV HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.208.25:8000/play/a02t/index.m3u8"
+      },
+      {
         "name": "CINE DINAMITA",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "CINE Y SERIES",
@@ -2425,6 +2425,13 @@
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://190.11.130.46/mnp/sony/output.mpd"
+      },
+      {
+        "name": "SONY CHANNEL",
+        "logo": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.208.25:8000/play/a01b/index.m3u8"
       },
       {
         "name": "SONY CINE",
@@ -2445,7 +2452,7 @@
         "logo": "https://i.ibb.co/kBS1sFh/star-channel.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.11.130.46/mnp/star/output.mpd"
+        "url": "http://200.60.124.19:29000/play/a01r/index.m3u8"
       },
       {
         "name": "STAR CHANNEL HD 2",
@@ -2466,14 +2473,14 @@
         "logo": "https://i.ibb.co/WcnmY6M/tnt.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://cdn-live.mundogo.cl/tnthd/tnthd.mpd"
+        "url": "http://190.11.130.46/mnp/tnt/output.mpd"
       },
       {
         "name": "TNT HD",
         "logo": "https://i.ibb.co/WcnmY6M/tnt.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.11.130.46/mnp/tnt/output.mpd"
+        "url": "https://cdn-live.mundogo.cl/tnthd/tnthd.mpd"
       },
       {
         "name": "TNT SERIES HD",
@@ -2483,7 +2490,7 @@
         "url": "http://190.11.130.46/mnp/tntseries/output.mpd"
       },
       {
-        "name": "TNT SERIES 2",
+        "name": "TNT SERIES 3",
         "logo": "https://i.ibb.co/WcnmY6M/tnt.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
@@ -2497,6 +2504,13 @@
         "url": "http://190.11.130.46/mnp/tntnovelas/output.mpd"
       },
       {
+        "name": "TNT NOVELAS 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.208.25:8000/play/a01l/index.m3u8"
+      },
+      {
         "name": "TCM",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",
         "group": "CINE Y SERIES",
@@ -2508,7 +2522,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/330px-USA_Network_logo_%282016%29.svg.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://38.41.8.1:8000/play/a057"
+        "url": "http://181.78.208.25:8000/play/a00h/index.m3u8"
       },
       {
         "name": "UNIVERSAL",
@@ -2553,6 +2567,13 @@
         "url": "http://179.49.163.34:45000/play/a007/index.m3u8"
       },
       {
+        "name": "WARNER CHANNEL",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.208.25:8000/play/a00t/index.m3u8"
+      },
+      {
         "name": "WARNER CHANNEL HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "CINE Y SERIES",
@@ -2567,6 +2588,15 @@
         "group": "Entretenimiento",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://179.49.163.34:45000/play/a016/index.m3u8"
+      }
+    ],
+    "PRUEBA": [
+      {
+        "name": "TNT SERIES HD 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "PRUEBA",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.208.25:8000/play/a02u/index.m3u8"
       }
     ],
     "INFANTILES": [
@@ -2639,6 +2669,13 @@
         "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://190.11.130.46/mnp/tooncast/output.mpd"
+      },
+      {
+        "name": "TOONCAST HD 2",
+        "logo": "https://i.ibb.co/BfmgWb6/tooncast.png",
+        "group": "INFANTILES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.208.25:8000/play/a02f/index.m3u8"
       },
       {
         "name": "group-title=\"INFANTILES\",ZTV ANIME",
@@ -2764,22 +2801,15 @@
         "group": "MUSICA",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://179.49.163.34:45000/play/a036/index.m3u8"
-      },
-      {
-        "name": "TELEHIT",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MUSICA",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.11.130.46/mnp/telehit/output.mpd"
       }
     ],
     "CULTURA Y ENTRETENIMIENTO": [
       {
-        "name": "ID",
+        "name": "PASIONES HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "CULTURA Y ENTRETENIMIENTO",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://clubtv.link/ab1704/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8"
+        "url": "http://181.78.208.25:8000/play/a02k/index.m3u8"
       },
       {
         "name": "Ivc",
@@ -2838,6 +2868,13 @@
         "url": "http://38.41.8.1:8000/play/a071"
       },
       {
+        "name": "ID",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "CULTURA Y ENTRETENIMIENTO",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://clubtv.link/ab1704/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8"
+      },
+      {
         "name": "NAT GEO",
         "logo": "https://i.imgur.com/dq6jLKm.jpg",
         "group": "CULTURA Y ENTRETENIMIENTO",
@@ -2887,11 +2924,25 @@
         "url": "http://190.11.130.46/mnp/animalplanet/output.mpd"
       },
       {
+        "name": "SUN CHANNEL HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "CULTURA Y ENTRETENIMIENTO",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.208.25:8000/play/a02x/index.m3u8"
+      },
+      {
         "name": "E",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "CULTURA Y ENTRETENIMIENTO",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://38.41.8.1:8000/play/a07o"
+      },
+      {
+        "name": "COMEDY CENTRAL HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "CULTURA Y ENTRETENIMIENTO",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.208.25:8000/play/a02n/index.m3u8"
       },
       {
         "name": "DISCOVERY H&H",
@@ -2922,11 +2973,25 @@
         "url": "http://clubtv.link/ab1704/phpcode/lista2.php?c=a02l&f=.m3u8&token=Tecnoplus11"
       },
       {
+        "name": "DISCOVERY WORLD HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "CULTURA Y ENTRETENIMIENTO",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.208.25:8000/play/a02w/index.m3u8"
+      },
+      {
         "name": "DISCOVERY THEATER",
         "logo": "http://digitaltvsv.com:80/images/8zBeiJyQKaf74z4XOgAXK7jkqlsl33335-csAqL-ckvotZwpmRi6_t8NCl1ARouLQCRCoIUoJNYfkGXoH5JA2Wjug-TgC0sAL2zpT7u3loo.jpg",
         "group": "CULTURA Y ENTRETENIMIENTO",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://190.11.130.46/mnp/discoverytheater/output.mpd"
+      },
+      {
+        "name": "THE BIG BANG THEORY",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png",
+        "group": "CULTURA Y ENTRETENIMIENTO",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/chunks.m3"
       }
     ],
     "cultura y entretenimiento": [
@@ -2952,29 +3017,22 @@
         "url": "http://200.60.124.19:29000/play/a01g/index.m3u8"
       }
     ],
-    "Cultura": [
+    "CULTURS Y ENTRETENIMIENTO": [
       {
         "name": "HISTORY",
         "logo": "https://i.imgur.com/J897iGL.jpg",
-        "group": "Cultura",
+        "group": "CULTURS Y ENTRETENIMIENTO",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://clubtv.link/ab1704/phpcode/lista1.php?c=a02a&token=Tecnoplus11&f=.m3u8"
-      },
+      }
+    ],
+    "Cultura": [
       {
         "name": "H2",
         "logo": "https://i.imgur.com/ypR4tvy.jpg",
         "group": "Cultura",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://179.49.163.34:45000/play/a022/index.m3u8"
-      }
-    ],
-    "CULTUTA Y ENTRETENIMIENTO": [
-      {
-        "name": "Unnamed Channel",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png",
-        "group": "CULTUTA Y ENTRETENIMIENTO",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/chunks.m3"
       }
     ],
     "Saga Harry Potter": [

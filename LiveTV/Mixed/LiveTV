@@ -1736,13 +1736,13 @@
   {
     "name": "ESPN 6 HD",
     "type": "DEPORTES",
-    "url": "http://38.41.8.1:8000/play/a082",
+    "url": "http://200.60.124.19:29000/play/a01f/index.m3u8",
     "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG"
   },
   {
     "name": "ESPN 7 HD",
     "type": "DEPORTES",
-    "url": "http://38.41.8.1:8000/play/a081",
+    "url": "http://200.60.124.19:29000/play/a01e/index.m3u8",
     "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG"
   },
   {
@@ -1754,31 +1754,13 @@
   {
     "name": "WIN SPORTS",
     "type": "DEPORTES",
-    "url": "http://clubtv.link/ab1704/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8",
+    "url": "http://181.78.208.25:8000/play/a01f/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "WIN SPORTS +",
+    "name": "WIN SPORTS HD",
     "type": "DEPORTES",
-    "url": "http://190.11.130.46/mnp/winspor+/output.mpd",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "FOX SPORT",
-    "type": "DEPORTES",
-    "url": "http://190.11.130.46/mnp/foxsport/output.mpd",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "FOX SPORT 2",
-    "type": "DEPORTES",
-    "url": "http://190.11.130.46/mnp/foxsprt2/output.mpd",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "FOX SPORT 3",
-    "type": "DEPORTES",
-    "url": "http://190.11.130.46/mnp/foxsport3/output.mpd",
+    "url": "http://181.78.208.25:8000/play/a02e/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1830,6 +1812,12 @@
     "img": "https://i.ibb.co/ncDh80L/amc.png"
   },
   {
+    "name": "AMC HD 2",
+    "type": "CINE Y SERIES",
+    "url": "http://181.78.208.25:8000/play/a02g/index.m3u8",
+    "img": "https://i.ibb.co/ncDh80L/amc.png"
+  },
+  {
     "name": "AMC 2",
     "type": "CINE Y SERIES",
     "url": "http://clubtv.link/ab1704/phpcode/lista1.php?c=a047&token=Tecnoplus11&f=.m3u8",
@@ -1842,6 +1830,12 @@
     "img": "https://i.ibb.co/tYK9Prg/cinecanal.png"
   },
   {
+    "name": "CINECANAL",
+    "type": "CINE Y SERIES",
+    "url": "http://200.60.124.19:29000/play/a01l/index.m3u8",
+    "img": "https://i.ibb.co/tYK9Prg/cinecanal.png"
+  },
+  {
     "name": "CINECANAL HD (2)",
     "type": "CINE Y SERIES",
     "url": "https://cdn-live.mundogo.cl/cinecanalhd/cinecanalhd.mpd",
@@ -1850,7 +1844,7 @@
   {
     "name": "CINEMAX HD",
     "type": "CINE Y SERIES",
-    "url": "http://38.41.8.1:8000/play/a05v",
+    "url": "http://181.78.208.25:8000/play/a01a/index.m3u8",
     "img": "https://i.ibb.co/72RBXLk/cinemax.png"
   },
   {
@@ -1974,9 +1968,9 @@
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png"
   },
   {
-    "name": "FX HD 3",
+    "name": "FX 2",
     "type": "CINE Y SERIES",
-    "url": "https://cdn-live.mundogo.cl/fx/fx.mpd",
+    "url": "http://181.78.208.25:8000/play/a01e/index.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png"
   },
   {
@@ -2016,6 +2010,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "CAYENA TV HD",
+    "type": "CINE Y SERIES",
+    "url": "http://181.78.208.25:8000/play/a02t/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "CINE DINAMITA",
     "type": "CINE Y SERIES",
     "url": "http://clubtv.link/ab1704/phpcode/lista0.php?c=85&token=Tecnoplus11&f=.m3u8",
@@ -2025,6 +2025,12 @@
     "name": "SONY CHANNEL",
     "type": "CINE Y SERIES",
     "url": "http://190.11.130.46/mnp/sony/output.mpd",
+    "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png"
+  },
+  {
+    "name": "SONY CHANNEL",
+    "type": "CINE Y SERIES",
+    "url": "http://181.78.208.25:8000/play/a01b/index.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png"
   },
   {
@@ -2042,7 +2048,7 @@
   {
     "name": "STAR CHANNEL HD",
     "type": "CINE Y SERIES",
-    "url": "http://190.11.130.46/mnp/star/output.mpd",
+    "url": "http://200.60.124.19:29000/play/a01r/index.m3u8",
     "img": "https://i.ibb.co/kBS1sFh/star-channel.png"
   },
   {
@@ -2060,13 +2066,13 @@
   {
     "name": "TNT HD",
     "type": "CINE Y SERIES",
-    "url": "https://cdn-live.mundogo.cl/tnthd/tnthd.mpd",
+    "url": "http://190.11.130.46/mnp/tnt/output.mpd",
     "img": "https://i.ibb.co/WcnmY6M/tnt.png"
   },
   {
     "name": "TNT HD",
     "type": "CINE Y SERIES",
-    "url": "http://190.11.130.46/mnp/tnt/output.mpd",
+    "url": "https://cdn-live.mundogo.cl/tnthd/tnthd.mpd",
     "img": "https://i.ibb.co/WcnmY6M/tnt.png"
   },
   {
@@ -2076,7 +2082,7 @@
     "img": "https://i.ibb.co/WcnmY6M/tnt.png"
   },
   {
-    "name": "TNT SERIES 2",
+    "name": "TNT SERIES 3",
     "type": "CINE Y SERIES",
     "url": "http://clubtv.link/ab1704/phpcode/lista0.php?c=5&token=Tecnoplus11&f=.m3u8",
     "img": "https://i.ibb.co/WcnmY6M/tnt.png"
@@ -2088,6 +2094,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "TNT NOVELAS 2",
+    "type": "CINE Y SERIES",
+    "url": "http://181.78.208.25:8000/play/a01l/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "TCM",
     "type": "CINE Y SERIES",
     "url": "http://190.11.130.46/mnp/tcm/output.mpd",
@@ -2096,7 +2108,7 @@
   {
     "name": "USA",
     "type": "CINE Y SERIES",
-    "url": "http://38.41.8.1:8000/play/a057",
+    "url": "http://181.78.208.25:8000/play/a00h/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/330px-USA_Network_logo_%282016%29.svg.png"
   },
   {
@@ -2136,6 +2148,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png"
   },
   {
+    "name": "WARNER CHANNEL",
+    "type": "CINE Y SERIES",
+    "url": "http://181.78.208.25:8000/play/a00t/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "WARNER CHANNEL HD",
     "type": "CINE Y SERIES",
     "url": "http://190.11.130.46/mnp/warner/output.mpd",
@@ -2146,6 +2164,12 @@
     "type": "Entretenimiento",
     "url": "http://179.49.163.34:45000/play/a016/index.m3u8",
     "img": "https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true"
+  },
+  {
+    "name": "TNT SERIES HD 2",
+    "type": "PRUEBA",
+    "url": "http://181.78.208.25:8000/play/a02u/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "FMH KIDS",
@@ -2205,6 +2229,12 @@
     "name": "TOONCAST HD",
     "type": "INFANTILES",
     "url": "http://190.11.130.46/mnp/tooncast/output.mpd",
+    "img": "https://i.ibb.co/BfmgWb6/tooncast.png"
+  },
+  {
+    "name": "TOONCAST HD 2",
+    "type": "INFANTILES",
+    "url": "http://181.78.208.25:8000/play/a02f/index.m3u8",
     "img": "https://i.ibb.co/BfmgWb6/tooncast.png"
   },
   {
@@ -2310,15 +2340,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png"
   },
   {
-    "name": "TELEHIT",
-    "type": "MUSICA",
-    "url": "http://190.11.130.46/mnp/telehit/output.mpd",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ID",
+    "name": "PASIONES HD",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://clubtv.link/ab1704/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8",
+    "url": "http://181.78.208.25:8000/play/a02k/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2370,6 +2394,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ID",
+    "type": "CULTURA Y ENTRETENIMIENTO",
+    "url": "http://clubtv.link/ab1704/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "NAT GEO",
     "type": "CULTURA Y ENTRETENIMIENTO",
     "url": "http://clubtv.link/ab1704/phpcode/lista0.php?c=15&token=Tecnoplus11&f=.m3u8",
@@ -2412,9 +2442,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "SUN CHANNEL HD",
+    "type": "CULTURA Y ENTRETENIMIENTO",
+    "url": "http://181.78.208.25:8000/play/a02x/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "E",
     "type": "CULTURA Y ENTRETENIMIENTO",
     "url": "http://38.41.8.1:8000/play/a07o",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "COMEDY CENTRAL HD",
+    "type": "CULTURA Y ENTRETENIMIENTO",
+    "url": "http://181.78.208.25:8000/play/a02n/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2442,10 +2484,22 @@
     "img": "http://digitaltvsv.com:80/images/8zBeiJyQKaf74z4XOgAXK7jkqlsl33335-csAqL-ckvotZwpmRi6_t8NCl1ARouLQCRCoIUoJNYfkGXoH5JA2Wjug-TgC0sAL2zpT7u3loo.jpg"
   },
   {
+    "name": "DISCOVERY WORLD HD",
+    "type": "CULTURA Y ENTRETENIMIENTO",
+    "url": "http://181.78.208.25:8000/play/a02w/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "DISCOVERY THEATER",
     "type": "CULTURA Y ENTRETENIMIENTO",
     "url": "http://190.11.130.46/mnp/discoverytheater/output.mpd",
     "img": "http://digitaltvsv.com:80/images/8zBeiJyQKaf74z4XOgAXK7jkqlsl33335-csAqL-ckvotZwpmRi6_t8NCl1ARouLQCRCoIUoJNYfkGXoH5JA2Wjug-TgC0sAL2zpT7u3loo.jpg"
+  },
+  {
+    "name": "THE BIG BANG THEORY",
+    "type": "CULTURA Y ENTRETENIMIENTO",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/chunks.m3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png"
   },
   {
     "name": "las estrellas",
@@ -2467,7 +2521,7 @@
   },
   {
     "name": "HISTORY",
-    "type": "Cultura",
+    "type": "CULTURS Y ENTRETENIMIENTO",
     "url": "http://clubtv.link/ab1704/phpcode/lista1.php?c=a02a&token=Tecnoplus11&f=.m3u8",
     "img": "https://i.imgur.com/J897iGL.jpg"
   },
@@ -2476,12 +2530,6 @@
     "type": "Cultura",
     "url": "http://179.49.163.34:45000/play/a022/index.m3u8",
     "img": "https://i.imgur.com/ypR4tvy.jpg"
-  },
-  {
-    "name": "Unnamed Channel",
-    "type": "CULTUTA Y ENTRETENIMIENTO",
-    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/chunks.m3",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png"
   },
   {
     "name": "Harry Potter y la piedra filosofal",
