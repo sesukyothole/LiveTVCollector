@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-19 13:42:57",
+  "date": "2025-04-20 06:27:48",
   "channels": {
     "BANGLA": [
       {
@@ -426,7 +426,7 @@
         "logo": "https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
-        "url": "http://isp.top10bhaluka.com/tv/stream.m3u8?id=NICK"
+        "url": "http://fast.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1034"
       },
       {
         "name": "DURONTO TV",
@@ -4778,6 +4778,13 @@
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
         "url": "http://38.96.178.201/live/JalshaMovies/index.m3u8"
+      },
+      {
+        "name": "JALSHA MOVIES HD",
+        "logo": "https://i.ibb.co.com/XZdWGJcr/images-9.jpg",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34725.ts"
       },
       {
         "name": "NATIONAL",

@@ -467,6 +467,11 @@ URL: http://38.96.178.201/live/JalshaMovies/index.m3u8
 Logo: https://i.ibb.co.com/XZdWGJcr/images-9.jpg
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
+Name: JALSHA MOVIES HD
+URL: http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34725.ts
+Logo: https://i.ibb.co.com/XZdWGJcr/images-9.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 Name: NATIONAL
 URL: http://88.212.15.19/live/test_ngc/playlist.m3u8
 Logo: https://i.ibb.co.com/q3870F8P/images.png
@@ -1467,7 +1472,7 @@ Logo: https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png
 Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
 --------------------------------------------------
 Name: NICK BANGLA
-URL: http://isp.top10bhaluka.com/tv/stream.m3u8?id=NICK
+URL: http://fast.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1034
 Logo: https://i.postimg.cc/DZ4NwNWZ/Nick.jpg
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------

@@ -118,7 +118,7 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="Kids",Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",NICK BANGLA
-http://isp.top10bhaluka.com/tv/stream.m3u8?id=NICK
+http://fast.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1034
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Kids",DURONTO TV
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr India (1080p)
@@ -1341,6 +1341,8 @@ http://38.96.178.201/live/NexusTV/index.m3u8
 https://www.tbn24.com/api/video/4027_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XZdWGJcr/images-9.jpg" group-title="Bangladesh",JALSHA MOVIES
 http://38.96.178.201/live/JalshaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XZdWGJcr/images-9.jpg" group-title="Bangladesh",JALSHA MOVIES HD
+http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34725.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3870F8P/images.png" group-title="Bangladesh",NATIONAL
 http://88.212.15.19/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1Gny5NSv/images-1.jpg" group-title="Bangladesh",WILD
