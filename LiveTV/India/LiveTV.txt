@@ -942,6 +942,11 @@ URL: https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e
 Logo: https://i.imgur.com/7Kl95WA.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: ANN News (720p)
+URL: https://cdn.ottlive.co.in/annnews/index.m3u8
+Logo: https://asianewsnetwork.net/wp-content/uploads/2020/03/cropped-LOGO-NEW.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: APN (576p)
 URL: https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8
 Logo: https://i.imgur.com/RhkbhZD.png

@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-08 21:45:28",
+  "date": "2025-05-09 06:29:34",
   "channels": {
     "Music": [
       {
@@ -262,6 +262,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8"
+      },
+      {
+        "name": "ANN News (720p)",
+        "logo": "https://asianewsnetwork.net/wp-content/uploads/2020/03/cropped-LOGO-NEW.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cdn.ottlive.co.in/annnews/index.m3u8"
       },
       {
         "name": "APN (576p)",
