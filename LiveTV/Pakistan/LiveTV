@@ -264,9 +264,15 @@
     "img": "https://i.imgur.com/XBHvR5J.png"
   },
   {
-    "name": "8XM",
+    "name": "ARY News",
     "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8",
+    "url": "http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "GEO News",
+    "type": "Uncategorized",
+    "url": "http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -276,45 +282,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Ahlebait",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/AhlEBait.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ARY Digital",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ARY News",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ARY Zindagi",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BOL Entertainment",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/BolEnt.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "BOL News",
     "type": "Uncategorized",
     "url": "http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Cartoon Network",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -324,69 +294,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Disney Channel",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/DisneyChannelHD.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Disney Junior",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "DTX",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/DTX.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Dunya News",
     "type": "Uncategorized",
     "url": "http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Dunya News",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Express Entertainment",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Express News",
     "type": "Uncategorized",
     "url": "http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Film World",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "GEO Entertainment",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "GEO Kahani",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "GEO News",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -402,75 +318,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "GreenTv",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "HBO HD",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "HBO 2 HD",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "HUM Masala",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/HumMasalah.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "HUM News",
     "type": "Uncategorized",
     "url": "http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "HUM TV",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Kids Zone HD",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Lahore News",
     "type": "Uncategorized",
     "url": "http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Motor Vision",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/MotorVision.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MTV Music",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/MtvMusic.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "National Geographic HD",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "National Geographic Wild",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -483,18 +339,6 @@
     "name": "News One",
     "type": "Uncategorized",
     "url": "http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Peace TV",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "PTV Home",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -513,24 +357,6 @@
     "name": "SAMA News",
     "type": "Uncategorized",
     "url": "http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Saudi Quran",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/SaudiQuranHD.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Saudi Sunnah",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "URDU 1",
-    "type": "Uncategorized",
-    "url": "http://125.209.88.166:45793/BRN/Urdu1.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

@@ -87,95 +87,37 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Undefined",Zindagi TV (576p) [Not 24/7]
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",8XM
-http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",92 News
-http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Ahlebait
-http://125.209.88.166:45793/BRN/AhlEBait.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",ARY Digital
-http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",ARY News
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",ARY Zindagi
-http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",BOL Entertainment
-http://125.209.88.166:45793/BRN/BolEnt.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",BOL News
-http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Cartoon Network
-http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",City 42
-http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Disney Channel
-http://125.209.88.166:45793/BRN/DisneyChannelHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Disney Junior
-http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",DTX
-http://125.209.88.166:45793/BRN/DTX.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Dunya News
-http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Dunya News
-http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Express Entertainment
-http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Express News
-http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Film World
-http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",GEO Entertainment
-http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",GEO Kahani
-http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",GEO News
 http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",92 News
+http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",BOL News
+http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",City 42
+http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Dunya News
+http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Express News
+http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",GEO Tez
 http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",GNN News
 http://125.209.88.166:45793/BRN/GNNHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",GreenTv
-http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",HBO HD
-http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",HBO 2 HD
-http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",HUM Masala
-http://125.209.88.166:45793/BRN/HumMasalah.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",HUM News
 http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",HUM TV
-http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Kids Zone HD
-http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Lahore News
 http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Motor Vision
-http://125.209.88.166:45793/BRN/MotorVision.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",MTV Music
-http://125.209.88.166:45793/BRN/MtvMusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",National Geographic HD
-http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",National Geographic Wild
-http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",NEO News
 http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",News One
 http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Peace TV
-http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",PTV Home
-http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",PTV News
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Public News
 http://125.209.88.166:45793/BRN/PublicNewsHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",SAMA News
 http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Saudi Quran
-http://125.209.88.166:45793/BRN/SaudiQuranHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Saudi Sunnah
-http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",URDU 1
-http://125.209.88.166:45793/BRN/Urdu1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",DUNYA NEWS
 https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8

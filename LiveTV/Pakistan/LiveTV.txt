@@ -205,8 +205,13 @@ Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 
 Group: Uncategorized
-Name: 8XM
-URL: http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+Name: ARY News
+URL: http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: GEO News
+URL: http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
@@ -215,38 +220,8 @@ URL: http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
-Name: Ahlebait
-URL: http://125.209.88.166:45793/BRN/AhlEBait.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: ARY Digital
-URL: http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: ARY News
-URL: http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: ARY Zindagi
-URL: http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: BOL Entertainment
-URL: http://125.209.88.166:45793/BRN/BolEnt.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
 Name: BOL News
 URL: http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: Cartoon Network
-URL: http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
@@ -255,58 +230,13 @@ URL: http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
-Name: Disney Channel
-URL: http://125.209.88.166:45793/BRN/DisneyChannelHD.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: Disney Junior
-URL: http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: DTX
-URL: http://125.209.88.166:45793/BRN/DTX.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
 Name: Dunya News
 URL: http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
-Name: Dunya News
-URL: http://125.209.88.166:45793/BRN/DawnNews.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: Express Entertainment
-URL: http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
 Name: Express News
 URL: http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: Film World
-URL: http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: GEO Entertainment
-URL: http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: GEO Kahani
-URL: http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: GEO News
-URL: http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
@@ -320,63 +250,13 @@ URL: http://125.209.88.166:45793/BRN/GNNHD.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
-Name: GreenTv
-URL: http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: HBO HD
-URL: http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: HBO 2 HD
-URL: http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: HUM Masala
-URL: http://125.209.88.166:45793/BRN/HumMasalah.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
 Name: HUM News
 URL: http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
-Name: HUM TV
-URL: http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: Kids Zone HD
-URL: http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
 Name: Lahore News
 URL: http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: Motor Vision
-URL: http://125.209.88.166:45793/BRN/MotorVision.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: MTV Music
-URL: http://125.209.88.166:45793/BRN/MtvMusic.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: National Geographic HD
-URL: http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: National Geographic Wild
-URL: http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
@@ -387,16 +267,6 @@ Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
 Name: News One
 URL: http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: Peace TV
-URL: http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: PTV Home
-URL: http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
@@ -412,21 +282,6 @@ Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
 Name: SAMA News
 URL: http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: Saudi Quran
-URL: http://125.209.88.166:45793/BRN/SaudiQuranHD.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: Saudi Sunnah
-URL: http://125.209.88.166:45793/BRN/SaudiSunnahHD.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
---------------------------------------------------
-Name: URDU 1
-URL: http://125.209.88.166:45793/BRN/Urdu1.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
 --------------------------------------------------
