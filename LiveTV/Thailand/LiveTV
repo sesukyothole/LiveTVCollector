@@ -384,12 +384,6 @@
     "img": "https://i.ibb.co/nmxNkPG/s21-hd.jpg"
   },
   {
-    "name": "SCTV22",
-    "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv22",
-    "img": "https://i.ibb.co/JK0TF38/sctv22-hd.png"
-  },
-  {
     "name": "SCTV Phim tổng hợp",
     "type": "SCTV",
     "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth",
