@@ -618,6 +618,23 @@ Logo: https://i.imgur.com/UtlBqwd.png
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
 
+Group: Brunei
+Name: RTB Sukmaindera FHD
+URL: https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
+Logo: https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: RTB Aneka FHD
+URL: https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: RTB Go Live FHD
+URL: https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+Logo: https://i.imgur.com/CGlzsD5.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+
 Group: Brunei 🇧🇳
 Name: RTB Sukmaindera
 URL: https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
@@ -3958,51 +3975,6 @@ URL: http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71038
 Logo: https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: HITS
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: ROCK ACTION
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frock-action-55bdd5.webp?alt=media&token=cc883d1d-85bd-4108-81ee-3e3890a8506f
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: K-plus
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD
-Logo: https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: KIX
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fkix.jpg?alt=media&token=a63f4860-fe6c-4f24-9f45-61efae813ca0
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: tvN
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FtvN.jpg?alt=media&token=98a82cdc-60f6-4c89-a067-bb7923217404
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: Animax
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
-Logo: https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Animax%20SD-FirstMedia-Chl-52.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: AXN
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
-Logo: https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/AXN%20HD-FirstMedia-Chl-332.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: One
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-Logo: https://www.firstmedia.com/files/icons/channel/One-Ch205.png
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: allplay ent.
-URL: https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5f2e7606-4f4c-8524-afa8-a9439519c970)/manifest.mpd
-Logo: https://vmp-cms.telkomsel.com/sites/default/files/entry/0_psqdb637/banner_xxhdpi.png
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
 Name: Crime + Investigation Asia HD (720p) [Geo-blocked]
 URL: https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png
@@ -4505,6 +4477,11 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 Name: MGS TV (720p) [Not 24/7]
 URL: https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 Logo: https://i.imgur.com/MYU7dsZ.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
+Name: Nusantara TV (720p)
+URL: https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+Logo: https://i.imgur.com/viun5hj.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 Name: Pal TV (720p) [Not 24/7]
@@ -6709,26 +6686,6 @@ URL: https://i.mjh.nz/SamsungTVPlus/GBBD1100005QY.m3u8
 Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100005QY_20230726T033546SQUARE.png_20230726033547.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: MyKidz
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_50.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: DREAMWORKS HD
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FDREAMWORKS.png?alt=media&token=daed4113-8e2c-44b4-b5dd-6ed428ea8e4e
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: NICKELODEON
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-Logo: https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Emblem.png
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: NICKJR.
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F6-KIDS%2FNick%20Jr%20SD-FirstMedia-Chl-124.jpg&w=1920&q=100
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
 Name: Horee! (720p) [Geo-blocked]
 URL: http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 Logo: https://i.imgur.com/S4aoHg8.png
@@ -6990,21 +6947,6 @@ Name: Techstorm (CBM)
 URL: https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
 Logo: https://images.indihometv.com/logo_techstorm_ver1.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: CRIME INVESTIGATION
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FCrimeInvestigation.png?alt=media&token=a300c19e-2d54-47b4-9df9-e7664519b114
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: HISTORY CHANNEL
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/History/sa_dash_vmx/History.mpd
-Logo: https://www.firstmedia.com/files/logos/channels/1-DOCUMENTARY/History%20HD-FirstMedia-Chl-365.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: Nasa TV
-URL: https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-Logo: https://image.roku.com/developer_channels/prod/82f06a124571d35829348d87fb1224dd5217807d338a1b7bf262edffa6be71aa.png
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
 --------------------------------------------------
 
 Group: LOKAL
@@ -7408,58 +7350,6 @@ Logo: https://images.indihometv.com/logo_tvri_small1.png?v=2.0.0.13
 Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
 --------------------------------------------------
 
-Group: Lokal FTA
-Name: Trans 7
-URL: https://streamo.web.id/api/1/get/live/tv/channel/3
-Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F8-Lokal FTA%2FTrans%207%20SD-FirstMedia-Chl-8.jpeg&w=1920&q=100
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: Indosiar
-URL: https://streamo.web.id/api/1/get/live/tv/channel/1
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Findosiar.jfif?alt=media&token=3ee58305-4fde-490c-8470-742c5652a957
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: SCTV
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fsctv.jfif?alt=media&token=76a3b0df-822f-498e-b80c-0137449b8374
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: ANTV
-URL: https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv
-Logo: https://www.firstmedia.com/files/logos/channels/8-Lokal FTA/ANTV%20SD-FirstMedia-Chl-13.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: RTV
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frtv.jpg?alt=media&token=f446a58b-c091-4c72-bc17-aa26f2ebb965
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: Nusantara TV
-URL: https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FNusantara_TV.png?alt=media&token=e468e3e0-8401-429b-abef-7868f02a5e44
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: RCTI
-URL: https://streamo.web.id/api/1/get/live/tv/channel/14.m3u8
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frcti.jfif?alt=media&token=7c17a756-2f1b-45b8-abb4-f8407c0539eb
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: MNCTV
-URL: https://streamo.web.id/api/1/get/live/tv/channel/15.m3u8
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fmnctv.jfif?alt=media&token=7483abbd-d27e-41e8-b387-9f8e3a8aadaf
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: GTV
-URL: https://streamo.web.id/api/1/get/live/tv/channel/16.m3u8
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fgtv.jfif?alt=media&token=5bfc6308-4504-4f5d-a7c6-ae842d3b2809
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: Moji
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-Logo: https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-
 Group: MALAYSIA
 Name: Inspirasi
 URL: https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
@@ -7524,138 +7414,138 @@ Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 
 Group: MOVIES
 Name: HBO (OS7+)
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|referrer=https://www.cubmu.com/
-Logo: https://i.ibb.co.com/LgqX1qJ/hbo.png
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd|referrer=https://www.cubmu.com/
+Logo: https://i.ibb.co.com/qMWw8Tph/HBO.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: HBO Hits (OS7+)
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/
-Logo: https://i.ibb.co.com/L9myfz5/hbohits.png
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/
+Logo: https://i.ibb.co.com/CpFzG9rS/HBO-HITS.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: HBO Family (OS7+)
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|https://www.cubmu.com/
-Logo: https://i.ibb.co.com/dLR3Sqq/hbofamily.png
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|https://www.cubmu.com/
+Logo: https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: HBO Signature (OS7+)
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|referrer=https://www.cubmu.com/
-Logo: https://i.ibb.co.com/nLwxYL5/hbosignatur.png
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|referrer=https://www.cubmu.com/
+Logo: https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: CINEMAX (OS7+)
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|referrer=https://www.cubmu.com/
-Logo: https://i.ibb.co.com/0chM7YL/cinemax.png
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|referrer=https://www.cubmu.com/
+Logo: https://i.ibb.co.com/0pWPCfLb/CINEMAX.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: HBO
 URL: https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
-Logo: https://i.ibb.co.com/LgqX1qJ/hbo.png
+Logo: https://i.ibb.co.com/qMWw8Tph/HBO.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: HBO Family
 URL: https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
-Logo: https://i.ibb.co.com/dLR3Sqq/hbofamily.png
+Logo: https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: HBO Signature
 URL: https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
-Logo: https://i.ibb.co.com/nLwxYL5/hbosignatur.png
+Logo: https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: Cinemax
 URL: https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
-Logo: https://i.ibb.co.com/0chM7YL/cinemax.png
+Logo: https://i.ibb.co.com/0pWPCfLb/CINEMAX.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: Celestial Movies
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
-Logo: https://i.ibb.co.com/xChWWg1/celestialmovies.png
+Logo: https://i.ibb.co.com/M5fmmb2y/CCM.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: Celestial Classic
 URL: https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
-Logo: https://i.ibb.co.com/S0BMmpm/ccm.png
+Logo: https://i.ibb.co.com/xKzn0YrQ/CCMC.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: GALAXY
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
-Logo: https://i.ibb.co.com/xgBwP9Z/galaxy.png
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|referrer=https://visionplus.id
+Logo: https://i.ibb.co.com/TBf1qfxj/GALAXY.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: GALAXY PREMIUM
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
-Logo: https://i.ibb.co.com/K6jTh7b/galaxy-premium.png
+Name: GALAXY PREMIUM 2
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|https://visionplus.id
+Logo: https://i.ibb.co.com/93HkxQz4/GALAXY-P.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: HITS MOVIES
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
-Logo: https://i.ibb.co.com/fdrn9mq/hits-movies.png
+Logo: https://i.ibb.co.com/7tPf37Yn/HITSM.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: THRILL
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
-Logo: https://i.ibb.co.com/jD2yKv2/thrill.png
+URL: http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
+Logo: https://i.ibb.co.com/mVpcFt2r/THRILL.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: MY CINEMA
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-Logo: https://i.ibb.co.com/t2LL0r5/mycinema.png
+Logo: https://i.ibb.co.com/0yMpwdM1/MYCINEMA.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: MY CINEMA ASIA
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-Logo: https://i.ibb.co.com/nmGP0g8/mycinemaasia.png
+Logo: https://i.ibb.co.com/5Wr11XxS/MCA.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: MY FAMILY
 URL: http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-Logo: https://i.ibb.co.com/CtvwxDC/myfamily.png
+Logo: https://i.ibb.co.com/pBHPPRb5/MFC.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: CINEMACHI
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
-Logo: https://i.ibb.co.com/DRcyjX0/cinemaci.png
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd|referrer=https://www.visionplus.id/
+Logo: https://i.ibb.co.com/C3W3ccLj/CINEMACHI.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: CINEMACHI KIDS
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
-Logo: https://i.ibb.co.com/Vjy4sKh/cinemachi-kids.png
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd|referrer=https://www.visionplus.id/
+Logo: https://i.ibb.co.com/ch5pR3s2/CK.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: CINEMACHI ACTION
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
-Logo: https://i.ibb.co.com/6YyfQ2f/cinemachi-action.png
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd|referrer=https://www.visionplus.id/
+Logo: https://i.ibb.co.com/7mD8ZyZ/CA.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: CINEMACHI MAX
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
-Logo: https://i.ibb.co.com/JRZNVHK/cinemachi-max.png
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd|referrer=https://www.visionplus.id/
+Logo: https://i.ibb.co.com/4w2YT9bK/CM.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: CINEMACHI XTRA
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd|referrer=https://www.visionplus.id/
+Logo: https://i.ibb.co.com/DPt6nd8c/IMG-20250501-215519.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: IMC
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
-Logo: https://i.ibb.co.com/JCHCg2g/imc.png
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd|referrer=https://visionplus.id
+Logo: https://i.ibb.co.com/N246ycVQ/IMC.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: ZEE BIOSKOP
 URL: https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
-Logo: https://i.ibb.co.com/gFnV1jG/zee-bioskop.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: ROCK ACTION V+
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Rockaction/sa_dash/Rockaction.mpd
-Logo: https://i.ibb.co.com/MBvq9ct/rockaction.png
+Logo: https://i.ibb.co.com/MxS2dWYq/ZEE.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: ROCK ACTION
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8|user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0&referrer=https://dens.tv/
-Logo: https://i.ibb.co.com/MBvq9ct/rockaction.png
+Logo: https://i.ibb.co.com/nNY9vLnZ/RA.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: Dunia Sinema
 URL: https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-Logo: https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png
+Logo: https://i.ibb.co.com/gFt4WrjJ/DS.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: ETV BIOSKOP 01
@@ -7992,6 +7882,46 @@ URL: https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailo
 Logo: https://aqfadtv.xyz/logos/OhMyCeria.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
+Name: DidikTv KPM
+URL: https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+Logo: https://mifntechnology.github.io/siaranMy/logo/DidikTv.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: 8TV
+URL: https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+Logo: https://mifntechnology.github.io/siaranMy/logo/8tv.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: TV9
+URL: https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+Logo: https://mifntechnology.github.io/siaranMy/logo/Tv9.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: BERITA RTM
+URL: https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+Logo: https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: SUKAN RTM
+URL: https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+Logo: https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Astro Awani
+URL: https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+Logo: https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Dewan Rakyat
+URL: https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png 
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: DewanNegara
+URL: https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 
 Group: Malaysia 🇲🇾
 Name: TV 3__
@@ -8022,11 +7952,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: TV 7_
 URL: https://unifi-live01.secureswiftcontent.com/UnifiHD/live06.mpd
 Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: TV 8_
-URL: https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: TV 9
@@ -8656,6 +8581,16 @@ URL: https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.m3u8
 Logo: https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/landscape_carousel_xxhdpi.jpg
 Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
 --------------------------------------------------
+Name: Studio Universal
+URL: https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+Logo: https://w7.pngwing.com/pngs/185/656/png-transparent-universal-studios-logo-universal-orlando-universal-studios-hollywood-universal-s-logo-comcast-studio-miscellaneous-studio-globe.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Drama Channel
+URL: https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
+Logo: https://banner2.cleanpng.com/20180808/fbg/kisspng-logo-drama-uktv-brand-blighty-drama-uktv-logo-d-tv-logo-logowow-5b6b16ba09c953.2614474415337448260401.jpg
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
 Name: AXN East Asia
 URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash/AXN.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg
@@ -9101,6 +9036,11 @@ URL: https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manif
 Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
+Name: Cinemachi Xtra HD ᵛ⁺
+URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Xtra%20(black).png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: Mr Bean TV
 URL: http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60052
 Logo: https://dl.dropbox.com/scl/fi/4grigy4cm423wjf7tvjxd/mr-bean-class.png?rlkey=3sx0yqahu685e18kr24u3no3l&dl=0
@@ -9154,6 +9094,11 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: Galaxy Premium ᵛ⁺
 URL: https://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|referer=https://www.visionplus.id/
 Logo: https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: Galaxy ᵛ⁺
+URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+Logo: https://dl.dropbox.com/scl/fi/57uczx1gmmu4m537nfa34/Galaxy-hometv.png?rlkey=tkpar02rn74e1cyzv72thu4rs&dl=0
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: Galaxy ᵛ⁺
@@ -9335,41 +9280,6 @@ Name: Sony GEM
 URL: http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
 Logo: https://i.imgur.com/rGTHbAM.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: tvN Movies
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Ftvn_Movies.png?alt=media&token=972488a2-1e5b-45d2-8a24-6b13b9e6f471
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: THRILL
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fthrill.png?alt=media&token=aa48e0e7-77c4-4a38-8c32-de7eb0e479aa
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: HITS Movies
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F9-Movies%2Fhits-Movies-325.jpg&w=1920&q=100
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: ZEEBIOSKOP
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F9-Movies%2FZee%20Bioskop%20SD-FirstMedia-Chl-161.jpg&w=1920&q=100
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: MY CINEMA
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD
-Logo: http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: MY CINEMA ASIA
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
-Logo: http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: MY FAMILY CHANNEL
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=lite&chname=My_Family_Channel
-Logo: http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
 --------------------------------------------------
 Name: CinemaWorld (576p)
 URL: http://210.210.155.37/dr9445/h/h04/index.m3u8
@@ -9820,11 +9730,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: 17.SCTV
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 Logo: https://i.ibb.co.com/xmVzkKw/SCTV.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: 14.TRANSTV
-URL: https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-Logo: https://i.ibb.co.com/Hr47xyW/transtv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: CNN Indonesia
@@ -10453,56 +10358,6 @@ URL: https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILozxEtkHyiiGgf7Od27YgV
 Logo: https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhA-5YZdqslzXV4bYBI08NkA.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: iNEWS
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-Logo: https://hometv.pw/logo/lokal/inews.png
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: TVONE
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Ftvone.jfif?alt=media&token=8c2324ed-dc6d-48e0-b31f-e98fef713a9f
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: TVRI
-URL: https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=TVRI
-Logo: https://hometv.pw/logo/lokal/tvri.png
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: NHK World Japan
-URL: https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fnhkjpn2IhfbbfiHIFh294.png?alt=media&token=18f12633-7bf7-4def-be06-b8d20b104098
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: CNA
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcna.jfif?alt=media&token=82e933ca-3594-46ff-8811-c2c045f56658
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: SEA Today
-URL: https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7cafff42-3569-1a1e-d668-c36036b1c848)/manifest.mpd
-Logo: https://vmp-cms.telkomsel.com/sites/default/files/entry/0_81uwc59i/banner_xxhdpi.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: Kompas TV
-URL: https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
-Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FKompas%20TV%20SD-FirstMedia-Chl-15.jpg&w=1920&q=100
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: IDX
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FIDX.png?alt=media&token=f0745624-857e-4748-aba5-931097e8ffcb
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: CNBC
-URL: https://streamo.web.id/api/1/get/live/tv/channel/7
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcnbc.jpg?alt=media&token=0d4dacdf-2f32-4689-b849-09681fb9a415
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: CNN Indonesia
-URL: https://streamo.web.id/api/1/get/live/tv/channel/6
-Logo: https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcnnid.jpg?alt=media&token=d4345c4c-4b2c-4f2b-bd16-91d443d5d58a
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
 Name: BBC News Asia Pacific (720p)
 URL: https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 Logo: https://i.imgur.com/vSz2WEp.png
@@ -10543,16 +10398,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: Soccer Channel
 URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|referrer=https://visionplus.id/
 Logo: https://i.imgur.com/68y2OmC.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Sportstars 3
-URL: https://dusk.biz.id/rp/index.mpd?id=114
-Logo: https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: SPORTSTARS 4 HD
-URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
-Logo: https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: RCTI
@@ -10890,11 +10735,6 @@ URL: https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a
 Logo: https://www.visionplus.id/images/repository/898/198898-LOGO-m.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: BEIN SPORTS EXTRA
-URL: https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-Logo: https://images.pluto.tv/channels/5df975e2b27cf5000921c102/featuredImage.jpg
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: beIN Sports 1
 URL: https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash/BEIN01.mpd
 Logo: https://www.visionplus.id/images/repository/771/198771-LOGO-m.png
@@ -10918,11 +10758,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: beIN Sports 5
 URL: https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash/BEIN05.mpd
 Logo: https://www.visionplus.id/images/repository/898/198898-LOGO-m.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Champions TV 2
-URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
-Logo: https://iili.io/2lP43sS.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: beIN Sports 1 ID
@@ -12259,11 +12094,6 @@ URL: https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 Logo: https://i.imgur.com/mbW2EWt.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: MNC Sportstars 2 (WORTH)
-URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-Logo: https://i.imgur.com/bmY7G2P.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
 
 Group: OLAHRAGA LUAR
 Name: Prima Sport 1
@@ -12620,6 +12450,16 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: Global Trekker
 URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd|Referer=https://www.visionplus.id/
 Logo: https://dl.dropbox.com/scl/fi/qb2yulbwkwllxm7skeiu4/Global-trekker.jpeg?rlkey=qavgisctg9kzup3vv8shzx2x6&dl=0
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: National Geographic
+URL: http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
+Logo: https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: National Geographic Wild
+URL: http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
+Logo: https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Wild Earth
@@ -13753,38 +13593,6 @@ Logo: https://i.imgur.com/xqYSItV.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
 
-Group: SPORTS
-Name: FIGHT SPORTS
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=FIGHT_SPORTS_HD
-Logo: http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: SPOTV
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV%20SD-FirstMedia-Chl-139.jpg&w=1920&q=100
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: SPOTV2
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20SD-FirstMedia-Chl-140.jpg&w=1920&q=100
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: REDBULL TV
-URL: https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-Logo: https://github.com/justemonn1/tv/raw/main/master/poster/red-bull-tv-banner.webp
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: MOTORVISION
-URL: https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
-Logo: https://github.com/justemonn1/tv/blob/main/master/poster/motorvisiontv-696x400.jpg?raw=true
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-Name: SPORTSTARS 3
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-Logo: https://hometv.pw/logo/sports/sportstars.jpg
-Source: https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
---------------------------------------------------
-
 Group: SPORTS INDO
 Name: BEIN SPORT 1
 URL: https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
@@ -13801,14 +13609,19 @@ URL: https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793
 Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_170_122
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
+Name: Champions TV 2
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
+Logo: https://iili.io/2lP43sS.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 Name: Soccer Channel
 URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 Logo: https://i.imgur.com/68y2OmC.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: Sportstars 1 HD
-URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-Logo: https://i.imgur.com/OkQzNhc.png
+Name: Sportstars 3
+URL: https://dusk.biz.id/rp/index.mpd?id=114
+Logo: https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: SPOTV V+
@@ -14073,23 +13886,28 @@ Logo: https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Sportstars 1
-URL: https://terabit.web.id/media.mpd?id=112&type=dash|Referer=https://www.visionplus.id
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_102.png
+URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+Logo: https://i.imgur.com/OkQzNhc.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Sportstars 2
-URL: https://terabit.web.id/media.mpd?id=113&type=dash|Referer=https://www.visionplus.id
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_98.png
+URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+Logo: https://i.imgur.com/A1hlnLA.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Sportstar 3
+Name: Sportstars 3
 URL: https://terabit.web.id/media.mpd?id=114&type=dash|Referer=https://www.visionplus.id
-Logo: https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png
+Logo: https://i.imgur.com/dIcTZj3.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Sportstar 4
+Name: Sportstars 4
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+Logo: https://i.imgur.com/qUYLcS8.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Soccer Channel
 URL: https://terabit.web.id/media.mpd?id=115&type=dash|Referer=https://www.visionplus.id
-Logo: https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_101.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: SPOTV
@@ -14125,6 +13943,26 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: beIN Sports 3
 URL: https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: BEIN SPORTS EXTRA
+URL: https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+Logo: https://images.pluto.tv/channels/5df975e2b27cf5000921c102/featuredImage.jpg
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: BELLATOR MMA
+URL: http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Logo: https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: GLORY KICKBOXING
+URL: http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Logo: https://sidekickboxing.co.uk/wp-content/uploads/2022/01/Why-Glory-is-the-best-kickboxing-promotion-1024x538-1.webp
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: BOXINGTV
+URL: https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+Logo: https://image.discovery.indazn.com/ca/v2/ca/image?id=1xemxec25qpl917erpqn0oxtra_image-header_pRow_1715780112000
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Sony Sports 1
@@ -14660,16 +14498,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: IMPACT! WRESTLING
 URL: https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm78wpmUkKBkEwICRCTmEqP3ANfJ_nENwcJ9l14UcqksLIBmDuUL-7C3CHU9_cceC4huzqFnG5mIUfAKIfcAeTqOJGggeLSB8H1_SaqjqXgv7a1g_uITbL4cRfU1XGLDaRheiv3bxh9QuelLddkAD-FDVKluaLObmRzE7hSHO2Qxujo86RoafbAqIo6FLq/s700/IMPACT!%20WRESTLING.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: BELLATOR MMA
-URL: http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRGF0MhRj3UWbjk2NgbDF9Mh3m92NaOrulluwpGJtIWmIr-hWc0gOkM3f7kPcSbBFwGk39Nrzka-A_BO_HZcMHDoH_h4dNBmTbWKXVKT7pCWQhqQ33-zi4uyKDW71IFOJZ_X2lmr-xQa1tJf0z0oBBoRFBQzgpKgEKre3mZXwxW1vPan1B4k5kqdHt5dS3/s700/BELLATOR%20MMA.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: GLORY KICKBOXING
-URL: http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDqCiiLhXte7tR0PJabVKOStVKSuZ1xvRxasvPwPjtVUo7UncuM7sznQIhMm-a_76SaJ-tf-qGoNrNWXYGgYwxMs6mrGrkVmf1ncBQ9wVrMIXI7LEwiWrRRUPtBH8iu5AUdbRBfBBkAKK3aRjRGBvgPQ6FkNPehs2RwC-rFd7SrcDlZkV_jm4D1uuDadR8/s700/GLORY%20KICKBOXING.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: BOXING TV
@@ -17248,7 +17076,7 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 
 Group: TV Nasional Indonesia
 Name: INDOSIAR Liga 1
-URL: https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/cmimiw.m3u8
+URL: http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 Logo: https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Indosiar.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -17282,14 +17110,9 @@ URL: https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mp
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Trans TV
-URL: https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2108851844_b344100_sleng.m3u8
-Logo: https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TransTV.jpg
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: Trans7 HD
-URL: https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144556368_b744100_sleng.m3u8
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_110.png
+Name: TRANS TV
+URL: https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+Logo: https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: TV ONE HD
@@ -17320,6 +17143,11 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: SindoNews
 URL: https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_84.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Mentari TV
+URL: https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
+Logo: https://images.indihometv.com/logo_mentaritv_small.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: NET TV
@@ -19904,6 +19732,143 @@ Name: Nosferatu (2025)
 URL: https://cloud.hownetwork.xyz/xxx/a3adca4605b55c2fb4337c6745d92ba4/25/480.m3u8
 Logo: https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+
+Group: 🇮🇩FIRST MEDIA
+Name: CNN Int HD
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
+Logo: https://w7.pngwing.com/pngs/335/473/png-transparent-cnn-international-fox-news-television-tv-channel-television-text-logo.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Bloomberg
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/bloomberg.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: NHK World Japan
+URL: https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Reformed21
+URL: https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
+Logo: https://www.visionplus.id/images/repository/943/49943-SNAPSHOT-l.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Catholic TV
+URL: https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
+Logo: https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: EWTN
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd
+Logo: https://www.visionplus.id/images/repository/945/49945-SNAPSHOT-l.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: GMS HD
+URL: https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd
+Logo: https://gms.church/images/gms/short-white.svg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Kairos
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
+Logo: https://images.squarespace-cdn.com/content/v1/5fca74e49efd0e627a442de0/1607105292574-Z6A78BZ31PB9MUIZQ727/Kairos+Logo.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: TBN Asia
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mpd/TBNAsia.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/1200px-TBN_logo_2015.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Jiangsu TV
+URL: https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Hunan TV
+URL: https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
+Logo: https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: TVB Xing He
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+Logo: https://static.wikia.nocookie.net/logos/images/2/21/TVB_Xing_He_2018.png/revision/latest/scale-to-width-down/1064?cb=20220222135559&amp;path-prefix=vi
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Zhejiang TV
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
+Logo: https://w7.pngwing.com/pngs/10/901/png-transparent-zhejiang-icon-zhejiang-tv-column-icon-blue-angle-text-thumbnail.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Anhui TV
+URL: https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
+Logo: https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Dragon TV
+URL: https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
+Logo: https://static.wikia.nocookie.net/logopedia/images/2/28/Dragon_TV_2015_Stacked_logo.png/revision/latest/scale-to-width-down/250?cb=20241209140521
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Shenzen TV
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
+Logo: https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: TVBS News
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
+Logo: https://static.wikia.nocookie.net/logopedia/images/2/2a/TVBSNEWS2008.png/revision/latest/scale-to-width-down/300?cb=20231003151627
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: TVBS Asia
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+Logo: https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: CCTV 4
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
+Logo: https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest/scale-to-width-down/250?cb=20200119091533
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: JAK TV
+URL: https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_113.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: KBS WORLD
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: SBSTV
+URL: https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Logo: https://w7.pngwing.com/pngs/399/929/png-transparent-sbs-broadcasting-hd-logo-thumbnail.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: First Lifestyle
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
+Logo: https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Arirang
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_351.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: Dreamworks HD
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
+Logo: https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: MTV 90's
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+Logo: https://www.visionplus.id/images/repository/950/49950-SNAPSHOT-l.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: MTV Live HD
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+Logo: https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 
 Group: 🔴DENS TV

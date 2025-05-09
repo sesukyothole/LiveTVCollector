@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-09 13:45:38",
+  "date": "2025-05-09 21:44:01",
   "channels": {
     "INDONESIA": [
       {
@@ -810,6 +810,20 @@
         "url": "https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.m3u8"
       },
       {
+        "name": "Studio Universal",
+        "logo": "https://w7.pngwing.com/pngs/185/656/png-transparent-universal-studios-logo-universal-orlando-universal-studios-hollywood-universal-s-logo-comcast-studio-miscellaneous-studio-globe.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd"
+      },
+      {
+        "name": "Drama Channel",
+        "logo": "https://banner2.cleanpng.com/20180808/fbg/kisspng-logo-drama-uktv-brand-blighty-drama-uktv-logo-d-tv-logo-logowow-5b6b16ba09c953.2614474415337448260401.jpg",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd"
+      },
+      {
         "name": "AXN East Asia",
         "logo": "https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",
         "group": "Movies",
@@ -1433,6 +1447,13 @@
         "url": "https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd"
       },
       {
+        "name": "Cinemachi Xtra HD ᵛ⁺",
+        "logo": "https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Xtra%20(black).png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd"
+      },
+      {
         "name": "Mr Bean TV",
         "logo": "https://dl.dropbox.com/scl/fi/4grigy4cm423wjf7tvjxd/mr-bean-class.png?rlkey=3sx0yqahu685e18kr24u3no3l&dl=0",
         "group": "Movies",
@@ -1508,6 +1529,13 @@
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|referer=https://www.visionplus.id/"
+      },
+      {
+        "name": "Galaxy ᵛ⁺",
+        "logo": "https://dl.dropbox.com/scl/fi/57uczx1gmmu4m537nfa34/Galaxy-hometv.png?rlkey=tkpar02rn74e1cyzv72thu4rs&dl=0",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd"
       },
       {
         "name": "Galaxy ᵛ⁺",
@@ -1760,55 +1788,6 @@
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8"
-      },
-      {
-        "name": "tvN Movies",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Ftvn_Movies.png?alt=media&token=972488a2-1e5b-45d2-8a24-6b13b9e6f471",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD"
-      },
-      {
-        "name": "THRILL",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fthrill.png?alt=media&token=aa48e0e7-77c4-4a38-8c32-de7eb0e479aa",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
-      },
-      {
-        "name": "HITS Movies",
-        "logo": "https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F9-Movies%2Fhits-Movies-325.jpg&w=1920&q=100",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd"
-      },
-      {
-        "name": "ZEEBIOSKOP",
-        "logo": "https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F9-Movies%2FZee%20Bioskop%20SD-FirstMedia-Chl-161.jpg&w=1920&q=100",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd"
-      },
-      {
-        "name": "MY CINEMA",
-        "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD"
-      },
-      {
-        "name": "MY CINEMA ASIA",
-        "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia"
-      },
-      {
-        "name": "MY FAMILY CHANNEL",
-        "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=lite&chname=My_Family_Channel"
       },
       {
         "name": "CinemaWorld (576p)",
@@ -2462,28 +2441,35 @@
       },
       {
         "name": "Sportstars 1",
-        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_102.png",
+        "logo": "https://i.imgur.com/OkQzNhc.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://terabit.web.id/media.mpd?id=112&type=dash|Referer=https://www.visionplus.id"
+        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd"
       },
       {
         "name": "Sportstars 2",
-        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_98.png",
+        "logo": "https://i.imgur.com/A1hlnLA.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://terabit.web.id/media.mpd?id=113&type=dash|Referer=https://www.visionplus.id"
+        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd"
       },
       {
-        "name": "Sportstar 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",
+        "name": "Sportstars 3",
+        "logo": "https://i.imgur.com/dIcTZj3.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://terabit.web.id/media.mpd?id=114&type=dash|Referer=https://www.visionplus.id"
       },
       {
-        "name": "Sportstar 4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",
+        "name": "Sportstars 4",
+        "logo": "https://i.imgur.com/qUYLcS8.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/"
+      },
+      {
+        "name": "Soccer Channel",
+        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_101.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://terabit.web.id/media.mpd?id=115&type=dash|Referer=https://www.visionplus.id"
@@ -2536,6 +2522,34 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd"
+      },
+      {
+        "name": "BEIN SPORTS EXTRA",
+        "logo": "https://images.pluto.tv/channels/5df975e2b27cf5000921c102/featuredImage.jpg",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "BELLATOR MMA",
+        "logo": "https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+      },
+      {
+        "name": "GLORY KICKBOXING",
+        "logo": "https://sidekickboxing.co.uk/wp-content/uploads/2022/01/Why-Glory-is-the-best-kickboxing-promotion-1024x538-1.webp",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+      },
+      {
+        "name": "BOXINGTV",
+        "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1xemxec25qpl917erpqn0oxtra_image-header_pRow_1715780112000",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8"
       },
       {
         "name": "Sony Sports 1",
@@ -3285,20 +3299,6 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8"
-      },
-      {
-        "name": "BELLATOR MMA",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRGF0MhRj3UWbjk2NgbDF9Mh3m92NaOrulluwpGJtIWmIr-hWc0gOkM3f7kPcSbBFwGk39Nrzka-A_BO_HZcMHDoH_h4dNBmTbWKXVKT7pCWQhqQ33-zi4uyKDW71IFOJZ_X2lmr-xQa1tJf0z0oBBoRFBQzgpKgEKre3mZXwxW1vPan1B4k5kqdHt5dS3/s700/BELLATOR%20MMA.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
-      },
-      {
-        "name": "GLORY KICKBOXING",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDqCiiLhXte7tR0PJabVKOStVKSuZ1xvRxasvPwPjtVUo7UncuM7sznQIhMm-a_76SaJ-tf-qGoNrNWXYGgYwxMs6mrGrkVmf1ncBQ9wVrMIXI7LEwiWrRRUPtBH8iu5AUdbRBfBBkAKK3aRjRGBvgPQ6FkNPehs2RwC-rFd7SrcDlZkV_jm4D1uuDadR8/s700/GLORY%20KICKBOXING.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
       },
       {
         "name": "BOXING TV",
@@ -7855,34 +7855,6 @@
         "url": "https://i.mjh.nz/SamsungTVPlus/GBBD1100005QY.m3u8"
       },
       {
-        "name": "MyKidz",
-        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8"
-      },
-      {
-        "name": "DREAMWORKS HD",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FDREAMWORKS.png?alt=media&token=daed4113-8e2c-44b4-b5dd-6ed428ea8e4e",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd"
-      },
-      {
-        "name": "NICKELODEON",
-        "logo": "https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Emblem.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
-      },
-      {
-        "name": "NICKJR.",
-        "logo": "https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F6-KIDS%2FNick%20Jr%20SD-FirstMedia-Chl-124.jpg&w=1920&q=100",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd"
-      },
-      {
         "name": "Horee! (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/S4aoHg8.png",
         "group": "Kids",
@@ -8340,6 +8312,62 @@
         "group": "Malaysia",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd"
+      },
+      {
+        "name": "DidikTv KPM",
+        "logo": "https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",
+        "group": "Malaysia",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8"
+      },
+      {
+        "name": "8TV",
+        "logo": "https://mifntechnology.github.io/siaranMy/logo/8tv.png",
+        "group": "Malaysia",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8"
+      },
+      {
+        "name": "TV9",
+        "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv9.png",
+        "group": "Malaysia",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8"
+      },
+      {
+        "name": "BERITA RTM",
+        "logo": "https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",
+        "group": "Malaysia",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8"
+      },
+      {
+        "name": "SUKAN RTM",
+        "logo": "https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",
+        "group": "Malaysia",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8"
+      },
+      {
+        "name": "Astro Awani",
+        "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png",
+        "group": "Malaysia",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8"
+      },
+      {
+        "name": "Dewan Rakyat",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",
+        "group": "Malaysia",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8"
+      },
+      {
+        "name": "DewanNegara",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",
+        "group": "Malaysia",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8"
       }
     ],
     "INT MOVIES & DRAMA": [
@@ -9491,76 +9519,6 @@
         "url": "https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILozxEtkHyiiGgf7Od27YgV0"
       },
       {
-        "name": "iNEWS",
-        "logo": "https://hometv.pw/logo/lokal/inews.png",
-        "group": "News",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd"
-      },
-      {
-        "name": "TVONE",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Ftvone.jfif?alt=media&token=8c2324ed-dc6d-48e0-b31f-e98fef713a9f",
-        "group": "News",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne"
-      },
-      {
-        "name": "TVRI",
-        "logo": "https://hometv.pw/logo/lokal/tvri.png",
-        "group": "News",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=TVRI"
-      },
-      {
-        "name": "NHK World Japan",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fnhkjpn2IhfbbfiHIFh294.png?alt=media&token=18f12633-7bf7-4def-be06-b8d20b104098",
-        "group": "News",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8"
-      },
-      {
-        "name": "CNA",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcna.jfif?alt=media&token=82e933ca-3594-46ff-8811-c2c045f56658",
-        "group": "News",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd"
-      },
-      {
-        "name": "SEA Today",
-        "logo": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_81uwc59i/banner_xxhdpi.jpg",
-        "group": "News",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7cafff42-3569-1a1e-d668-c36036b1c848)/manifest.mpd"
-      },
-      {
-        "name": "Kompas TV",
-        "logo": "https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FKompas%20TV%20SD-FirstMedia-Chl-15.jpg&w=1920&q=100",
-        "group": "News",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV"
-      },
-      {
-        "name": "IDX",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FIDX.png?alt=media&token=f0745624-857e-4748-aba5-931097e8ffcb",
-        "group": "News",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd"
-      },
-      {
-        "name": "CNBC",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcnbc.jpg?alt=media&token=0d4dacdf-2f32-4689-b849-09681fb9a415",
-        "group": "News",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://streamo.web.id/api/1/get/live/tv/channel/7"
-      },
-      {
-        "name": "CNN Indonesia",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcnnid.jpg?alt=media&token=d4345c4c-4b2c-4f2b-bd16-91d443d5d58a",
-        "group": "News",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://streamo.web.id/api/1/get/live/tv/channel/6"
-      },
-      {
         "name": "BBC News Asia Pacific (720p)",
         "logo": "https://i.imgur.com/vSz2WEp.png",
         "group": "News",
@@ -10009,69 +9967,6 @@
         "group": "Entertainment",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71038"
-      },
-      {
-        "name": "HITS",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd"
-      },
-      {
-        "name": "ROCK ACTION",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frock-action-55bdd5.webp?alt=media&token=cc883d1d-85bd-4108-81ee-3e3890a8506f",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd"
-      },
-      {
-        "name": "K-plus",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD"
-      },
-      {
-        "name": "KIX",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fkix.jpg?alt=media&token=a63f4860-fe6c-4f24-9f45-61efae813ca0",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd"
-      },
-      {
-        "name": "tvN",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FtvN.jpg?alt=media&token=98a82cdc-60f6-4c89-a067-bb7923217404",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd"
-      },
-      {
-        "name": "Animax",
-        "logo": "https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Animax%20SD-FirstMedia-Chl-52.jpg",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd"
-      },
-      {
-        "name": "AXN",
-        "logo": "https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/AXN%20HD-FirstMedia-Chl-332.jpg",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd"
-      },
-      {
-        "name": "One",
-        "logo": "https://www.firstmedia.com/files/icons/channel/One-Ch205.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd"
-      },
-      {
-        "name": "allplay ent.",
-        "logo": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_psqdb637/banner_xxhdpi.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5f2e7606-4f4c-8524-afa8-a9439519c970)/manifest.mpd"
       },
       {
         "name": "Crime + Investigation Asia HD (720p) [Geo-blocked]",
@@ -10713,27 +10608,6 @@
         "group": "Knowledge",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd"
-      },
-      {
-        "name": "CRIME INVESTIGATION",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FCrimeInvestigation.png?alt=media&token=a300c19e-2d54-47b4-9df9-e7664519b114",
-        "group": "Knowledge",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
-      },
-      {
-        "name": "HISTORY CHANNEL",
-        "logo": "https://www.firstmedia.com/files/logos/channels/1-DOCUMENTARY/History%20HD-FirstMedia-Chl-365.jpg",
-        "group": "Knowledge",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/History/sa_dash_vmx/History.mpd"
-      },
-      {
-        "name": "Nasa TV",
-        "logo": "https://image.roku.com/developer_channels/prod/82f06a124571d35829348d87fb1224dd5217807d338a1b7bf262edffa6be71aa.png",
-        "group": "Knowledge",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8"
       }
     ],
     "Music": [
@@ -11173,7 +11047,7 @@
         "logo": "https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Indosiar.png",
         "group": "TV Nasional Indonesia",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/cmimiw.m3u8"
+        "url": "http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts"
       },
       {
         "name": "RCTI",
@@ -11218,18 +11092,11 @@
         "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd"
       },
       {
-        "name": "Trans TV",
-        "logo": "https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TransTV.jpg",
+        "name": "TRANS TV",
+        "logo": "https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg",
         "group": "TV Nasional Indonesia",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2108851844_b344100_sleng.m3u8"
-      },
-      {
-        "name": "Trans7 HD",
-        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_110.png",
-        "group": "TV Nasional Indonesia",
-        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144556368_b744100_sleng.m3u8"
+        "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8"
       },
       {
         "name": "TV ONE HD",
@@ -11272,6 +11139,13 @@
         "group": "TV Nasional Indonesia",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd"
+      },
+      {
+        "name": "Mentari TV",
+        "logo": "https://images.indihometv.com/logo_mentaritv_small.png",
+        "group": "TV Nasional Indonesia",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8"
       },
       {
         "name": "NET TV",
@@ -12506,6 +12380,20 @@
         "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd|Referer=https://www.visionplus.id/"
       },
       {
+        "name": "National Geographic",
+        "logo": "https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg",
+        "group": "Pengetahuan Umum",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8"
+      },
+      {
+        "name": "National Geographic Wild",
+        "logo": "https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg",
+        "group": "Pengetahuan Umum",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8"
+      },
+      {
         "name": "Wild Earth",
         "logo": "https://dl.dropbox.com/s/yaa8ie58g3ztylt/Screenshot_20230214_202558_Dropbox.jpg",
         "group": "Pengetahuan Umum",
@@ -13170,13 +13058,6 @@
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
       },
       {
-        "name": "14.TRANSTV",
-        "logo": "https://i.ibb.co.com/Hr47xyW/transtv.png",
-        "group": "NASIONAL",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8"
-      },
-      {
         "name": "CNN Indonesia",
         "logo": "https://i.imgur.com/wzorkzF.png",
         "group": "NASIONAL",
@@ -13433,13 +13314,6 @@
         "group": "OLAHRAGA LOKAL",
         "source": "https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main",
         "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd"
-      },
-      {
-        "name": "MNC Sportstars 2 (WORTH)",
-        "logo": "https://i.imgur.com/bmY7G2P.jpeg",
-        "group": "OLAHRAGA LOKAL",
-        "source": "https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main",
-        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd"
       }
     ],
     "FILM": [
@@ -15920,6 +15794,13 @@
         "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/"
       },
       {
+        "name": "Champions TV 2",
+        "logo": "https://iili.io/2lP43sS.png",
+        "group": "SPORTS INDO",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash"
+      },
+      {
         "name": "Soccer Channel",
         "logo": "https://i.imgur.com/68y2OmC.png",
         "group": "SPORTS INDO",
@@ -15927,11 +15808,11 @@
         "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd"
       },
       {
-        "name": "Sportstars 1 HD",
-        "logo": "https://i.imgur.com/OkQzNhc.png",
+        "name": "Sportstars 3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",
         "group": "SPORTS INDO",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd"
+        "url": "https://dusk.biz.id/rp/index.mpd?id=114"
       },
       {
         "name": "SPOTV V+",
@@ -16265,189 +16146,189 @@
     "MOVIES": [
       {
         "name": "HBO (OS7+)",
-        "logo": "https://i.ibb.co.com/LgqX1qJ/hbo.png",
+        "logo": "https://i.ibb.co.com/qMWw8Tph/HBO.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|referrer=https://www.cubmu.com/"
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd|referrer=https://www.cubmu.com/"
       },
       {
         "name": "HBO Hits (OS7+)",
-        "logo": "https://i.ibb.co.com/L9myfz5/hbohits.png",
+        "logo": "https://i.ibb.co.com/CpFzG9rS/HBO-HITS.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/"
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/"
       },
       {
         "name": "HBO Family (OS7+)",
-        "logo": "https://i.ibb.co.com/dLR3Sqq/hbofamily.png",
+        "logo": "https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|https://www.cubmu.com/"
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|https://www.cubmu.com/"
       },
       {
         "name": "HBO Signature (OS7+)",
-        "logo": "https://i.ibb.co.com/nLwxYL5/hbosignatur.png",
+        "logo": "https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|referrer=https://www.cubmu.com/"
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|referrer=https://www.cubmu.com/"
       },
       {
         "name": "CINEMAX (OS7+)",
-        "logo": "https://i.ibb.co.com/0chM7YL/cinemax.png",
+        "logo": "https://i.ibb.co.com/0pWPCfLb/CINEMAX.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|referrer=https://www.cubmu.com/"
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|referrer=https://www.cubmu.com/"
       },
       {
         "name": "HBO",
-        "logo": "https://i.ibb.co.com/LgqX1qJ/hbo.png",
+        "logo": "https://i.ibb.co.com/qMWw8Tph/HBO.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8"
       },
       {
         "name": "HBO Family",
-        "logo": "https://i.ibb.co.com/dLR3Sqq/hbofamily.png",
+        "logo": "https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8"
       },
       {
         "name": "HBO Signature",
-        "logo": "https://i.ibb.co.com/nLwxYL5/hbosignatur.png",
+        "logo": "https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8"
       },
       {
         "name": "Cinemax",
-        "logo": "https://i.ibb.co.com/0chM7YL/cinemax.png",
+        "logo": "https://i.ibb.co.com/0pWPCfLb/CINEMAX.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8"
       },
       {
         "name": "Celestial Movies",
-        "logo": "https://i.ibb.co.com/xChWWg1/celestialmovies.png",
+        "logo": "https://i.ibb.co.com/M5fmmb2y/CCM.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd"
       },
       {
         "name": "Celestial Classic",
-        "logo": "https://i.ibb.co.com/S0BMmpm/ccm.png",
+        "logo": "https://i.ibb.co.com/xKzn0YrQ/CCMC.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8"
       },
       {
         "name": "GALAXY",
-        "logo": "https://i.ibb.co.com/xgBwP9Z/galaxy.png",
+        "logo": "https://i.ibb.co.com/TBf1qfxj/GALAXY.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd"
+        "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|referrer=https://visionplus.id"
       },
       {
-        "name": "GALAXY PREMIUM",
-        "logo": "https://i.ibb.co.com/K6jTh7b/galaxy-premium.png",
+        "name": "GALAXY PREMIUM 2",
+        "logo": "https://i.ibb.co.com/93HkxQz4/GALAXY-P.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd"
+        "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|https://visionplus.id"
       },
       {
         "name": "HITS MOVIES",
-        "logo": "https://i.ibb.co.com/fdrn9mq/hits-movies.png",
+        "logo": "https://i.ibb.co.com/7tPf37Yn/HITSM.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd"
       },
       {
         "name": "THRILL",
-        "logo": "https://i.ibb.co.com/jD2yKv2/thrill.png",
+        "logo": "https://i.ibb.co.com/mVpcFt2r/THRILL.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd"
+        "url": "http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8"
       },
       {
         "name": "MY CINEMA",
-        "logo": "https://i.ibb.co.com/t2LL0r5/mycinema.png",
+        "logo": "https://i.ibb.co.com/0yMpwdM1/MYCINEMA.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/"
       },
       {
         "name": "MY CINEMA ASIA",
-        "logo": "https://i.ibb.co.com/nmGP0g8/mycinemaasia.png",
+        "logo": "https://i.ibb.co.com/5Wr11XxS/MCA.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/"
       },
       {
         "name": "MY FAMILY",
-        "logo": "https://i.ibb.co.com/CtvwxDC/myfamily.png",
+        "logo": "https://i.ibb.co.com/pBHPPRb5/MFC.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43"
       },
       {
         "name": "CINEMACHI",
-        "logo": "https://i.ibb.co.com/DRcyjX0/cinemaci.png",
+        "logo": "https://i.ibb.co.com/C3W3ccLj/CINEMACHI.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd"
+        "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd|referrer=https://www.visionplus.id/"
       },
       {
         "name": "CINEMACHI KIDS",
-        "logo": "https://i.ibb.co.com/Vjy4sKh/cinemachi-kids.png",
+        "logo": "https://i.ibb.co.com/ch5pR3s2/CK.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd"
+        "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd|referrer=https://www.visionplus.id/"
       },
       {
         "name": "CINEMACHI ACTION",
-        "logo": "https://i.ibb.co.com/6YyfQ2f/cinemachi-action.png",
+        "logo": "https://i.ibb.co.com/7mD8ZyZ/CA.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd"
+        "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd|referrer=https://www.visionplus.id/"
       },
       {
         "name": "CINEMACHI MAX",
-        "logo": "https://i.ibb.co.com/JRZNVHK/cinemachi-max.png",
+        "logo": "https://i.ibb.co.com/4w2YT9bK/CM.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd"
+        "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd|referrer=https://www.visionplus.id/"
+      },
+      {
+        "name": "CINEMACHI XTRA",
+        "logo": "https://i.ibb.co.com/DPt6nd8c/IMG-20250501-215519.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd|referrer=https://www.visionplus.id/"
       },
       {
         "name": "IMC",
-        "logo": "https://i.ibb.co.com/JCHCg2g/imc.png",
+        "logo": "https://i.ibb.co.com/N246ycVQ/IMC.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd"
+        "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd|referrer=https://visionplus.id"
       },
       {
         "name": "ZEE BIOSKOP",
-        "logo": "https://i.ibb.co.com/gFnV1jG/zee-bioskop.png",
+        "logo": "https://i.ibb.co.com/MxS2dWYq/ZEE.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd"
       },
       {
-        "name": "ROCK ACTION V+",
-        "logo": "https://i.ibb.co.com/MBvq9ct/rockaction.png",
-        "group": "MOVIES",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/Rockaction/sa_dash/Rockaction.mpd"
-      },
-      {
         "name": "ROCK ACTION",
-        "logo": "https://i.ibb.co.com/MBvq9ct/rockaction.png",
+        "logo": "https://i.ibb.co.com/nNY9vLnZ/RA.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8|user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0&referrer=https://dens.tv/"
       },
       {
         "name": "Dunia Sinema",
-        "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png",
+        "logo": "https://i.ibb.co.com/gFt4WrjJ/DS.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8"
@@ -16479,6 +16360,220 @@
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529"
+      }
+    ],
+    "Brunei": [
+      {
+        "name": "RTB Sukmaindera FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",
+        "group": "Brunei",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2"
+      },
+      {
+        "name": "RTB Aneka FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",
+        "group": "Brunei",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8"
+      },
+      {
+        "name": "RTB Go Live FHD",
+        "logo": "https://i.imgur.com/CGlzsD5.png",
+        "group": "Brunei",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229"
+      }
+    ],
+    "🇮🇩FIRST MEDIA": [
+      {
+        "name": "CNN Int HD",
+        "logo": "https://w7.pngwing.com/pngs/335/473/png-transparent-cnn-international-fox-news-television-tv-channel-television-text-logo.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd"
+      },
+      {
+        "name": "Bloomberg",
+        "logo": "https://www.mncvision.id/userfiles/image/channel/bloomberg.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd"
+      },
+      {
+        "name": "NHK World Japan",
+        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd"
+      },
+      {
+        "name": "Reformed21",
+        "logo": "https://www.visionplus.id/images/repository/943/49943-SNAPSHOT-l.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd"
+      },
+      {
+        "name": "Catholic TV",
+        "logo": "https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8"
+      },
+      {
+        "name": "EWTN",
+        "logo": "https://www.visionplus.id/images/repository/945/49945-SNAPSHOT-l.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd"
+      },
+      {
+        "name": "GMS HD",
+        "logo": "https://gms.church/images/gms/short-white.svg",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd"
+      },
+      {
+        "name": "Kairos",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5fca74e49efd0e627a442de0/1607105292574-Z6A78BZ31PB9MUIZQ727/Kairos+Logo.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd"
+      },
+      {
+        "name": "TBN Asia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/1200px-TBN_logo_2015.jpg",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mpd/TBNAsia.mpd"
+      },
+      {
+        "name": "Jiangsu TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd"
+      },
+      {
+        "name": "Hunan TV",
+        "logo": "https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd"
+      },
+      {
+        "name": "TVB Xing He",
+        "logo": "https://static.wikia.nocookie.net/logos/images/2/21/TVB_Xing_He_2018.png/revision/latest/scale-to-width-down/1064?cb=20220222135559&amp;path-prefix=vi",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd"
+      },
+      {
+        "name": "Zhejiang TV",
+        "logo": "https://w7.pngwing.com/pngs/10/901/png-transparent-zhejiang-icon-zhejiang-tv-column-icon-blue-angle-text-thumbnail.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd"
+      },
+      {
+        "name": "Anhui TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd"
+      },
+      {
+        "name": "Dragon TV",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/28/Dragon_TV_2015_Stacked_logo.png/revision/latest/scale-to-width-down/250?cb=20241209140521",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd"
+      },
+      {
+        "name": "Shenzen TV",
+        "logo": "https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd"
+      },
+      {
+        "name": "TVBS News",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/TVBSNEWS2008.png/revision/latest/scale-to-width-down/300?cb=20231003151627",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd"
+      },
+      {
+        "name": "TVBS Asia",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd"
+      },
+      {
+        "name": "CCTV 4",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest/scale-to-width-down/250?cb=20200119091533",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd"
+      },
+      {
+        "name": "JAK TV",
+        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_113.jpg",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd"
+      },
+      {
+        "name": "KBS WORLD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd"
+      },
+      {
+        "name": "SBSTV",
+        "logo": "https://w7.pngwing.com/pngs/399/929/png-transparent-sbs-broadcasting-hd-logo-thumbnail.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "First Lifestyle",
+        "logo": "https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd"
+      },
+      {
+        "name": "Arirang",
+        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_351.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd"
+      },
+      {
+        "name": "Dreamworks HD",
+        "logo": "https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd"
+      },
+      {
+        "name": "MTV 90's",
+        "logo": "https://www.visionplus.id/images/repository/950/49950-SNAPSHOT-l.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd"
+      },
+      {
+        "name": "MTV Live HD",
+        "logo": "https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png",
+        "group": "🇮🇩FIRST MEDIA",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd"
       }
     ],
     "( っ'-')っ 📌 iNFo": [
@@ -16553,20 +16648,6 @@
         "group": "No SignaL 📺",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|referrer=https://visionplus.id/"
-      },
-      {
-        "name": "Sportstars 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",
-        "group": "No SignaL 📺",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://dusk.biz.id/rp/index.mpd?id=114"
-      },
-      {
-        "name": "SPORTSTARS 4 HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",
-        "group": "No SignaL 📺",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/"
       },
       {
         "name": "RCTI",
@@ -17038,13 +17119,6 @@
         "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd"
       },
       {
-        "name": "BEIN SPORTS EXTRA",
-        "logo": "https://images.pluto.tv/channels/5df975e2b27cf5000921c102/featuredImage.jpg",
-        "group": "No SignaL 📺",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-      },
-      {
         "name": "beIN Sports 1",
         "logo": "https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",
         "group": "No SignaL 📺",
@@ -17078,13 +17152,6 @@
         "group": "No SignaL 📺",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash/BEIN05.mpd"
-      },
-      {
-        "name": "Champions TV 2",
-        "logo": "https://iili.io/2lP43sS.png",
-        "group": "No SignaL 📺",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash"
       },
       {
         "name": "beIN Sports 1 ID",
@@ -20849,13 +20916,6 @@
         "group": "Malaysia 🇲🇾",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://unifi-live01.secureswiftcontent.com/UnifiHD/live06.mpd"
-      },
-      {
-        "name": "TV 8_",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png",
-        "group": "Malaysia 🇲🇾",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8"
       },
       {
         "name": "TV 9",
@@ -27781,122 +27841,6 @@
         "url": "https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3"
       }
     ],
-    "Lokal FTA": [
-      {
-        "name": "Trans 7",
-        "logo": "https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F8-Lokal FTA%2FTrans%207%20SD-FirstMedia-Chl-8.jpeg&w=1920&q=100",
-        "group": "Lokal FTA",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://streamo.web.id/api/1/get/live/tv/channel/3"
-      },
-      {
-        "name": "Indosiar",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Findosiar.jfif?alt=media&token=3ee58305-4fde-490c-8470-742c5652a957",
-        "group": "Lokal FTA",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://streamo.web.id/api/1/get/live/tv/channel/1"
-      },
-      {
-        "name": "SCTV",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fsctv.jfif?alt=media&token=76a3b0df-822f-498e-b80c-0137449b8374",
-        "group": "Lokal FTA",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
-      },
-      {
-        "name": "ANTV",
-        "logo": "https://www.firstmedia.com/files/logos/channels/8-Lokal FTA/ANTV%20SD-FirstMedia-Chl-13.jpg",
-        "group": "Lokal FTA",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv"
-      },
-      {
-        "name": "RTV",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frtv.jpg?alt=media&token=f446a58b-c091-4c72-bc17-aa26f2ebb965",
-        "group": "Lokal FTA",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV"
-      },
-      {
-        "name": "Nusantara TV",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FNusantara_TV.png?alt=media&token=e468e3e0-8401-429b-abef-7868f02a5e44",
-        "group": "Lokal FTA",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8"
-      },
-      {
-        "name": "RCTI",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frcti.jfif?alt=media&token=7c17a756-2f1b-45b8-abb4-f8407c0539eb",
-        "group": "Lokal FTA",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://streamo.web.id/api/1/get/live/tv/channel/14.m3u8"
-      },
-      {
-        "name": "MNCTV",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fmnctv.jfif?alt=media&token=7483abbd-d27e-41e8-b387-9f8e3a8aadaf",
-        "group": "Lokal FTA",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://streamo.web.id/api/1/get/live/tv/channel/15.m3u8"
-      },
-      {
-        "name": "GTV",
-        "logo": "https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fgtv.jfif?alt=media&token=5bfc6308-4504-4f5d-a7c6-ae842d3b2809",
-        "group": "Lokal FTA",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://streamo.web.id/api/1/get/live/tv/channel/16.m3u8"
-      },
-      {
-        "name": "Moji",
-        "logo": "https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg",
-        "group": "Lokal FTA",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8"
-      }
-    ],
-    "SPORTS": [
-      {
-        "name": "FIGHT SPORTS",
-        "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=FIGHT_SPORTS_HD"
-      },
-      {
-        "name": "SPOTV",
-        "logo": "https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV%20SD-FirstMedia-Chl-139.jpg&w=1920&q=100",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd"
-      },
-      {
-        "name": "SPOTV2",
-        "logo": "https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20SD-FirstMedia-Chl-140.jpg&w=1920&q=100",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd"
-      },
-      {
-        "name": "REDBULL TV",
-        "logo": "https://github.com/justemonn1/tv/raw/main/master/poster/red-bull-tv-banner.webp",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
-      },
-      {
-        "name": "MOTORVISION",
-        "logo": "https://github.com/justemonn1/tv/blob/main/master/poster/motorvisiontv-696x400.jpg?raw=true",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B"
-      },
-      {
-        "name": "SPORTSTARS 3",
-        "logo": "https://hometv.pw/logo/sports/sportstars.jpg",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u",
-        "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd"
-      }
-    ],
     "Religious": [
       {
         "name": "Angel TV Far East (720p)",
@@ -28025,6 +27969,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
         "url": "https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8"
+      },
+      {
+        "name": "Nusantara TV (720p)",
+        "logo": "https://i.imgur.com/viun5hj.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8"
       },
       {
         "name": "Pal TV (720p) [Not 24/7]",
