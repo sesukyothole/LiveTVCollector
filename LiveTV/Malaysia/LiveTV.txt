@@ -21,12 +21,12 @@ URL: https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 Logo: https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: Riyoo test only
+Name: Ryoo test only
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 Logo: https://aqfadtv.xyz/logos/Astro Ria (2024).png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: Prymo test only
+Name: Prymoo test only
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 Logo: https://aqfadtv.xyz/logos/Astro Prima (2024).png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
