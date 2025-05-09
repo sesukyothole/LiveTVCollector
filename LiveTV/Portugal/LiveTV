@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjUgNDo3OjU2IFBNJmhhc2hfdmFsdWU9UThGZW03Tk1lWUZvbUFud0NteTJMdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZhNWZhMWFhLTUxNzktNGM3NC1hMDA1LTllNmJmYzJjZjYyYQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjUgMTI6MzA6MTkgQU0maGFzaF92YWx1ZT1ERzdkZCtFWU5tK2dnUWlpMFViSVJBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWY1MDE0MTEtMjNiNy00ZWY2LWI4ODItOTUwNmVjYjM0NzJh/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjUgNDo3OjU3IFBNJmhhc2hfdmFsdWU9Yk51aDRpMnJxZGtoR2JOZzNHb3hldz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI5YTAzOGQ2LWFmNmEtNDYyMC05ZTc1LTE4YWM2MjJlZjAwYw==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjUgMTI6MzA6MjAgQU0maGFzaF92YWx1ZT0yWVlMZzVFZFRrbmpaYlhmaFprdjd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTMwZDczMDItZmNjZC00YzQ4LWE4Y2UtN2Y5M2EwNDRmZDI2/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjUgNDo3OjU4IFBNJmhhc2hfdmFsdWU9NDRiQ2pJOHZqbW05czdoN0hnUUxRQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBiNDM5MjdjLTY1MWYtNGM1NS04YmM4LTE1YzhmOGI1NjdjNQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjUgMTI6MzA6MjEgQU0maGFzaF92YWx1ZT1WaUlUOVRRZytJdWtzTDJpc2tUOE9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTRmYWMxMjctZjQwMS00NTFkLThjZGMtMmQwYWY1Mzk2YjZj/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -4296,6 +4296,24 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg"
   },
   {
+    "name": "IEGCQT S11E20 07-05-2025",
+    "type": "IEGCQT",
+    "url": "https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_1vn5rrl1/v/11/ev/14/flavorId/1_,m8sa22cp,3ik0ac99,jsojlhzc,z06tgg3s,jtq2rjav,6yxfko1i,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png"
+  },
+  {
+    "name": "IEGCQT S11E19 06-05-2025",
+    "type": "IEGCQT",
+    "url": "https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_xu2676h8/v/11/ev/14/flavorId/1_,nf8bks5i,8lqkxu39,9crhiqa3,9p91mqg4,5jat4iyj,igu3sfvc,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png"
+  },
+  {
+    "name": "IEGCQT S11E18 05-05-2025",
+    "type": "IEGCQT",
+    "url": "https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_827l94w5/v/11/ev/14/flavorId/1_,mjqf10bs,zqp5hy1u,7foleqvu,rmla47j1,sge3ua0j,hmz1t81g,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png"
+  },
+  {
     "name": "IEGCQT S11E17 04-05-2025",
     "type": "IEGCQT",
     "url": "https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_c4ygkcxo/v/11/ev/13/flavorId/1_,vmq912nl,1i2lcdl1,zjiwh55b,qkeswq2z,uucscz73,x6tr4i8b,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
@@ -5732,31 +5750,37 @@
   {
     "name": "RTP Internacional 🇵🇹",
     "type": "🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/RTPi.m3u8",
+    "url": "http://78.128.125.60:9981/play/a00k/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/fr/c/cf/RTP_Internacional_logo_2012.png"
   },
   {
     "name": "RTP 1 🇵🇹",
     "type": "🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/rtp1.m3u8",
+    "url": "http://tv14s.xyz:8080//live/5ThaSM/484504/164792.ts",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png"
+  },
+  {
+    "name": "RTP 2 🇵🇹",
+    "type": "🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
+    "url": "http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=118449&extension=ts",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png"
   },
   {
     "name": "RTP Memoria 🇵🇹",
     "type": "🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/RTPm.m3u8",
+    "url": "http://wovaer.com//live/K8N7fg/7E5hyV/112055.ts",
     "img": "https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-memoria-pt.png"
   },
   {
     "name": "RTP Madeira 🇵🇹",
     "type": "🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/RTPmad.m3u8",
+    "url": "http://wovaer.com//live/K8N7fg/7E5hyV/112058.ts",
     "img": "https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-madeira-pt.png"
   },
   {
     "name": "RTP África 🇵🇹",
     "type": "🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/RTPa.m3u8",
+    "url": "http://wovaer.com//live/K8N7fg/7E5hyV/112057.ts",
     "img": "https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/rtp-africa-pt.png"
   },
   {
@@ -5774,13 +5798,13 @@
   {
     "name": "TVI Internacionalᶠᴴᴰ 🇵🇹",
     "type": "🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjUgMToyOjM4IFBNJmhhc2hfdmFsdWU9VHgvZUxZVWVSTzdvNWJDYmN1eEpFZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTczYzViOTgzLTgxNTMtNDFiZS05OGE4LWM2MTJmMmY3YTA1ZQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjUgODozOTo3IFBNJmhhc2hfdmFsdWU9YkgrcmdxK1BWVDEyc2JKemk1bkN1Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBkMzY2ZTNmLTYyMmYtNGNlNi04YjFhLWZkYjFlM2E1NzU3NQ==/",
     "img": "https://logo.iptveditor.com/tviinternacional.png"
   },
   {
     "name": "TVI 🇵🇹",
     "type": "🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjUgMToyOjM3IFBNJmhhc2hfdmFsdWU9UHA2NStXRWZCUWlmcmZxTW8wZnVCdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWFjZWQxZDdiLThjYTktNDUwNy05MjAyLTFkN2QyM2ZlMzYxZQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjUgODozOTo1IFBNJmhhc2hfdmFsdWU9UkhNY29XTXNDVHVURFg3WDlwY0NpUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkwMmRjYzViLTg4NmMtNGVhMy04NjgxLWQ2ZWIzY2M1MDdmYQ==/",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp"
   },
   {
@@ -5816,7 +5840,7 @@
   {
     "name": "RTP 3 🇵🇹",
     "type": "🌈🆁™ News 🇵🇹🇧🇷",
-    "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/rtp3.m3u8",
+    "url": "http://wovaer.com//live/K8N7fg/7E5hyV/111949.ts",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png"
   },
   {
@@ -5840,7 +5864,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "🌈🆁™ News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjUgMToyOjM3IFBNJmhhc2hfdmFsdWU9RkRNbmw1ckY3QlR5ZE5ic3NJQ1dqZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdjMzhjMmFjLTNiMGQtNDg0Yi1iYzFhLTYwY2E4ZTJkMjYyOA==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjUgODozOTo2IFBNJmhhc2hfdmFsdWU9ZitZem1xMGw3dWpuWXh3QURRQ3NiZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY4MTQzMDFhLTlkMGEtNDY5Ni05MGRhLTNiMmQ0Yzk4NThkOA==/",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp"
   },
   {
@@ -6650,7 +6674,7 @@
   {
     "name": "Retro Cartoon 🇧🇷",
     "type": "🌈🆁™ Kids 🧒🌎",
-    "url": "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8",
+    "url": "https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/mariosanthos/arquivos/main/rc.png"
   },
   {
@@ -7632,19 +7656,13 @@
     "img": "https://logo.iptveditor.com/globo.png"
   },
   {
-    "name": "Record tv sᴘ 🇧🇷",
+    "name": "Record tv 🇧🇷",
     "type": "🌈🆁™ Brasil 🇧🇷",
-    "url": "http://185.236.183.117:14567/Recordhd",
+    "url": "https://alanza.iptv2022.com/sh/RecordTV/index.m3u8",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp"
   },
   {
-    "name": "Record tv sᴘ 🇧🇷",
-    "type": "🌈🆁™ Brasil 🇧🇷",
-    "url": "https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp"
-  },
-  {
-    "name": "Record 🇧🇷",
+    "name": "Record tv Amplitude Juina 🇧🇷",
     "type": "🌈🆁™ Brasil 🇧🇷",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp"
@@ -7664,6 +7682,12 @@
   {
     "name": "SBT Internacional 🇧🇷 ⚽️",
     "type": "🌈🆁™ Brasil 🇧🇷",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8",
+    "img": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png"
+  },
+  {
+    "name": "SBT ʙᴀ 🇧🇷",
+    "type": "🌈🆁™ Brasil 🇧🇷",
     "url": "http://185.236.183.117:14597/SBTfhd",
     "img": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png"
   },
@@ -7671,12 +7695,6 @@
     "name": "SBT Interior 🇧🇷",
     "type": "🌈🆁™ Brasil 🇧🇷",
     "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-    "img": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png"
-  },
-  {
-    "name": "SBT Interior 🇧🇷",
-    "type": "🌈🆁™ Brasil 🇧🇷",
-    "url": "https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8",
     "img": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png"
   },
   {
@@ -7728,6 +7746,12 @@
     "img": "https://canalcurta.tv.br/assets/img/logo_canalcurta.png"
   },
   {
+    "name": "NZ tv 🇧🇷",
+    "type": "🌈🆁™ Brasil 🇧🇷",
+    "url": "https://alanza.iptv2022.com/sh/NZ_TV/playlist.m3u8",
+    "img": "https://yt3.googleusercontent.com/qk1dTmY4J3FI2PLGjuf_Zs6elxgYU3fG6PSeB_gqs6k5tJ-ARB-6KycW6fxsggd249xdlj3Z=w0"
+  },
+  {
     "name": "Zoom tvᶠᴴᴰ 🇧🇷",
     "type": "🌈🆁™ Brasil 🇧🇷",
     "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
@@ -7767,12 +7791,6 @@
     "name": "Cultne tvᶠᴴᴰ 🇧🇷",
     "type": "🌈🆁™ Brasil 🇧🇷",
     "url": "https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8",
-    "img": "https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png"
-  },
-  {
-    "name": "Cultne tv 🇧🇷",
-    "type": "🌈🆁™ Brasil 🇧🇷",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66296e755a402e00086a2c47/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
     "img": "https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png"
   },
   {
@@ -8184,18 +8202,6 @@
     "img": "https://logo.iptveditor.com/hboplus.png"
   },
   {
-    "name": "RCN 🇨🇴",
-    "type": "🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",
-    "url": "http://190.0.241.181:8000/play/a09n/index.m3u8",
-    "img": "https://logo.iptveditor.com/rcn.png"
-  },
-  {
-    "name": "RCN Más 🇨🇴 [ʀᴏkυ]",
-    "type": "🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",
-    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-    "img": "https://logo.iptveditor.com/rcnmas.png"
-  },
-  {
     "name": "Universal Premiere 🇺🇾🇸🇻",
     "type": "🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",
     "url": "http://clubtv.link/my0505/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8",
@@ -8204,7 +8210,7 @@
   {
     "name": "Universal Cinema 🇺🇾🇸🇻",
     "type": "🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",
-    "url": "http://45.184.87.142:8000/play/a05o",
+    "url": "http://clubtv.link/my0505/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8",
     "img": "https://logo.iptveditor.com/universalcinema.png"
   },
   {
@@ -8218,6 +8224,18 @@
     "type": "🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",
     "url": "http://45.184.87.142:8000/play/a059",
     "img": "https://logo.iptveditor.com/universalreality.png"
+  },
+  {
+    "name": "RCN 🇨🇴",
+    "type": "🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",
+    "url": "http://190.0.241.181:8000/play/a09n/index.m3u8",
+    "img": "https://logo.iptveditor.com/rcn.png"
+  },
+  {
+    "name": "RCN Más 🇨🇴 [ʀᴏkυ]",
+    "type": "🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",
+    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+    "img": "https://logo.iptveditor.com/rcnmas.png"
   },
   {
     "name": "Telemundo 🇲🇽",
@@ -9360,15 +9378,15 @@
     "img": "https://logo.iptveditor.com/espn6.png"
   },
   {
-    "name": "Goltv 🇪🇨",
+    "name": "Goltv (🔉 🇺🇸🇪🇨)",
     "type": "🌈🆁™ Liga Betclic 🌍",
     "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149786.m3u8",
     "img": "https://logo.iptveditor.com/goltv.png"
   },
   {
-    "name": "Goltv 🇺🇸",
+    "name": "Goltv 🇪🇨",
     "type": "🌈🆁™ Liga Betclic 🌍",
-    "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/goltv.m3u8",
+    "url": "http://38.41.8.1:8000/play/a0wi",
     "img": "https://logo.iptveditor.com/goltv.png"
   },
   {
@@ -9398,7 +9416,7 @@
   {
     "name": "αθλητική τηλεόραση 5",
     "type": "🌈🆁™ Liga Betclic 🌍",
-    "url": "http://fonte.lista.luxe:80//live/iptvgood/101011/7427.m3u8",
+    "url": "http://wovaer.com//live/K8N7fg/7E5hyV/112004.ts",
     "img": "https://logo.iptveditor.com/sporttv5.png"
   },
   {
@@ -13740,22 +13758,34 @@
     "img": "https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png"
   },
   {
-    "name": "XITE Gospel",
-    "type": "🌈🆁™ Music 🎧",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
-    "img": "https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png"
-  },
-  {
     "name": "MTV Originals",
     "type": "🌈🆁™ Music 🎧",
     "url": "http://wovaer.com//live/K8N7fg/7E5hyV/112095.ts",
     "img": "https://logo.iptveditor.com/mtv.png"
   },
   {
+    "name": "MTV Live",
+    "type": "🌈🆁™ Music 🎧",
+    "url": "http://38.41.8.1:8000/play/a0u3",
+    "img": "https://logo.iptveditor.com/mtvlive.png"
+  },
+  {
     "name": "MTV Hits 🇬🇧",
     "type": "🌈🆁™ Music 🎧",
     "url": "http://185.189.225.150:85/MTVHits/index.m3u8",
     "img": "https://logo.iptveditor.com/mtvhits.png"
+  },
+  {
+    "name": "MTV 00' 🇬🇧",
+    "type": "🌈🆁™ Music 🎧",
+    "url": "http://38.41.8.1:8000/play/a0u6",
+    "img": "https://logo.iptveditor.com/mtv00s.png"
+  },
+  {
+    "name": "MTV 80's 🇬🇧",
+    "type": "🌈🆁™ Music 🎧",
+    "url": "http://200.115.96.66:4000/play/a028/index.m3u8",
+    "img": "https://logo.iptveditor.com/mtv80s.png"
   },
   {
     "name": "Sol Musica 🇪🇸",
@@ -13862,7 +13892,7 @@
   {
     "name": "RetroPlus 🇨🇱",
     "type": "🌈🆁™ Music 🎧",
-    "url": "https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w30695301.m3u8",
+    "url": "https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/retroplus.webp"
   },
   {
@@ -13978,6 +14008,24 @@
     "type": "🌈🆁™ Music 🎧",
     "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rocktv.webp"
+  },
+  {
+    "name": "Recuerdos Retro 🇪🇸",
+    "type": "🌈🆁™ Music 🎧",
+    "url": "https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8",
+    "img": "https://play-lh.googleusercontent.com/Snu-PktsqfjthE4GwulWDqi_KgmERwhe7GQB8SQc0zJUwwMwGUA5FG_IySGU9kJARu4=w0"
+  },
+  {
+    "name": "Italianissimo 🇮🇹",
+    "type": "🌈🆁™ Music 🎧",
+    "url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
+    "img": "https://www.italianissimotv.com/italianissimo%20tv.png"
+  },
+  {
+    "name": "Cantina tv 🇻🇪",
+    "type": "🌈🆁™ Music 🎧",
+    "url": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8",
+    "img": "https://www.cantinatv.com/cantina%20tv.png"
   },
   {
     "name": "Juice tvᶠᴴᴰ 🇳🇱",
