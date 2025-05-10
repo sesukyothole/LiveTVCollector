@@ -456,6 +456,12 @@
     "img": "https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png"
   },
   {
+    "name": "TVB VIỆT NAM",
+    "type": "TVB",
+    "url": "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8",
+    "img": "https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg"
+  },
+  {
     "name": "HiTV",
     "type": "Địa phương",
     "url": "https://xem.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh.m3u8",

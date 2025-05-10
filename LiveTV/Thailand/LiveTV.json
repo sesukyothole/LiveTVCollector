@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-10 07:28:52",
+  "date": "2025-05-10 13:59:51",
   "channels": {
     "VTV": [
       {
@@ -543,6 +543,15 @@
         "group": "Livestream",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8"
+      }
+    ],
+    "TVB": [
+      {
+        "name": "TVB VIỆT NAM",
+        "logo": "https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",
+        "group": "TVB",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8"
       }
     ],
     "Địa phương": [
