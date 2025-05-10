@@ -416,11 +416,75 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="News",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="Sports",801 Astro Arena HD
-https://raw.githubusercontent.com/HyperDuck99/xyxxxn/refs/heads/main/1000003838.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png" group-title="Sports",802 Astro Arena 2 HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" group-title="Sports",803 Astro Arena Bola
+https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_Arena_Bola_2_%282024%29.png" group-title="Sports",804 Astro Arena Bola 2 FHD
+https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp" group-title="Sports",813 Astro PremierLeague 3 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png" group-title="Sports",814 Astro Football HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png" group-title="Sports",815 Astro Badminton HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mcmpN9b/Astro-Badminton-2.webp" group-title="Sports",816 Astro Badminton 2 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="Sports",809 Astro Sports Plus HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="Sports",817 Astro Sports Plus HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="Sports",818 Astro PremierLeague 4 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="Sports",819 Astro PremierLeague 5 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Sports",820 BeINSports
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="Sports",821 beINSports 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports",822 beINSports 3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png" group-title="Sports",823 SPOTV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png" group-title="Sports",824 SPOTV2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sports",825 Eurosport
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/ee3bff6d510fb4ac3f386.png" group-title="Sports",826 W-Sport
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="Sports",831 NBC Golf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sports",833 Premier Sports
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="Sports",832 Astro Cricket HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="Sports",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ixoabqf.png" group-title="Sports",Unifi Sports 1
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cyberspywalker/image/main/Manchester-United-logo.png" group-title="Sports",Man United TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-real-madrid-tv-871.png" group-title="Sports",Real Madrid TV
+https://rmtv-canela.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wW297RH/NBC-logo-svg.png" group-title="Sports",NBC US
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Sports",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3tf9Fr/unnamed-8-modified.png" group-title="Sports",Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mks3pN0f/MOTOR-RACING.png" group-title="Sports",Motor Racing
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kcX92zz/ICARUS-SPORTS-JOINS-FORCES-WITH-CCTV-5.jpg" group-title="Sports",CCTV5+
+https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&ssl=1" group-title="Sports",Horizon Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxvTqGK/download-5-modified-1.png" group-title="Sports",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KXbsCm/fc-24-laliga-partnership.jpg" group-title="Sports",LaLiga TV Hypermotion
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KXbsCm/fc-24-laliga-partnership.jpg" group-title="Sports",LaLiga TV Hypermotion 2
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1KXbsCm/fc-24-laliga-partnership.jpg" group-title="Sports",LaLiga TV Hypermotion 3
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/JhkQMTF.png" group-title="Sports",SSC 2
@@ -441,6 +505,12 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VyYo7NF.png" group-title="Sports",Egg Network (720p)
 http://210.210.155.37/uq2663/h/h22/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png" group-title="SPORTS",810 Astro Grandstand
+https://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS",811 Astro Premier League
+https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTS",812 Astro Premier League 2
+https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck
 #EXTINF:-1 tvg-logo="https://iili.io/JhkQEp1.png" group-title="SPORTS",SSC 1
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio",HITZ FM
@@ -3409,12 +3479,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c720fd3be7189575a8
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb3886d940521074e0a836_hbovodhd/dash0/MYS_DOLBY_index.mpd
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018913X0-portrait.jpg" group-title="HBOGO Asia",On Location: An Evening With Robert Klein 1975
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912c75ba74fe65548cba69_hbovodsd/dash0/MYS_index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png" group-title="SPORT BACKUP",814 Astro Football HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORT BACKUP",801 Astro Arena HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png" group-title="SPORT BACKUP",802 Astro Arena 2 HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Far East (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN Africa Asia (720p)

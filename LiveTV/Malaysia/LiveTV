@@ -1250,8 +1250,146 @@
   {
     "name": "801 Astro Arena HD",
     "type": "Sports",
-    "url": "https://raw.githubusercontent.com/HyperDuck99/xyxxxn/refs/heads/main/1000003838.m3u8",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png"
+  },
+  {
+    "name": "802 Astro Arena 2 HD",
+    "type": "Sports",
+    "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png"
+  },
+  {
+    "name": "803 Astro Arena Bola",
+    "type": "Sports",
+    "url": "https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck",
+    "img": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png"
+  },
+  {
+    "name": "804 Astro Arena Bola 2 FHD",
+    "type": "Sports",
+    "url": "https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_Arena_Bola_2_%282024%29.png"
+  },
+  {
+    "name": "813 Astro PremierLeague 3 HD",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd",
+    "img": "https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp"
+  },
+  {
+    "name": "814 Astro Football HD",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png"
+  },
+  {
+    "name": "815 Astro Badminton HD",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png"
+  },
+  {
+    "name": "816 Astro Badminton 2 HD",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd",
+    "img": "https://i.ibb.co/mcmpN9b/Astro-Badminton-2.webp"
+  },
+  {
+    "name": "809 Astro Sports Plus HD",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png"
+  },
+  {
+    "name": "817 Astro Sports Plus HD",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png"
+  },
+  {
+    "name": "818 Astro PremierLeague 4 HD",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png"
+  },
+  {
+    "name": "819 Astro PremierLeague 5 HD",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png"
+  },
+  {
+    "name": "820 BeINSports",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd",
+    "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png"
+  },
+  {
+    "name": "821 beINSports 2",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd",
+    "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png"
+  },
+  {
+    "name": "822 beINSports 3",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd",
+    "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png"
+  },
+  {
+    "name": "823 SPOTV",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd",
+    "img": "https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png"
+  },
+  {
+    "name": "824 SPOTV2",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd",
+    "img": "https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png"
+  },
+  {
+    "name": "825 Eurosport",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd",
+    "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png"
+  },
+  {
+    "name": "826 W-Sport",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd",
+    "img": "https://telegra.ph/file/ee3bff6d510fb4ac3f386.png"
+  },
+  {
+    "name": "831 NBC Golf",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd",
+    "img": "http://linear-poster.astro.com.my/prod/logo/Golf_v1.png"
+  },
+  {
+    "name": "833 Premier Sports",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd",
+    "img": "http://linear-poster.astro.com.my/prod/logo/PremierSports.png"
+  },
+  {
+    "name": "832 Astro Cricket HD",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png"
+  },
+  {
+    "name": "Sukan RTM",
+    "type": "Sports",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png"
+  },
+  {
+    "name": "Unifi Sports 1",
+    "type": "Sports",
+    "url": "https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd",
+    "img": "https://i.imgur.com/Ixoabqf.png"
   },
   {
     "name": "Man United TV",
@@ -1260,10 +1398,64 @@
     "img": "https://raw.githubusercontent.com/cyberspywalker/image/main/Manchester-United-logo.png"
   },
   {
+    "name": "Real Madrid TV",
+    "type": "Sports",
+    "url": "https://rmtv-canela.amagi.tv/playlist.m3u8",
+    "img": "https://img.sport-tv-guide.live/images/tv-station-real-madrid-tv-871.png"
+  },
+  {
+    "name": "NBC US",
+    "type": "Sports",
+    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd",
+    "img": "https://i.ibb.co/wW297RH/NBC-logo-svg.png"
+  },
+  {
+    "name": "IMPACT! Wrestling",
+    "type": "Sports",
+    "url": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8",
+    "img": "https://i.imgur.com/XO8u1V7.png"
+  },
+  {
     "name": "Boxing TV",
     "type": "Sports",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8",
     "img": "https://i.ibb.co/W3tf9Fr/unnamed-8-modified.png"
+  },
+  {
+    "name": "Motor Racing",
+    "type": "Sports",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8",
+    "img": "https://i.postimg.cc/mks3pN0f/MOTOR-RACING.png"
+  },
+  {
+    "name": "CCTV5+",
+    "type": "Sports",
+    "url": "https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8",
+    "img": "https://i.ibb.co/kcX92zz/ICARUS-SPORTS-JOINS-FORCES-WITH-CCTV-5.jpg"
+  },
+  {
+    "name": "Horizon Sports",
+    "type": "Sports",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8",
+    "img": "https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&ssl=1"
+  },
+  {
+    "name": "RedBull TV",
+    "type": "Sports",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+    "img": "https://i.ibb.co/zxvTqGK/download-5-modified-1.png"
+  },
+  {
+    "name": "LaLiga TV Hypermotion",
+    "type": "Sports",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+    "img": "https://i.ibb.co/1KXbsCm/fc-24-laliga-partnership.jpg"
+  },
+  {
+    "name": "LaLiga TV Hypermotion 2",
+    "type": "Sports",
+    "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd",
+    "img": "https://i.ibb.co/1KXbsCm/fc-24-laliga-partnership.jpg"
   },
   {
     "name": "LaLiga TV Hypermotion 3",
@@ -1324,6 +1516,24 @@
     "type": "Sports",
     "url": "http://210.210.155.37/uq2663/h/h22/index.m3u8",
     "img": "https://i.imgur.com/VyYo7NF.png"
+  },
+  {
+    "name": "810 Astro Grandstand",
+    "type": "SPORTS",
+    "url": "https://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png"
+  },
+  {
+    "name": "811 Astro Premier League",
+    "type": "SPORTS",
+    "url": "https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png"
+  },
+  {
+    "name": "812 Astro Premier League 2",
+    "type": "SPORTS",
+    "url": "https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png"
   },
   {
     "name": "SSC 1",
@@ -10228,24 +10438,6 @@
     "type": "HBOGO Asia",
     "url": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912c75ba74fe65548cba69_hbovodsd/dash0/MYS_index.mpd",
     "img": "https://dai3fd1oh325y.cloudfront.net/images/480p/018913X0-portrait.jpg"
-  },
-  {
-    "name": "814 Astro Football HD",
-    "type": "SPORT BACKUP",
-    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png"
-  },
-  {
-    "name": "801 Astro Arena HD",
-    "type": "SPORT BACKUP",
-    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png"
-  },
-  {
-    "name": "802 Astro Arena 2 HD",
-    "type": "SPORT BACKUP",
-    "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png"
   },
   {
     "name": "Angel TV Far East (720p)",

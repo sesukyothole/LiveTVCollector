@@ -8385,24 +8385,22 @@ Logo: https://i.imgur.com/tY7IJva.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
 
-Group: SPORT BACKUP
-Name: 814 Astro Football HD
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 801 Astro Arena HD
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 802 Astro Arena 2 HD
-URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-
 Group: SPORTS
+Name: 810 Astro Grandstand
+URL: https://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 811 Astro Premier League
+URL: https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck
+Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 812 Astro Premier League 2
+URL: https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck
+Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: SSC 1
 URL: https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 Logo: https://iili.io/JhkQEp1.png
@@ -8440,8 +8438,123 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 
 Group: Sports
 Name: 801 Astro Arena HD
-URL: https://raw.githubusercontent.com/HyperDuck99/xyxxxn/refs/heads/main/1000003838.m3u8
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 802 Astro Arena 2 HD
+URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 803 Astro Arena Bola
+URL: https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck
+Logo: https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 804 Astro Arena Bola 2 FHD
+URL: https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDY3NjYxNjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ2ODI5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ._TReJtImvRvkxqgPBfSrZaLunwnEx4CbYKY5RcIqMck
+Logo: https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_Arena_Bola_2_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 813 Astro PremierLeague 3 HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
+Logo: https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 814 Astro Football HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 815 Astro Badminton HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 816 Astro Badminton 2 HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+Logo: https://i.ibb.co/mcmpN9b/Astro-Badminton-2.webp
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 809 Astro Sports Plus HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 817 Astro Sports Plus HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 818 Astro PremierLeague 4 HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 819 Astro PremierLeague 5 HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 820 BeINSports
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 821 beINSports 2
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 822 beINSports 3
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 823 SPOTV
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+Logo: https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 824 SPOTV2
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+Logo: https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 825 Eurosport
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 826 W-Sport
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+Logo: https://telegra.ph/file/ee3bff6d510fb4ac3f386.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 831 NBC Golf
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+Logo: http://linear-poster.astro.com.my/prod/logo/Golf_v1.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 833 Premier Sports
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+Logo: http://linear-poster.astro.com.my/prod/logo/PremierSports.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 832 Astro Cricket HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: Sukan RTM
+URL: https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: Unifi Sports 1
+URL: https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+Logo: https://i.imgur.com/Ixoabqf.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: Man United TV
@@ -8449,9 +8562,54 @@ URL: https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1
 Logo: https://raw.githubusercontent.com/cyberspywalker/image/main/Manchester-United-logo.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: Real Madrid TV
+URL: https://rmtv-canela.amagi.tv/playlist.m3u8
+Logo: https://img.sport-tv-guide.live/images/tv-station-real-madrid-tv-871.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: NBC US
+URL: https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+Logo: https://i.ibb.co/wW297RH/NBC-logo-svg.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: IMPACT! Wrestling
+URL: https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+Logo: https://i.imgur.com/XO8u1V7.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: Boxing TV
 URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 Logo: https://i.ibb.co/W3tf9Fr/unnamed-8-modified.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: Motor Racing
+URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+Logo: https://i.postimg.cc/mks3pN0f/MOTOR-RACING.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV5+
+URL: https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
+Logo: https://i.ibb.co/kcX92zz/ICARUS-SPORTS-JOINS-FORCES-WITH-CCTV-5.jpg
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: Horizon Sports
+URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+Logo: https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&ssl=1
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: RedBull TV
+URL: https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+Logo: https://i.ibb.co/zxvTqGK/download-5-modified-1.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: LaLiga TV Hypermotion
+URL: https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+Logo: https://i.ibb.co/1KXbsCm/fc-24-laliga-partnership.jpg
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: LaLiga TV Hypermotion 2
+URL: https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+Logo: https://i.ibb.co/1KXbsCm/fc-24-laliga-partnership.jpg
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: LaLiga TV Hypermotion 3
