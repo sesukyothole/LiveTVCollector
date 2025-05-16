@@ -1074,6 +1074,12 @@
     "img": "https://i.imgur.com/2JR5vSZ.png"
   },
   {
+    "name": "HGTV  Việt Nam",
+    "type": "Quốc tế",
+    "url": "https://freem3u.xyz/api/live/play.mpd?vid=99",
+    "img": "https://freem3u.xyz/static/images/global/hgtv.png"
+  },
+  {
     "name": "History",
     "type": "Quốc tế",
     "url": "https://xem.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh.m3u8",
