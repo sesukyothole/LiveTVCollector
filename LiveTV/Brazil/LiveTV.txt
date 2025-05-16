@@ -3388,6 +3388,16 @@ URL: https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
+Name: MyTime Movie
+URL: https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: ZAZ
+URL: https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
 Name: Estilo y Vida – Rakuten TV
 URL: https://jmp2.uk/sam-ES26000068D.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png

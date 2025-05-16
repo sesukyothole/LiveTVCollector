@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-16 13:51:08",
+  "date": "2025-05-16 21:40:01",
   "channels": {
     "": [
       {
@@ -3807,6 +3807,20 @@
         "group": "NonGroup",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8"
+      },
+      {
+        "name": "MyTime Movie",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NonGroup",
+        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
+        "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "ZAZ",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NonGroup",
+        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
+        "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8"
       },
       {
         "name": "Estilo y Vida – Rakuten TV",
