@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-16 13:44:24",
+  "date": "2025-05-16 21:44:12",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3446,14 +3446,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=YAgzToOyZqYa1N2odhNLBA&e=1747391062"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-JCnfZxC9jS4m9CLaSjECA&e=1747422968"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=YAgzToOyZqYa1N2odhNLBA&e=1747391062"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-JCnfZxC9jS4m9CLaSjECA&e=1747422968"
       },
       {
         "name": "TV8",
@@ -10421,20 +10421,6 @@
         "url": "https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8?hdnea="
       },
       {
-        "name": "AL ALARABY 2",
-        "logo": "https://i.ibb.co/s107QNv/araby2.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"
-      },
-      {
-        "name": "MURR LBN",
-        "logo": "https://i.ibb.co/F3rnLz2/mtvleb.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8"
-      },
-      {
         "name": "ONE LBN",
         "logo": "https://i.ibb.co/vJj1gdb/onetvlb.jpg",
         "group": "Uncategorized",
@@ -10463,41 +10449,6 @@
         "url": "http://5.9.119.146:8883/nbn/index.m3u8"
       },
       {
-        "name": "NBN",
-        "logo": "https://i.ibb.co/wR2jkMz/nbnlb.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8"
-      },
-      {
-        "name": "LANA TV",
-        "logo": "https://i.ibb.co/ygKx229/lana1.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://p-ltv.akamaized.net/ltv/ltv.m3u8"
-      },
-      {
-        "name": "NABAA TV",
-        "logo": "https://i.ibb.co/JrFjqrc/nabaa.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8"
-      },
-      {
-        "name": "TAHA TV",
-        "logo": "https://i.ibb.co/h872gKg/taha.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://media2.livaat.com/TAHA-TV/index.m3u8"
-      },
-      {
-        "name": "TAHA TV",
-        "logo": "https://i.ibb.co/h872gKg/taha.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8"
-      },
-      {
         "name": "TL LIBAN",
         "logo": "https://i.ibb.co/80JQ9zg/teleliban.webp",
         "group": "Uncategorized",
@@ -10524,6 +10475,139 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "http://185.9.2.18/chid_391/mono.m3u8"
+      },
+      {
+        "name": "AL MAYADEEN",
+        "logo": "https://i.ibb.co/1KcjbKf/almayadeen.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
+      },
+      {
+        "name": "AL IMAN",
+        "logo": "https://i.ibb.co/N2Y7kBrL/aliman.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
+      },
+      {
+        "name": "AL WIFAK",
+        "logo": "https://i.ibb.co/Xxh3RzDV/alwifak.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8"
+      },
+      {
+        "name": "SPI LEBANON",
+        "logo": "https://i.ibb.co/4RrnLkqs/spileb.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://stream.spilebanon.com:1935/spi/myStream/playlist.m3u8"
+      },
+      {
+        "name": "SENSES SCENERIES",
+        "logo": "https://i.ibb.co/s9pNND8H/senses.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://sensestv.com:4433/hls/sensesonline/index.m3u8"
+      },
+      {
+        "name": "LANA TV",
+        "logo": "https://i.ibb.co/ygKx229/lana1.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://p-ltv.akamaized.net/ltv/ltv.m3u8"
+      },
+      {
+        "name": "NABAA TV",
+        "logo": "https://i.ibb.co/JrFjqrc/nabaa.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8"
+      },
+      {
+        "name": "NABAA TV",
+        "logo": "https://i.ibb.co/JrFjqrc/nabaa.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8"
+      },
+      {
+        "name": "TAHA TV",
+        "logo": "https://i.ibb.co/h872gKg/taha.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://media2.livaat.com/TAHA-TV/index.m3u8"
+      },
+      {
+        "name": "TAHA TV",
+        "logo": "https://i.ibb.co/h872gKg/taha.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8"
+      },
+      {
+        "name": "MTV LBN",
+        "logo": "https://i.ibb.co/F3rnLz2/mtvleb.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=m67zo"
+      },
+      {
+        "name": "ONE TV LBN",
+        "logo": "https://i.ibb.co/vJj1gdb/onetvlb.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=4c8RZ"
+      },
+      {
+        "name": "NBN (backup)",
+        "logo": "https://i.ibb.co/wR2jkMz/nbnlb.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8"
+      },
+      {
+        "name": "LANA TV [offline]",
+        "logo": "https://i.ibb.co/ygKx229/lana1.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://eitc3.secure2.footprint.net/hls/LTV.m3u8"
+      },
+      {
+        "name": "MTV_LBN [offline]",
+        "logo": "https://i.ibb.co/F3rnLz2/mtvleb.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8"
+      },
+      {
+        "name": "ONE TV_LBN [offline]",
+        "logo": "https://i.ibb.co/vJj1gdb/onetvlb.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live.3cd.io/v1/broadcast/one/playlist.m3u8"
+      },
+      {
+        "name": "LBC LBN [geoblocked]",
+        "logo": "https://i.ibb.co/YhMgggj/lbcb.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8"
+      },
+      {
+        "name": "OTV LBN [brokenlink]",
+        "logo": "https://i.ibb.co/Svnqq8G/otv.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test"
+      },
+      {
+        "name": "AL ALARABY 2",
+        "logo": "https://i.ibb.co/s107QNv/araby2.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"
       },
       {
         "name": "AL AAN TV",
@@ -10762,13 +10846,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8"
-      },
-      {
-        "name": "AL MAYADEEN",
-        "logo": "https://i.ibb.co/1KcjbKf/almayadeen.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
       },
       {
         "name": "AL MANAR",
@@ -11219,13 +11296,6 @@
         "url": "https://ffs1.gulfsat.com/Al-Sabah-TV/index.m3u8"
       },
       {
-        "name": "LANA TV (backup)",
-        "logo": "https://i.ibb.co/ygKx229/lana1.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://eitc3.secure2.footprint.net/hls/LTV.m3u8"
-      },
-      {
         "name": "AL ALARABY 2 (backup)",
         "logo": "https://i.ibb.co/s107QNv/araby2.png",
         "group": "Uncategorized",
@@ -11266,48 +11336,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8"
-      },
-      {
-        "name": "MTV LBN",
-        "logo": "https://i.ibb.co/F3rnLz2/mtvleb.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=m67zo"
-      },
-      {
-        "name": "MTV_LBN [offline]",
-        "logo": "https://i.ibb.co/F3rnLz2/mtvleb.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8"
-      },
-      {
-        "name": "ONE TV_LBN [offline]",
-        "logo": "https://i.ibb.co/vJj1gdb/onetvlb.jpg",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://live.3cd.io/v1/broadcast/one/playlist.m3u8"
-      },
-      {
-        "name": "ONE TV LBN",
-        "logo": "https://i.ibb.co/vJj1gdb/onetvlb.jpg",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=4c8RZ"
-      },
-      {
-        "name": "LBC LBN [geoblocked]",
-        "logo": "https://i.ibb.co/YhMgggj/lbcb.jpg",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8"
-      },
-      {
-        "name": "OTV LBN [brokenlink]",
-        "logo": "https://i.ibb.co/Svnqq8G/otv.jpg",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test"
       },
       {
         "name": "DUBAI TV",
@@ -16828,99 +16856,108 @@
         "url": "https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8"
       }
     ],
-    "17. |AR|🇸🇦 MIDDLE EAST-1 عربي": [
+    "17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان": [
+      {
+        "name": "MURR LBN",
+        "logo": "https://i.ibb.co/F3rnLz2/mtvleb.png",
+        "group": "17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8"
+      }
+    ],
+    "18. |AR|🇸🇦 MIDDLE EAST-1 عربي": [
       {
         "name": "AL ALARABY 2",
         "logo": "https://i.ibb.co/s107QNv/araby2.png",
-        "group": "17. |AR|🇸🇦 MIDDLE EAST-1 عربي",
+        "group": "18. |AR|🇸🇦 MIDDLE EAST-1 عربي",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"
       }
     ],
-    "18. |AR|🇸🇦 MIDDLE EAST-2 عربي": [
+    "19. |AR|🇸🇦 MIDDLE EAST-2 عربي": [
       {
         "name": "DUBAI TV",
         "logo": "https://i.ibb.co/BCK1L31/DubaiTV.png",
-        "group": "18. |AR|🇸🇦 MIDDLE EAST-2 عربي",
+        "group": "19. |AR|🇸🇦 MIDDLE EAST-2 عربي",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/index.m3u8"
       }
     ],
-    "19. |AR|🇸🇦 THEMATICS-1 عربي": [
+    "20. |AR|🇸🇦 THEMATICS-1 عربي": [
       {
         "name": "AL JAZEERA",
         "logo": "https://i.ibb.co/jLYWYh7/Al-Jazeera.png",
-        "group": "19. |AR|🇸🇦 THEMATICS-1 عربي",
+        "group": "20. |AR|🇸🇦 THEMATICS-1 عربي",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "http://live-hls-web-aja.getaj.net/AJA/index.m3u8"
       }
     ],
-    "20. |AR|🇸🇦 THEMATICS-2 عربي": [
+    "21. |AR|🇸🇦 THEMATICS-2 عربي": [
       {
         "name": "MBC 1",
         "logo": "https://i.ibb.co/N19JFwZ/mbc.png",
-        "group": "20. |AR|🇸🇦 THEMATICS-2 عربي",
+        "group": "21. |AR|🇸🇦 THEMATICS-2 عربي",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8"
       }
     ],
-    "21. |IT|🇮🇹 ITALIA - LOCALE": [
+    "22. |IT|🇮🇹 ITALIA - LOCALE": [
       {
         "name": "RAI NEWS 24",
         "logo": "https://i.ibb.co/xGG27kS/raiit.png",
-        "group": "21. |IT|🇮🇹 ITALIA - LOCALE",
+        "group": "22. |IT|🇮🇹 ITALIA - LOCALE",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8"
       }
     ],
-    "22. |DE|🇩🇪 DEUTSCHLAND - LOKALE": [
+    "23. |DE|🇩🇪 DEUTSCHLAND - LOKALE": [
       {
         "name": "TAGESSCHAU 24",
         "logo": "https://i.ibb.co/h8h2d5Q/tag24.png",
-        "group": "22. |DE|🇩🇪 DEUTSCHLAND - LOKALE",
+        "group": "23. |DE|🇩🇪 DEUTSCHLAND - LOKALE",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8"
       }
     ],
-    "25. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN": [
+    "26. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN": [
       {
         "name": "GPB 1TV პირველი არხი",
         "logo": "https://i.ibb.co/RN3dJQ7/geoflag.png",
-        "group": "25. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",
+        "group": "26. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8"
       }
     ],
-    "26. |IR|🇮🇷 IRAN": [
+    "27. |IR|🇮🇷 IRAN": [
       {
         "name": "IRIB 1",
         "logo": "https://i.ibb.co/tMV7LBL/irib1.png",
-        "group": "26. |IR|🇮🇷 IRAN",
+        "group": "27. |IR|🇮🇷 IRAN",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://s1.ettehadlive.com/live/39/chunklist.m3u8"
       }
     ],
-    "27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐": [
+    "28. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐": [
       {
         "name": "CNN INT",
         "logo": "https://i.ibb.co/XbSHxd5/cnn.png",
-        "group": "27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",
+        "group": "28. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8"
       }
     ],
-    "28. |📡|👨‍💻👉GITHUB.COM/IPSTREET312": [
+    "29. |📡|👨‍💻👉GITHUB.COM/IPSTREET312": [
       {
         "name": "|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM",
         "logo": "https://i.ibb.co/mywSdSQ/att.png",
-        "group": "28. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",
+        "group": "29. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/linkupdatedinfo.ts"
       },
       {
         "name": "--- |🎁⭐ ⬇↓ DELUXE PACKAGE👍 ↓⬇🤩❤️| --- 🎵💯",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "28. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",
+        "group": "29. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "http://"
       }

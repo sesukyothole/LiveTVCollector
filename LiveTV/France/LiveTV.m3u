@@ -982,9 +982,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Uncategorized",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=YAgzToOyZqYa1N2odhNLBA&e=1747391062
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-JCnfZxC9jS4m9CLaSjECA&e=1747422968
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=YAgzToOyZqYa1N2odhNLBA&e=1747391062
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-JCnfZxC9jS4m9CLaSjECA&e=1747422968
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
@@ -2975,10 +2975,6 @@ http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_4000_I-
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?hdnea=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png" group-title="Uncategorized",NEWS 12 חדשות [mako-src/offline]
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8?hdnea=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="Uncategorized",AL ALARABY 2
-https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Uncategorized",MURR LBN
-https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Uncategorized",ONE LBN
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="Uncategorized",VOICE OF LBN
@@ -2987,16 +2983,6 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Uncategorized",NBN
 http://5.9.119.146:8883/nbn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Uncategorized",NBN
-https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Uncategorized",LANA TV
-https://p-ltv.akamaized.net/ltv/ltv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png" group-title="Uncategorized",NABAA TV
-https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="Uncategorized",TAHA TV
-https://media2.livaat.com/TAHA-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="Uncategorized",TAHA TV
-https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80JQ9zg/teleliban.webp" group-title="Uncategorized",TL LIBAN
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="Uncategorized",LBC LBN
@@ -3005,6 +2991,44 @@ https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
 http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png" group-title="Uncategorized",AL JADEED
 http://185.9.2.18/chid_391/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KcjbKf/almayadeen.png" group-title="Uncategorized",AL MAYADEEN
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2Y7kBrL/aliman.png" group-title="Uncategorized",AL IMAN
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xxh3RzDV/alwifak.jpg" group-title="Uncategorized",AL WIFAK
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RrnLkqs/spileb.jpg" group-title="Uncategorized",SPI LEBANON
+http://stream.spilebanon.com:1935/spi/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9pNND8H/senses.png" group-title="Uncategorized",SENSES SCENERIES
+https://sensestv.com:4433/hls/sensesonline/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Uncategorized",LANA TV
+https://p-ltv.akamaized.net/ltv/ltv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png" group-title="Uncategorized",NABAA TV
+https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png" group-title="Uncategorized",NABAA TV
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="Uncategorized",TAHA TV
+https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="Uncategorized",TAHA TV
+https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Uncategorized",MTV LBN
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=m67zo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Uncategorized",ONE TV LBN
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=4c8RZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Uncategorized",NBN (backup)
+https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Uncategorized",LANA TV [offline]
+https://eitc3.secure2.footprint.net/hls/LTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Uncategorized",MTV_LBN [offline]
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Uncategorized",ONE TV_LBN [offline]
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="Uncategorized",LBC LBN [geoblocked]
+https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Uncategorized",OTV LBN [brokenlink]
+http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="Uncategorized",AL ALARABY 2
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XVGL3qH/alaan.png" group-title="Uncategorized",AL AAN TV
 https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png" group-title="Uncategorized",ABU DHABI
@@ -3073,8 +3097,6 @@ https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n333gP9/rayanqdm.png" group-title="Uncategorized",AL RAYYAN QADEEM
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1KcjbKf/almayadeen.png" group-title="Uncategorized",AL MAYADEEN
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZKY6Tn/almanar.png" group-title="Uncategorized",AL MANAR
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png" group-title="Uncategorized",AL GHAD TV
@@ -3203,8 +3225,6 @@ https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CQjzKk9/alsabah.png" group-title="Uncategorized",AL SABAH KW
 https://ffs1.gulfsat.com/Al-Sabah-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Uncategorized",LANA TV (backup)
-https://eitc3.secure2.footprint.net/hls/LTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="Uncategorized",AL ALARABY 2 (backup)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="Uncategorized",AL ALARABY 2 (backup)
@@ -3217,18 +3237,6 @@ https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1
 https://roya-live.ercdn.net/roya/roya.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Uncategorized",ROYA TV (backup)
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Uncategorized",MTV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=m67zo
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Uncategorized",MTV_LBN [offline]
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Uncategorized",ONE TV_LBN [offline]
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Uncategorized",ONE TV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=4c8RZ
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="Uncategorized",LBC LBN [geoblocked]
-https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Uncategorized",OTV LBN [brokenlink]
-http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png" group-title="Uncategorized",DUBAI TV
 https://dmieigthvllta.cdn.mangomolo.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png" group-title="Uncategorized",DUBAI ONE
@@ -4797,27 +4805,29 @@ https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8
 https://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="16. |IL|🇮🇱 ISRAEL ישראל",KAN 11 כאן
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",AL ALARABY 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="17. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",MURR LBN
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png" group-title="18. |AR|🇸🇦 MIDDLE EAST-1 عربي",AL ALARABY 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png" group-title="18. |AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png" group-title="19. |AR|🇸🇦 MIDDLE EAST-2 عربي",DUBAI TV
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="19. |AR|🇸🇦 THEMATICS-1 عربي",AL JAZEERA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="20. |AR|🇸🇦 THEMATICS-1 عربي",AL JAZEERA
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="20. |AR|🇸🇦 THEMATICS-2 عربي",MBC 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="21. |AR|🇸🇦 THEMATICS-2 عربي",MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png" group-title="21. |IT|🇮🇹 ITALIA - LOCALE",RAI NEWS 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png" group-title="22. |IT|🇮🇹 ITALIA - LOCALE",RAI NEWS 24
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h8h2d5Q/tag24.png" group-title="22. |DE|🇩🇪 DEUTSCHLAND - LOKALE",TAGESSCHAU 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h8h2d5Q/tag24.png" group-title="23. |DE|🇩🇪 DEUTSCHLAND - LOKALE",TAGESSCHAU 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="25. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1TV პირველი არხი
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="26. |GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",GPB 1TV პირველი არხი
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="26. |IR|🇮🇷 IRAN",IRIB 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="27. |IR|🇮🇷 IRAN",IRIB 1
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CNN INT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="28. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CNN INT
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="28. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="29. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/linkupdatedinfo.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="28. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",--- |🎁⭐ ⬇↓ DELUXE PACKAGE👍 ↓⬇🤩❤️| --- 🎵💯
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="29. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",--- |🎁⭐ ⬇↓ DELUXE PACKAGE👍 ↓⬇🤩❤️| --- 🎵💯
 http://
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/colorLogoPNG.png" group-title="Nouveau sur Pluto TV",Pêche à haut risque
 https://stitcher.pluto.tv/stitch/hls/channel/678f894ef5c74bff95c20a7f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0c1ea90d-31ed-11f0-b1ad-567d6b4374ee
