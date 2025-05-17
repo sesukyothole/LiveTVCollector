@@ -5670,12 +5670,6 @@
     "img": "https://live.fanmingming.cn/tv/山东教育.png"
   },
   {
-    "name": "山东教育",
-    "type": "卫视频道",
-    "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "CCTV-1 综合",
     "type": "央卫备用",
     "url": "http://148.135.93.213:81/live.php?id=CCTV1",
@@ -6336,12 +6330,6 @@
     "img": "https://live.fanmingming.cn/tv/睛彩广场舞.png"
   },
   {
-    "name": "纪实科教8K",
-    "type": "数字频道",
-    "url": "https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "凤凰中文",
     "type": "港澳台频道",
     "url": "http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc",
@@ -6675,84 +6663,6 @@
     "name": "HOY TV",
     "type": "港澳台频道",
     "url": "http://cdn.132.us.kg/live/hoy/stream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "凤凰电影",
-    "type": "港澳台频道",
-    "url": "https://ali.hlspull.yximgs.com/live/diyp_fhdy.flv",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "民视台湾台",
-    "type": "港澳台频道",
-    "url": "https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "民视第一台",
-    "type": "港澳台频道",
-    "url": "https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "龙华电影",
-    "type": "港澳台频道",
-    "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "龙华经典",
-    "type": "港澳台频道",
-    "url": "https://cdn8.163189.xyz/live/lhjd/stream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "龙华卡通",
-    "type": "港澳台频道",
-    "url": "https://cdn8.163189.xyz/live/lhkt/stream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "龙华偶像",
-    "type": "港澳台频道",
-    "url": "https://cdn8.163189.xyz/live/lhox/stream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "龙华日韩",
-    "type": "港澳台频道",
-    "url": "https://cdn8.163189.xyz/live/lhrh/stream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "龙华戏剧",
-    "type": "港澳台频道",
-    "url": "https://cdn8.163189.xyz/live/lhxj/stream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "港台电视31",
-    "type": "港澳台频道",
-    "url": "https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "港台电视32",
-    "type": "港澳台频道",
-    "url": "https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ELEVEN体育1",
-    "type": "港澳台频道",
-    "url": "https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ELEVEN体育3",
-    "type": "港澳台频道",
-    "url": "https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9240,24 +9150,6 @@
     "img": "https://live.fanmingming.cn/tv/乌兰察布.png"
   },
   {
-    "name": "赣州新闻",
-    "type": "地方频道",
-    "url": "https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "赣州公共",
-    "type": "地方频道",
-    "url": "https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "赣州教育",
-    "type": "地方频道",
-    "url": "https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "1983年春晚",
     "type": "春晚频道",
     "url": "http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8",
@@ -9502,12 +9394,6 @@
     "type": "春晚频道",
     "url": "https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8",
     "img": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png"
-  },
-  {
-    "name": "2025年春晚",
-    "type": "春晚频道",
-    "url": "https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "BBC",
@@ -10245,42 +10131,6 @@
     "name": "Paramount Network",
     "type": "series;国际",
     "url": "http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "广元综合",
-    "type": "☘️四川频道",
-    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "广元公共",
-    "type": "☘️四川频道",
-    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "雅安新闻综合",
-    "type": "☘️四川频道",
-    "url": "https://play.yunxya.com/channellive/xinwen.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "荥经综合",
-    "type": "☘️四川频道",
-    "url": "https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "朝天综合",
-    "type": "☘️四川频道",
-    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "邢台综合",
-    "type": "☘️河北频道",
-    "url": "https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   }
 ]
