@@ -4180,12 +4180,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=2y9wL-CdSGvot2-HC7WOOA&e=1747444314
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=3NpeQR-c-QKs53JLJuWMMg&e=1747477089
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=2y9wL-CdSGvot2-HC7WOOA&e=1747444314
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=3NpeQR-c-QKs53JLJuWMMg&e=1747477089
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -9194,6 +9194,11 @@ URL: https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3
 Logo: https://i.ibb.co/YhMgggj/lbcb.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: LBC INT
+URL: https://samaflix.com:12103/channel2/index.m3u8
+Logo: https://i.ibb.co/YhMgggj/lbcb.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: OTV LBN
 URL: http://185.9.2.18/chid_312/index.m3u8
 Logo: https://i.ibb.co/Svnqq8G/otv.jpg
@@ -9201,6 +9206,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: AL JADEED
 URL: http://185.9.2.18/chid_391/mono.m3u8
+Logo: https://i.ibb.co/hM98B0V/jadeed.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: AL JADEED
+URL: https://samaflix.com:12103/channel7/index.m3u8
 Logo: https://i.ibb.co/hM98B0V/jadeed.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -10684,6 +10694,11 @@ URL: https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 Logo: https://i.ibb.co/St7FsRJ/ctvcop.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: SUBORO TV
+URL: https://suborotv.hibridcdn.net/suborotv/suborotv_abr/playlist.m3u8
+Logo: https://i.ibb.co/Z1TqPB8R/suboro.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: ASHARQ NEWS (backup)
 URL: https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 Logo: https://i.ibb.co/nzjbYfR/asharq.png
@@ -10979,8 +10994,18 @@ URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa
 Logo: https://i.ibb.co/7W5nWYV/rotanacinema.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: ROTANA AFLAM PLUS
+URL: https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+Logo: https://i.ibb.co/7W5nWYV/rotanacinema.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: ROTANA M PLUS
 URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+Logo: https://i.ibb.co/N2C6FMyv/Mplus.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: ROTANA M PLUS
+URL: https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
 Logo: https://i.ibb.co/N2C6FMyv/Mplus.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -10989,9 +11014,19 @@ URL: https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m
 Logo: https://i.ibb.co/HNm4jw9/rotanaclip.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: ROTANA MUSIC
+URL: https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo
+Logo: https://i.ibb.co/HNm4jw9/rotanaclip.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: ROTANA CLASSIC
 URL: https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 Logo: https://i.ibb.co/6DcdjwT/rotanaclassic.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: ROTANA KIDS
+URL: https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
+Logo: https://i.ibb.co/PN8G6F8/rotanakids.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ROTANA COMEDY
@@ -11837,6 +11872,41 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 Name: NEWS 24 ALB
 URL: https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 Logo: https://i.ibb.co/rf1Vmfs5/Nwsalb.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: ARTA TV
+URL: https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+Logo: https://i.ibb.co/NQbzLyV/artaalb.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: KOHAVISION
+URL: https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8
+Logo: https://i.ibb.co/W4GcZTr1/koha.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: RTV 21 ALBANIA
+URL: https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
+Logo: https://i.ibb.co/Nd7f2QvW/21alb.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TV7 ALBANIA
+URL: https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+Logo: https://i.ibb.co/7N8KPCBZ/alb7.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: ARBRERIA 1
+URL: https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
+Logo: https://i.ibb.co/vC4C1F1f/rtvalb.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TV PRIRZENI
+URL: https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
+Logo: https://i.ibb.co/yDRRMqP/prizeni.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TV SYRI
+URL: https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+Logo: https://i.ibb.co/D2GvNMZ/syrialb.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: GPB 2TV

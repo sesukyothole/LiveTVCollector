@@ -2948,13 +2948,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=2y9wL-CdSGvot2-HC7WOOA&e=1747444314",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=3NpeQR-c-QKs53JLJuWMMg&e=1747477089",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=2y9wL-CdSGvot2-HC7WOOA&e=1747444314",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=3NpeQR-c-QKs53JLJuWMMg&e=1747477089",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -8964,6 +8964,12 @@
     "img": "https://i.ibb.co/YhMgggj/lbcb.jpg"
   },
   {
+    "name": "LBC INT",
+    "type": "Uncategorized",
+    "url": "https://samaflix.com:12103/channel2/index.m3u8",
+    "img": "https://i.ibb.co/YhMgggj/lbcb.jpg"
+  },
+  {
     "name": "OTV LBN",
     "type": "Uncategorized",
     "url": "http://185.9.2.18/chid_312/index.m3u8",
@@ -8973,6 +8979,12 @@
     "name": "AL JADEED",
     "type": "Uncategorized",
     "url": "http://185.9.2.18/chid_391/mono.m3u8",
+    "img": "https://i.ibb.co/hM98B0V/jadeed.png"
+  },
+  {
+    "name": "AL JADEED",
+    "type": "Uncategorized",
+    "url": "https://samaflix.com:12103/channel7/index.m3u8",
     "img": "https://i.ibb.co/hM98B0V/jadeed.png"
   },
   {
@@ -10752,6 +10764,12 @@
     "img": "https://i.ibb.co/St7FsRJ/ctvcop.jpg"
   },
   {
+    "name": "SUBORO TV",
+    "type": "Uncategorized",
+    "url": "https://suborotv.hibridcdn.net/suborotv/suborotv_abr/playlist.m3u8",
+    "img": "https://i.ibb.co/Z1TqPB8R/suboro.jpg"
+  },
+  {
     "name": "ASHARQ NEWS (backup)",
     "type": "Uncategorized",
     "url": "https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8",
@@ -11106,9 +11124,21 @@
     "img": "https://i.ibb.co/7W5nWYV/rotanacinema.png"
   },
   {
+    "name": "ROTANA AFLAM PLUS",
+    "type": "Uncategorized",
+    "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo",
+    "img": "https://i.ibb.co/7W5nWYV/rotanacinema.png"
+  },
+  {
     "name": "ROTANA M PLUS",
     "type": "Uncategorized",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8",
+    "img": "https://i.ibb.co/N2C6FMyv/Mplus.png"
+  },
+  {
+    "name": "ROTANA M PLUS",
+    "type": "Uncategorized",
+    "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo",
     "img": "https://i.ibb.co/N2C6FMyv/Mplus.png"
   },
   {
@@ -11118,10 +11148,22 @@
     "img": "https://i.ibb.co/HNm4jw9/rotanaclip.png"
   },
   {
+    "name": "ROTANA MUSIC",
+    "type": "Uncategorized",
+    "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo",
+    "img": "https://i.ibb.co/HNm4jw9/rotanaclip.png"
+  },
+  {
     "name": "ROTANA CLASSIC",
     "type": "Uncategorized",
     "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
     "img": "https://i.ibb.co/6DcdjwT/rotanaclassic.png"
+  },
+  {
+    "name": "ROTANA KIDS",
+    "type": "Uncategorized",
+    "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo",
+    "img": "https://i.ibb.co/PN8G6F8/rotanakids.png"
   },
   {
     "name": "ROTANA COMEDY",
@@ -12136,6 +12178,48 @@
     "type": "Uncategorized",
     "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
     "img": "https://i.ibb.co/rf1Vmfs5/Nwsalb.png"
+  },
+  {
+    "name": "ARTA TV",
+    "type": "Uncategorized",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8",
+    "img": "https://i.ibb.co/NQbzLyV/artaalb.jpg"
+  },
+  {
+    "name": "KOHAVISION",
+    "type": "Uncategorized",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8",
+    "img": "https://i.ibb.co/W4GcZTr1/koha.jpg"
+  },
+  {
+    "name": "RTV 21 ALBANIA",
+    "type": "Uncategorized",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8",
+    "img": "https://i.ibb.co/Nd7f2QvW/21alb.jpg"
+  },
+  {
+    "name": "TV7 ALBANIA",
+    "type": "Uncategorized",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8",
+    "img": "https://i.ibb.co/7N8KPCBZ/alb7.jpg"
+  },
+  {
+    "name": "ARBRERIA 1",
+    "type": "Uncategorized",
+    "url": "https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8",
+    "img": "https://i.ibb.co/vC4C1F1f/rtvalb.jpg"
+  },
+  {
+    "name": "TV PRIRZENI",
+    "type": "Uncategorized",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8",
+    "img": "https://i.ibb.co/yDRRMqP/prizeni.jpg"
+  },
+  {
+    "name": "TV SYRI",
+    "type": "Uncategorized",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8",
+    "img": "https://i.ibb.co/D2GvNMZ/syrialb.jpg"
   },
   {
     "name": "GPB 2TV",

@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-17 06:26:03",
+  "date": "2025-05-17 13:43:58",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3446,14 +3446,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=2y9wL-CdSGvot2-HC7WOOA&e=1747444314"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=3NpeQR-c-QKs53JLJuWMMg&e=1747477089"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=2y9wL-CdSGvot2-HC7WOOA&e=1747444314"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=3NpeQR-c-QKs53JLJuWMMg&e=1747477089"
       },
       {
         "name": "TV8",
@@ -10463,6 +10463,13 @@
         "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8"
       },
       {
+        "name": "LBC INT",
+        "logo": "https://i.ibb.co/YhMgggj/lbcb.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://samaflix.com:12103/channel2/index.m3u8"
+      },
+      {
         "name": "OTV LBN",
         "logo": "https://i.ibb.co/Svnqq8G/otv.jpg",
         "group": "Uncategorized",
@@ -10475,6 +10482,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "http://185.9.2.18/chid_391/mono.m3u8"
+      },
+      {
+        "name": "AL JADEED",
+        "logo": "https://i.ibb.co/hM98B0V/jadeed.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://samaflix.com:12103/channel7/index.m3u8"
       },
       {
         "name": "AL MAYADEEN",
@@ -12549,6 +12563,13 @@
         "url": "https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8"
       },
       {
+        "name": "SUBORO TV",
+        "logo": "https://i.ibb.co/Z1TqPB8R/suboro.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://suborotv.hibridcdn.net/suborotv/suborotv_abr/playlist.m3u8"
+      },
+      {
         "name": "ASHARQ NEWS (backup)",
         "logo": "https://i.ibb.co/nzjbYfR/asharq.png",
         "group": "Uncategorized",
@@ -12962,11 +12983,25 @@
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8"
       },
       {
+        "name": "ROTANA AFLAM PLUS",
+        "logo": "https://i.ibb.co/7W5nWYV/rotanacinema.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo"
+      },
+      {
         "name": "ROTANA M PLUS",
         "logo": "https://i.ibb.co/N2C6FMyv/Mplus.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8"
+      },
+      {
+        "name": "ROTANA M PLUS",
+        "logo": "https://i.ibb.co/N2C6FMyv/Mplus.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo"
       },
       {
         "name": "ROTANA CLIP",
@@ -12976,11 +13011,25 @@
         "url": "https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8"
       },
       {
+        "name": "ROTANA MUSIC",
+        "logo": "https://i.ibb.co/HNm4jw9/rotanaclip.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo"
+      },
+      {
         "name": "ROTANA CLASSIC",
         "logo": "https://i.ibb.co/6DcdjwT/rotanaclassic.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8"
+      },
+      {
+        "name": "ROTANA KIDS",
+        "logo": "https://i.ibb.co/PN8G6F8/rotanakids.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo"
       },
       {
         "name": "ROTANA COMEDY",
@@ -14164,6 +14213,55 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
+      },
+      {
+        "name": "ARTA TV",
+        "logo": "https://i.ibb.co/NQbzLyV/artaalb.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8"
+      },
+      {
+        "name": "KOHAVISION",
+        "logo": "https://i.ibb.co/W4GcZTr1/koha.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8"
+      },
+      {
+        "name": "RTV 21 ALBANIA",
+        "logo": "https://i.ibb.co/Nd7f2QvW/21alb.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8"
+      },
+      {
+        "name": "TV7 ALBANIA",
+        "logo": "https://i.ibb.co/7N8KPCBZ/alb7.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8"
+      },
+      {
+        "name": "ARBRERIA 1",
+        "logo": "https://i.ibb.co/vC4C1F1f/rtvalb.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8"
+      },
+      {
+        "name": "TV PRIRZENI",
+        "logo": "https://i.ibb.co/yDRRMqP/prizeni.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8"
+      },
+      {
+        "name": "TV SYRI",
+        "logo": "https://i.ibb.co/D2GvNMZ/syrialb.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8"
       },
       {
         "name": "GPB 2TV",

@@ -982,9 +982,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Uncategorized",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=2y9wL-CdSGvot2-HC7WOOA&e=1747444314
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=3NpeQR-c-QKs53JLJuWMMg&e=1747477089
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=2y9wL-CdSGvot2-HC7WOOA&e=1747444314
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=3NpeQR-c-QKs53JLJuWMMg&e=1747477089
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
@@ -2987,10 +2987,14 @@ http://5.9.119.146:8883/nbn/index.m3u8
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="Uncategorized",LBC LBN
 https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="Uncategorized",LBC INT
+https://samaflix.com:12103/channel2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Uncategorized",OTV LBN
 http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png" group-title="Uncategorized",AL JADEED
 http://185.9.2.18/chid_391/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png" group-title="Uncategorized",AL JADEED
+https://samaflix.com:12103/channel7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1KcjbKf/almayadeen.png" group-title="Uncategorized",AL MAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2Y7kBrL/aliman.png" group-title="Uncategorized",AL IMAN
@@ -3583,6 +3587,8 @@ https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/St7FsRJ/ctvcop.jpg" group-title="Uncategorized",CTV COPTIC
 https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1TqPB8R/suboro.jpg" group-title="Uncategorized",SUBORO TV
+https://suborotv.hibridcdn.net/suborotv/suborotv_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="Uncategorized",ASHARQ NEWS (backup)
 https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="Uncategorized",ASHARQ NEWS (backup)
@@ -3701,12 +3707,20 @@ https://rotana.hibridcdn.net/rotana/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Uncategorized",ROTANA AFLAM PLUS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Uncategorized",ROTANA AFLAM PLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2C6FMyv/Mplus.png" group-title="Uncategorized",ROTANA M PLUS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2C6FMyv/Mplus.png" group-title="Uncategorized",ROTANA M PLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNm4jw9/rotanaclip.png" group-title="Uncategorized",ROTANA CLIP
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNm4jw9/rotanaclip.png" group-title="Uncategorized",ROTANA MUSIC
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6DcdjwT/rotanaclassic.png" group-title="Uncategorized",ROTANA CLASSIC
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PN8G6F8/rotanakids.png" group-title="Uncategorized",ROTANA KIDS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg" group-title="Uncategorized",ROTANA COMEDY
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5sJ9vSJ/rotanakhalijia.png" group-title="Uncategorized",ROTANA KHALIJA
@@ -4045,6 +4059,20 @@ http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rf1Vmfs5/Nwsalb.png" group-title="Uncategorized",NEWS 24 ALB
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NQbzLyV/artaalb.jpg" group-title="Uncategorized",ARTA TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4GcZTr1/koha.jpg" group-title="Uncategorized",KOHAVISION
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd7f2QvW/21alb.jpg" group-title="Uncategorized",RTV 21 ALBANIA
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7N8KPCBZ/alb7.jpg" group-title="Uncategorized",TV7 ALBANIA
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vC4C1F1f/rtvalb.jpg" group-title="Uncategorized",ARBRERIA 1
+https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yDRRMqP/prizeni.jpg" group-title="Uncategorized",TV PRIRZENI
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D2GvNMZ/syrialb.jpg" group-title="Uncategorized",TV SYRI
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="Uncategorized",GPB 2TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png" group-title="Uncategorized",IMEDI
