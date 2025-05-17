@@ -798,12 +798,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png"
   },
   {
-    "name": "CNN HD",
-    "type": "News",
-    "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd",
-    "img": "https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg"
-  },
-  {
     "name": "Aastha (480p)",
     "type": "Religious",
     "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8",
@@ -2790,220 +2784,112 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "FIGHT",
-    "type": "SPORTS",
-    "url": "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8",
-    "img": "https://www.digitaltveurope.com/files/2014/08/Fight-Sports.png"
-  },
-  {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY SET HD",
-    "type": "SonyLiv",
+    "name": "SONY HD",
+    "type": "TS-JioTV SonyLIV",
     "url": "https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg"
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SABTVHD1_Portrait_Thumb1.jpg\" group-title=\"SonyLiv\",SONY SAB HD",
-    "type": "SonyLiv",
+    "name": "SONY SAB HD",
+    "type": "TS-JioTV SonyLIV",
     "url": "https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SABTVHD1_Portrait_Thumb1.jpg"
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/4867313348001.jpg\" group-title=\"SonyLiv\",SONY MAX HD",
-    "type": "SonyLiv",
+    "name": "SONY PAL",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png"
+  },
+  {
+    "name": "SONY PIX HD",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png"
+  },
+  {
+    "name": "SONY MAX",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png"
+  },
+  {
+    "name": "SONY MAX HD",
+    "type": "TS-JioTV SonyLIV",
     "url": "https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/4867313348001.jpg"
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyWAH_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY WAH",
-    "type": "SonyLiv",
+    "name": "SONY MAX2",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png"
+  },
+  {
+    "name": "SONY WAH",
+    "type": "TS-JioTV SonyLIV",
     "url": "https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyWAH_Portrait_Thumb.jpg"
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/BBCEHD_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY BBC EARTH HD",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/BBCEHD_Portrait_Thumb.jpg"
+    "name": "SONY TEN 1",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPAL_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY PAL",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPAL_Portrait_Thumb.jpg"
+    "name": "SONY TEN 2",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8",
+    "img": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SetMAXHD_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY MAX",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SetMAXHD_Portrait_Thumb.jpg"
+    "name": "SONY TEN 3",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/sonymax2_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY MAX 2",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/sonymax2_Portrait_Thumb.jpg"
+    "name": "SONY TEN 4",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8",
+    "img": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyYAY_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY YAY",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyYAY_Portrait_Thumb.jpg"
+    "name": "SONY TEN 5",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8",
+    "img": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SONYMarathi1_Portrait_Thumb1.jpg\" group-title=\"SonyLiv\",SONY MARATHI",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SONYMarathi1_Portrait_Thumb1.jpg"
+    "name": "SONY BBC EARTH HD",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/Re_Sony_Aath_LIVE_channel_portrait_thumb.jpg\" group-title=\"SonyLiv\",SONY AATH",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/Re_Sony_Aath_LIVE_channel_portrait_thumb.jpg"
+    "name": "SONY YAY",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN1HD_Portrait_ThumbNEW.jpg\" group-title=\"SonyLiv\",SONY TEN 1 HD",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN1HD_Portrait_ThumbNEW.jpg"
+    "name": "SONY MARATHI",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN2HDNew_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY TEN 2 HD",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN2HDNew_Portrait_Thumb.jpg"
+    "name": "SONY AATH",
+    "type": "TS-JioTV SonyLIV",
+    "url": "https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png"
   },
   {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3HD_Portrait_ThumbNEW.jpg\" group-title=\"SonyLiv\",SONY TEN 3 HD",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3HD_Portrait_ThumbNEW.jpg"
-  },
-  {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4HD_Portrait_Thumb1.jpg\" group-title=\"SonyLiv\",SONY TEN 4 HD",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4HD_Portrait_Thumb1.jpg"
-  },
-  {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXHD_Portrait_ThumbNEW.jpg\" group-title=\"SonyLiv\",SONY TEN SIX HD",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXHD_Portrait_ThumbNEW.jpg"
-  },
-  {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN1SD_Portrait_ThumbNEW.jpg\" group-title=\"SonyLiv\",SONY TEN 1",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN1SD_Portrait_ThumbNEW.jpg"
-  },
-  {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN2New_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY TEN 2",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN2New_Portrait_Thumb.jpg"
-  },
-  {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3SD_Portrait_ThumbNEW.jpg\" group-title=\"SonyLiv\",SONY TEN 3",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3SD_Portrait_ThumbNEW.jpg"
-  },
-  {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY TEN 4",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4_Portrait_Thumb.jpg"
-  },
-  {
-    "name": "e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXSD_Portrait_Thumb.jpg\" group-title=\"SonyLiv\",SONY TEN SIX",
-    "type": "SonyLiv",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8",
-    "img": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXSD_Portrait_Thumb.jpg"
-  },
-  {
-    "name": "Sony Kal",
-    "type": "SonyLiv",
+    "name": "SONY KAL",
+    "type": "TS-JioTV SonyLIV",
     "url": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8",
     "img": "https://c.evidon.com/pub_logos/2796-2021122219404475.png"
-  },
-  {
-    "name": "Sony PAL",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png"
-  },
-  {
-    "name": "Sony YAY",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png"
-  },
-  {
-    "name": "Sony AATH",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png"
-  },
-  {
-    "name": "Sony Marathi",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png"
-  },
-  {
-    "name": "Sony BBC Earth HD",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png"
-  },
-  {
-    "name": "Sony PIX HD",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png"
-  },
-  {
-    "name": "Sony MAX",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/Sony_MAX.png"
-  },
-  {
-    "name": "Sony MAX2",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png"
-  },
-  {
-    "name": "Sony TEN 1",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png"
-  },
-  {
-    "name": "Sony TEN 2",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png"
-  },
-  {
-    "name": "Sony TEN 3",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png"
-  },
-  {
-    "name": "Sony TEN 4",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png"
-  },
-  {
-    "name": "Sony TEN 5",
-    "type": "SonyLiv",
-    "url": "https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8",
-    "img": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"
   },
   {
     "name": "CNBC Tv18 Prime HD",

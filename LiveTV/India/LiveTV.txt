@@ -1392,11 +1392,6 @@ URL: https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: CNN HD
-URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
-Logo: https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
 
 Group: Pakistani
 Name: ARY URDU
@@ -1615,190 +1610,6 @@ Name: Zainabia Channel
 URL: https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 Logo: https://i.ibb.co/y4ycZTB/unnamed.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-
-Group: SPORTS
-Name: FIGHT
-URL: https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-Logo: https://www.digitaltveurope.com/files/2014/08/Fight-Sports.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-
-Group: SonyLiv
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg" group-title="SonyLiv",SONY SET HD
-URL: https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SABTVHD1_Portrait_Thumb1.jpg" group-title="SonyLiv",SONY SAB HD
-URL: https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SABTVHD1_Portrait_Thumb1.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/4867313348001.jpg" group-title="SonyLiv",SONY MAX HD
-URL: https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/4867313348001.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyWAH_Portrait_Thumb.jpg" group-title="SonyLiv",SONY WAH
-URL: https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyWAH_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/BBCEHD_Portrait_Thumb.jpg" group-title="SonyLiv",SONY BBC EARTH HD
-URL: https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/BBCEHD_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPAL_Portrait_Thumb.jpg" group-title="SonyLiv",SONY PAL
-URL: https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPAL_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SetMAXHD_Portrait_Thumb.jpg" group-title="SonyLiv",SONY MAX
-URL: https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SetMAXHD_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/sonymax2_Portrait_Thumb.jpg" group-title="SonyLiv",SONY MAX 2
-URL: https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/sonymax2_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyYAY_Portrait_Thumb.jpg" group-title="SonyLiv",SONY YAY
-URL: https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyYAY_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SONYMarathi1_Portrait_Thumb1.jpg" group-title="SonyLiv",SONY MARATHI
-URL: https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SONYMarathi1_Portrait_Thumb1.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/Re_Sony_Aath_LIVE_channel_portrait_thumb.jpg" group-title="SonyLiv",SONY AATH
-URL: https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/Re_Sony_Aath_LIVE_channel_portrait_thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN1HD_Portrait_ThumbNEW.jpg" group-title="SonyLiv",SONY TEN 1 HD
-URL: https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN1HD_Portrait_ThumbNEW.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN2HDNew_Portrait_Thumb.jpg" group-title="SonyLiv",SONY TEN 2 HD
-URL: https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN2HDNew_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3HD_Portrait_ThumbNEW.jpg" group-title="SonyLiv",SONY TEN 3 HD
-URL: https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3HD_Portrait_ThumbNEW.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4HD_Portrait_Thumb1.jpg" group-title="SonyLiv",SONY TEN 4 HD
-URL: https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4HD_Portrait_Thumb1.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXHD_Portrait_ThumbNEW.jpg" group-title="SonyLiv",SONY TEN SIX HD
-URL: https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXHD_Portrait_ThumbNEW.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN1SD_Portrait_ThumbNEW.jpg" group-title="SonyLiv",SONY TEN 1
-URL: https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN1SD_Portrait_ThumbNEW.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN2New_Portrait_Thumb.jpg" group-title="SonyLiv",SONY TEN 2
-URL: https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN2New_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3SD_Portrait_ThumbNEW.jpg" group-title="SonyLiv",SONY TEN 3
-URL: https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3SD_Portrait_ThumbNEW.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4_Portrait_Thumb.jpg" group-title="SonyLiv",SONY TEN 4
-URL: https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXSD_Portrait_Thumb.jpg" group-title="SonyLiv",SONY TEN SIX
-URL: https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-Logo: https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXSD_Portrait_Thumb.jpg
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony Kal
-URL: https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-Logo: https://c.evidon.com/pub_logos/2796-2021122219404475.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony PAL
-URL: https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony YAY
-URL: https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony AATH
-URL: https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony Marathi
-URL: https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony BBC Earth HD
-URL: https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony PIX HD
-URL: https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony MAX
-URL: https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/Sony_MAX.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony MAX2
-URL: https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony TEN 1
-URL: https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony TEN 2
-URL: https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony TEN 3
-URL: https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony TEN 4
-URL: https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
---------------------------------------------------
-Name: Sony TEN 5
-URL: https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png
-Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README.md
 --------------------------------------------------
 
 Group: Sports
@@ -6907,6 +6718,98 @@ Group: TS-JioTV Shopping
 Name: TEST8 HD
 URL: http://103.168.18.83:80/zan/app/ts_live_1148.m3u8
 Logo: https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST8_HD.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+
+Group: TS-JioTV SonyLIV
+Name: SONY HD
+URL: https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY SAB HD
+URL: https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY PAL
+URL: https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY PIX HD
+URL: https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY MAX
+URL: https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY MAX HD
+URL: https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY MAX2
+URL: https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY WAH
+URL: https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY TEN 1
+URL: https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY TEN 2
+URL: https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+Logo: https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY TEN 3
+URL: https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY TEN 4
+URL: https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+Logo: https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY TEN 5
+URL: https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+Logo: https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY BBC EARTH HD
+URL: https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY YAY
+URL: https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY MARATHI
+URL: https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY AATH
+URL: https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png
+Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
+--------------------------------------------------
+Name: SONY KAL
+URL: https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+Logo: https://c.evidon.com/pub_logos/2796-2021122219404475.png
 Source: https://raw.githubusercontent.com/usernameplay/playlistghd.m3u/refs/heads/main/ghdply.m3u
 --------------------------------------------------
 
