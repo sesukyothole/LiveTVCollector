@@ -302,13 +302,13 @@
   {
     "name": "BBC News",
     "type": "English News",
-    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8",
     "img": "https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png"
   },
   {
     "name": "CNN",
     "type": "English News",
-    "url": "http://kst.moonplex.net:8080/CH15/tracks-v1a1/mono.m3u8",
+    "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
     "img": "https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png"
   },
   {
@@ -434,7 +434,7 @@
   {
     "name": "NAT GEO HD Bangla",
     "type": "Documentary",
-    "url": "http://103.122.74.6:8888/hls/NATGEO.HD.m3u8",
+    "url": "http://172.19.178.142:18190/natgeowild/tracks-v1/index.fmp4.m3u8?token=0475b07dbc4f224f6994496d23fe76bbc0353f83-6378bbaf9ba0d1602e962ce6b8c69de0-1747467122-1747456322",
     "img": "https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png"
   },
   {
@@ -448,6 +448,12 @@
     "type": "Documentary",
     "url": "http://xtv.ooo:8080/danyear12/am809100/206286",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png"
+  },
+  {
+    "name": "Travel xp Bangla",
+    "type": "Documentary",
+    "url": "https://travelxp-travelxp-3-nl.samsung.wurl.tv/3000.m3u8",
+    "img": "https://photos.prnewswire.com/prnfull/20150515/10122924"
   },
   {
     "name": "Travel xp",
@@ -780,6 +786,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"
   },
   {
+    "name": "Zee One",
+    "type": "Hindi",
+    "url": "https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/1c1ecdc6-be34-4ea2-bde9-8e30209e896b/2.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"
+  },
+  {
     "name": "Zee Cinema",
     "type": "Hindi",
     "url": "http://xtv.ooo:8080/213112/213112/109958",
@@ -790,6 +802,12 @@
     "type": "Hindi",
     "url": "http://xtv.ooo:8080/danyear12/am809100/66191",
     "img": "https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png"
+  },
+  {
+    "name": "Zee Amol Cinema",
+    "type": "Hindi",
+    "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "SONY SAB",
@@ -878,7 +896,7 @@
   {
     "name": "Live Sports-3",
     "type": "SPORTS",
-    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8",
     "img": "http://dds.oncast.me/img/logo/sp3.png"
   },
   {
@@ -914,7 +932,7 @@
   {
     "name": "GAZI TV-2",
     "type": "SPORTS",
-    "url": "http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=0a75658ee17f22b7f61c88646ab60edd00b88c47-83d97d2342526b5b27c6854423418f9f-1746628856-1746618056",
+    "url": "http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=2e0e628bb7f2d7a64e0b88e989aeea3c96dfadd8-32186ba1e05db68f8d22fe026ee5e9ad-1747466625-1747455825",
     "img": "https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png"
   },
   {
@@ -1164,6 +1182,30 @@
     "img": "https://static.epg.best/qa/beINSports1.qa.png"
   },
   {
+    "name": "RTV Sports",
+    "type": "SPORTS",
+    "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/chunklist_b1692000_slita.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sport Italia So",
+    "type": "SPORTS",
+    "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/chunklist_b4096000.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FIFA+",
+    "type": "SPORTS",
+    "url": "https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/c2b15f8b-20f5-4204-9c18-d81dff06ada6/1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Raching.com",
+    "type": "SPORTS",
+    "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "SONY LIV",
     "type": "SPORTS",
     "url": "https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8",
@@ -1240,6 +1282,12 @@
     "type": "SPORTS",
     "url": "http://185.189.225.157/EuroSport1/index.m3u8",
     "img": "https://sunplex.net/iptv/logo/channel-24.jpg"
+  },
+  {
+    "name": "Live",
+    "type": "SPORTS",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Live Sports Football Laliga",
@@ -3630,10 +3678,10 @@
     "img": "https://pbs.twimg.com/media/GSOb-8QbkAAYZqz.jpg"
   },
   {
-    "name": "CNN",
+    "name": "BBC World",
     "type": "NEWS",
-    "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"
   },
   {
     "name": "Fox News Now",

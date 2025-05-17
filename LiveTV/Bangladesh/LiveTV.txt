@@ -1463,7 +1463,7 @@ Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: NAT GEO HD Bangla
-URL: http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
+URL: http://172.19.178.142:18190/natgeowild/tracks-v1/index.fmp4.m3u8?token=0475b07dbc4f224f6994496d23fe76bbc0353f83-6378bbaf9ba0d1602e962ce6b8c69de0-1747467122-1747456322
 Logo: https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1475,6 +1475,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 Name: Net Geo wild
 URL: http://xtv.ooo:8080/danyear12/am809100/206286
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Travel xp Bangla
+URL: https://travelxp-travelxp-3-nl.samsung.wurl.tv/3000.m3u8
+Logo: https://photos.prnewswire.com/prnfull/20150515/10122924
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Travel xp
@@ -1668,12 +1673,12 @@ Logo: https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: BBC News
-URL: https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+URL: https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
 Logo: https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: CNN
-URL: http://kst.moonplex.net:8080/CH15/tracks-v1a1/mono.m3u8
+URL: https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 Logo: https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1931,6 +1936,11 @@ URL: http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446015
 Logo: https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Zee One
+URL: https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/1c1ecdc6-be34-4ea2-bde9-8e30209e896b/2.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Zee Cinema
 URL: http://xtv.ooo:8080/213112/213112/109958
 Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg
@@ -1939,6 +1949,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 Name: Zee Action
 URL: http://xtv.ooo:8080/danyear12/am809100/66191
 Logo: https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Zee Amol Cinema
+URL: https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: SONY SAB
@@ -2769,9 +2784,9 @@ URL: https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_720.m3u8
 Logo: https://pbs.twimg.com/media/GSOb-8QbkAAYZqz.jpg
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
-Name: CNN
-URL: https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
+Name: BBC World
+URL: https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
 Name: Fox News Now
@@ -2958,7 +2973,7 @@ Logo: http://dds.oncast.me/img/logo/sp2.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Live Sports-3
-URL: https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+URL: https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 Logo: http://dds.oncast.me/img/logo/sp3.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2988,7 +3003,7 @@ Logo: https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: GAZI TV-2
-URL: http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=0a75658ee17f22b7f61c88646ab60edd00b88c47-83d97d2342526b5b27c6854423418f9f-1746628856-1746618056
+URL: http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=2e0e628bb7f2d7a64e0b88e989aeea3c96dfadd8-32186ba1e05db68f8d22fe026ee5e9ad-1747466625-1747455825
 Logo: https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -3197,6 +3212,26 @@ URL: https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 Logo: https://static.epg.best/qa/beINSports1.qa.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: RTV Sports
+URL: https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Sport Italia So
+URL: https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/chunklist_b4096000.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: FIFA+
+URL: https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/c2b15f8b-20f5-4204-9c18-d81dff06ada6/1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Raching.com
+URL: https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: SONY LIV
 URL: https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3260,6 +3295,11 @@ Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/head
 Name: Europe Sports 1 HD
 URL: http://185.189.225.157/EuroSport1/index.m3u8
 Logo: https://sunplex.net/iptv/logo/channel-24.jpg
+Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
+--------------------------------------------------
+Name: Live
+URL: https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
 Name: Live Sports Football Laliga
