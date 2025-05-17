@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-17 06:35:52",
+  "date": "2025-05-17 13:46:21",
   "channels": {
     "News": [
       {
@@ -2403,13 +2403,6 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8"
-      },
-      {
-        "name": "04 | AMERICA TV |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8"
       },
       {
         "name": "04.1 | AMERICA TV ALT  |",

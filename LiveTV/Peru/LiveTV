@@ -1980,12 +1980,6 @@
     "img": "https://imgur.com/rYo3GDy.jpeg"
   },
   {
-    "name": "04 | AMERICA TV |",
-    "type": "TV PERU",
-    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/americatv.jpg"
-  },
-  {
     "name": "04.1 | AMERICA TV ALT  |",
     "type": "TV PERU",
     "url": "http://tvmate.icu:8080/85646307/54885994/110637",
