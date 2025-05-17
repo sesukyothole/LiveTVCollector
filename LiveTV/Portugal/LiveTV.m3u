@@ -6,13 +6,13 @@ http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="TV",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="TV",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI1IDQ6Nzo0MSBQTSZoYXNoX3ZhbHVlPTVUWjB3NklqakZQNURINVZkcTlBbVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04MmI1MGIyZi04ZTllLTQxNTItOThhZC1jMzYzYTY0ODljNmQ=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDEyOjI5OjQyIEFNJmhhc2hfdmFsdWU9MmZGY1NjNEM3MHZBMldTcitodFJjUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTc1MzNkMzc0LWFmZjYtNDgyYi04NTgxLWYwZGQzYTA5MWVhMw==/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png" group-title="TV",RTP 3
 http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png" group-title="TV",SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="TV",CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI1IDQ6Nzo0MiBQTSZoYXNoX3ZhbHVlPVI5cnZ2MEFGU1RoaGg3Q1hDT1RIcVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNTcyOTQyNS0wZDY1LTQ3MDktOTMwNS02YWUwZjU4ZDQ2NjU=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDEyOjI5OjQzIEFNJmhhc2hfdmFsdWU9c3VyMUwxOWJ0bVR4WGlDbSs3RTFqZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJhMzIwYWI0LTRlODgtNGY1Ny04ZGZkLTUzOGZiNTY0NjYzZg==/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" group-title="TV",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" group-title="TV",Euronews PT
@@ -30,7 +30,7 @@ http://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png" group-title="TV",RTP Internacional
 http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png" group-title="TV",TVI Internacional
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI1IDQ6Nzo0MyBQTSZoYXNoX3ZhbHVlPW9DSkZmcUg5UzVpK0RlYVFRUGdXNEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00NzRkMmU1Mi1kZTdhLTRhMGQtYTdjYi1jYjE3NjQ4MDI5NTE=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDEyOjI5OjQzIEFNJmhhc2hfdmFsdWU9Zjl6WFlZdnU3am1lYUV4SzRzcisxQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTMzNjI1NzllLTZiNDUtNGQxMi1iOTNlLWU5M2NjMDIxMTlkMw==/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png" group-title="TV",TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png" group-title="TV",V+ TVI
@@ -587,6 +587,8 @@ https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d.mp4,.urlset/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg" group-title="O Planeta Vivo",O Planeta Vivo S01E03
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
+#EXTINF:-1 tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg" group-title="O Outro Lado",O Outro Lado - S10E17 12/5/2025
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250512000000e017t1641.mp4,.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg" group-title="O Outro Lado",O Outro Lado - S10E16 5/5/2025
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250505000000e016t0194.mp4,.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg" group-title="O Outro Lado",O Outro Lado - S10E15 14/4/2025
@@ -859,6 +861,8 @@ https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_202205020
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220418235938e015t4728.m3u8
 #EXTINF:-1 tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg" group-title="O Outro Lado",O Outro Lado - S07E14 11/4/2022
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg" group-title="Eixo do Mal",Eixo do Mal - 15/5/2025
+https://videos.impresa.pt/videos/hls/sicnot/2025/05/15/1fb5f66e-1e0a-4f4b-a9c5-0544362f393f/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg" group-title="Eixo do Mal",Eixo do Mal - 8/5/2025
 https://videos.impresa.pt/videos/hls/sicnot/2025/05/08/ccffe75e-03d3-4956-b892-375d2ecb2711/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg" group-title="Eixo do Mal",Eixo do Mal - 1/5/2025
@@ -1435,6 +1439,14 @@ https://cdn.jwplayer.com/manifests/ZocaiFcb.m3u8
 https://cdn.jwplayer.com/manifests/Mvuo738f.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg" group-title="PCNELID",PCNELID - 16/4/2022
 https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png" group-title="IEGCQT",IEGCQT S11E27 15-05-2025
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_z4vwgmve/v/11/ev/14/flavorId/1_,4zp7hsdj,85dm1xtw,ircffabk,v5vlpxuy,igc0vmca,djdxv8ui,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png" group-title="IEGCQT",IEGCQT S11E26 14-05-2025
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_hep5367y/v/11/ev/14/flavorId/1_,dejl7ifo,rkdd0ndc,v0jqt21k,hphznwaa,qw8ammoc,hhvfonbl,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png" group-title="IEGCQT",IEGCQT S11E25 13-05-2025
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_nx0klilm/v/11/ev/14/flavorId/1_,kxwdvc1f,skm9ftg8,of6gbzca,0xgdk3hu,jrikfbz0,te42kz4i,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png" group-title="IEGCQT",IEGCQT S11E24 12-05-2025
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_bd12ukqb/v/11/ev/14/flavorId/1_,cpmtlw58,tclflota,5cp8c9yf,39d1zl1o,8ju4dx0i,u7fd5rdq,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png" group-title="IEGCQT",IEGCQT S11E23 11-05-2025
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_lihkwfz8/v/1/ev/7/flavorId/1_,9v4pwwip,ith7dwog,bpi96rvc,468agx8u,er8m7u75,k8r67nwo,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png" group-title="IEGCQT",IEGCQT S11E22 09-05-2025

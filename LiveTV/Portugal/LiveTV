@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI1IDQ6Nzo0MSBQTSZoYXNoX3ZhbHVlPTVUWjB3NklqakZQNURINVZkcTlBbVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04MmI1MGIyZi04ZTllLTQxNTItOThhZC1jMzYzYTY0ODljNmQ=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDEyOjI5OjQyIEFNJmhhc2hfdmFsdWU9MmZGY1NjNEM3MHZBMldTcitodFJjUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTc1MzNkMzc0LWFmZjYtNDgyYi04NTgxLWYwZGQzYTA5MWVhMw==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI1IDQ6Nzo0MiBQTSZoYXNoX3ZhbHVlPVI5cnZ2MEFGU1RoaGg3Q1hDT1RIcVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNTcyOTQyNS0wZDY1LTQ3MDktOTMwNS02YWUwZjU4ZDQ2NjU=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDEyOjI5OjQzIEFNJmhhc2hfdmFsdWU9c3VyMUwxOWJ0bVR4WGlDbSs3RTFqZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJhMzIwYWI0LTRlODgtNGY1Ny04ZGZkLTUzOGZiNTY0NjYzZg==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI1IDQ6Nzo0MyBQTSZoYXNoX3ZhbHVlPW9DSkZmcUg5UzVpK0RlYVFRUGdXNEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00NzRkMmU1Mi1kZTdhLTRhMGQtYTdjYi1jYjE3NjQ4MDI5NTE=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDEyOjI5OjQzIEFNJmhhc2hfdmFsdWU9Zjl6WFlZdnU3am1lYUV4SzRzcisxQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTMzNjI1NzllLTZiNDUtNGQxMi1iOTNlLWU5M2NjMDIxMTlkMw==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -1764,6 +1764,12 @@
     "img": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg"
   },
   {
+    "name": "O Outro Lado - S10E17 12/5/2025",
+    "type": "O Outro Lado",
+    "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250512000000e017t1641.mp4,.urlset/master.m3u8",
+    "img": "https://m3upt.com/logos/O-outro-lado.jpg"
+  },
+  {
     "name": "O Outro Lado - S10E16 5/5/2025",
     "type": "O Outro Lado",
     "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250505000000e016t0194.mp4,.urlset/master.m3u8",
@@ -2578,6 +2584,12 @@
     "type": "O Outro Lado",
     "url": "https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.m3u8",
     "img": "https://m3upt.com/logos/O-outro-lado.jpg"
+  },
+  {
+    "name": "Eixo do Mal - 15/5/2025",
+    "type": "Eixo do Mal",
+    "url": "https://videos.impresa.pt/videos/hls/sicnot/2025/05/15/1fb5f66e-1e0a-4f4b-a9c5-0544362f393f/video.m3u8",
+    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg"
   },
   {
     "name": "Eixo do Mal - 8/5/2025",
@@ -4306,6 +4318,30 @@
     "type": "PCNELID",
     "url": "https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg"
+  },
+  {
+    "name": "IEGCQT S11E27 15-05-2025",
+    "type": "IEGCQT",
+    "url": "https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_z4vwgmve/v/11/ev/14/flavorId/1_,4zp7hsdj,85dm1xtw,ircffabk,v5vlpxuy,igc0vmca,djdxv8ui,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png"
+  },
+  {
+    "name": "IEGCQT S11E26 14-05-2025",
+    "type": "IEGCQT",
+    "url": "https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_hep5367y/v/11/ev/14/flavorId/1_,dejl7ifo,rkdd0ndc,v0jqt21k,hphznwaa,qw8ammoc,hhvfonbl,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png"
+  },
+  {
+    "name": "IEGCQT S11E25 13-05-2025",
+    "type": "IEGCQT",
+    "url": "https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_nx0klilm/v/11/ev/14/flavorId/1_,kxwdvc1f,skm9ftg8,of6gbzca,0xgdk3hu,jrikfbz0,te42kz4i,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png"
+  },
+  {
+    "name": "IEGCQT S11E24 12-05-2025",
+    "type": "IEGCQT",
+    "url": "https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_bd12ukqb/v/11/ev/14/flavorId/1_,cpmtlw58,tclflota,5cp8c9yf,39d1zl1o,8ju4dx0i,u7fd5rdq,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png"
   },
   {
     "name": "IEGCQT S11E23 11-05-2025",
