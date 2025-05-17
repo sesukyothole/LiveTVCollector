@@ -6239,11 +6239,6 @@ URL: https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 103 TV3 2
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: 106 Astro Oasis
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/2/28/Astro_Oasis_%282024%29.png

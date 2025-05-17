@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-16 21:41:43",
+  "date": "2025-05-17 06:16:33",
   "channels": {
     "siaranMy": [
       {
@@ -275,13 +275,6 @@
         "group": "Malaysia",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd"
-      },
-      {
-        "name": "103 TV3 2",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",
-        "group": "Malaysia",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd"
       },
       {
         "name": "106 Astro Oasis",

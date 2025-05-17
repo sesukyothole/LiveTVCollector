@@ -228,12 +228,6 @@
     "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png"
   },
   {
-    "name": "103 TV3 2",
-    "type": "Malaysia",
-    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd",
-    "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png"
-  },
-  {
     "name": "106 Astro Oasis",
     "type": "Malaysia",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd",
