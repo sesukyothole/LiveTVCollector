@@ -1,690 +1,3 @@
-Group: ALL CHANNELS
-Name: BTV WORLD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA--NpWI16nUzntdc3QeimzQ/m3u8
-Logo: http://172.16.29.34:80/images/f971ee74d44dee9df292af97ba2c29ba.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: T SPORTS HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/m3u8
-Logo: http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ASIAN TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3oPDxxNOHaf1vCi1T6JNGA/m3u8
-Logo: http://172.16.29.34:80/images/150926de339b5fe059cac92b77636b57.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ATN BANGLA
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4XcHuahYnOSqNLrioPHoVI/m3u8
-Logo: http://172.16.29.34:80/images/caacb3e64c6291d055b5d2e85fc3f16b.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ATN NEWS
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbr7tznLQfRHlkqWyjbZrc/m3u8
-Logo: http://172.16.29.34:80/images/b5654a5be0b7fd5bdad19da12d6369c9.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BANGLA VISION
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxZs0o8I4EG1wfbna0vngpo/m3u8
-Logo: http://172.16.29.34:80/images/78fc953a1f36d3bca8b28c60bebd899e.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BOISHAKHI TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_FyNforKHGnrkd_iikb_Hk/m3u8
-Logo: http://172.16.29.34:80/images/9269a11c1a8986673c0a09d24e711828.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: CHANNEL I HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9wNRL3H3YXOqIWwmA39Dug/m3u8
-Logo: http://172.16.29.34:80/images/fdc864c948ed26cfb28123b32ee080b6.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: CHANNEL24 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7xUx0YT-eZSOJM5vzFXQc0/m3u8
-Logo: http://172.16.29.34:80/images/685afab95090a16e6bb9a5d949f100f8.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: DBC NEWS HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_c-juLWCidG_f87qmcpH-o/m3u8
-Logo: http://172.16.29.34:80/images/c799263234f97715c87899b48e8b2c01.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: DEEPTO TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_7KUEPhrDuFXaAlxtVkpKE/m3u8
-Logo: http://172.16.29.34:80/images/b6069fe530432541f89118683c4150f4.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: DESH TV
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzCO6nUZdf53Bsy0Mzt6WU4/m3u8
-Logo: http://172.16.29.34:80/images/a7ae471ab8f62fe023e978c86c486419.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: EKHON TV
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2BVl1RSX4ezkUjtgNCVHQ4/m3u8
-Logo: http://172.16.29.34:80/images/471c1b4ad65ee968648be0d2919ee8bb.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: EKATTOR TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6mXC-KJP5guDTqwni-oYlQ/m3u8
-Logo: http://172.16.29.34:80/images/7793eb7557348ffda0d98e9e35924069.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BBC CBEEBIES HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA47gNSB7wvuox-RI3RUmV6Y/m3u8
-Logo: http://172.16.29.34:80/images/f5247d743781c8a59b939386fbf73a37.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: GAZI TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2fDdQrxKt12EKK2jKiKrEE/m3u8
-Logo: http://172.16.29.34:80/images/29650b4644d2432208b187ccd72b1606.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: INDEPENDENT TV
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwWYOuywRMd4zmlHoudETEg/m3u8
-Logo: http://172.16.29.34:80/images/1fb5c4bd977ef2cc69fc75d9b5092a58.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: JAMUNA TV
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8v8rN6kAVbK87DTHzy3yzo/m3u8
-Logo: http://172.16.29.34:80/images/6716d9404342f060a17977a5698f57bc.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: MAASRANGA TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-0TKJRZGDHE1U_J1zGJ9fw/m3u8
-Logo: http://172.16.29.34:80/images/aef823c0eeb58a5006b2b1e7e6742028.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: MYTV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAw8nxtoUTKO6BvtfANcNQnY/m3u8
-Logo: http://172.16.29.34:80/images/d204c836b9ea9122c6f76e81e13b16b3.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: NAGORIK TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5xMq6_OPzwmpYbcr5_JZTc/m3u8
-Logo: http://172.16.29.34:80/images/f8b34cca59defb42a763c79310d405af.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: NEWS24 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9Yv552eH0A8e52Dqelg-fw/m3u8
-Logo: http://172.16.29.34:80/images/5820f1a6d2f2cd14edea4d0830cc47ea.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: NTV
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwxSfKoy0_7iktrmK-OpMn0/m3u8
-Logo: http://172.16.29.34:80/images/b61ac5df359816c92ad4d22ccf99fb9a.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: RTV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5kBeAE3PtthB0R-LRMYhNQ/m3u8
-Logo: http://172.16.29.34:80/images/1bb19043bdfc9320efaf5be7ac0385d3.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SATV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8IBELmjBnqWoQV3Qjbzfps/m3u8
-Logo: http://172.16.29.34:80/images/879b1f203354845a9550b7426e0ce5e5.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SUN BANGLA
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yEOeIw8weNHIb2ooiEr4c/m3u8
-Logo: http://172.16.29.34:80/images/3124a1c4b9de54fd117cdc79570f348e.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ZEE BANGLA HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2J2ObuVcLYW5xvKgig9xEk/m3u8
-Logo: http://172.16.29.34:80/images/8885263820cf7dc54d27cfaea14096de.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: &PRIVE HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3taxXXNZYOufkQNGg267hM/m3u8
-Logo: http://172.16.29.34:80/images/08d41c9dcdc3cd5f5074b748f4d8318e.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: 24 GHANTA
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyHpn-R4uLMN0SXhWgPmAiU/m3u8
-Logo: http://172.16.29.34:80/images/97061d9ac8e52ef390eb724b8be17d05.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: A SPORTS HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1T9yO-JBU_w4AaSxGEvWi4/m3u8
-Logo: http://172.16.29.34:80/images/fa91b98285bba91a306d34e70af0e156.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: AL JAZEERA NEWS
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2d0FRpBn2Rga77YIALxyhs/m3u8
-Logo: http://172.16.29.34:80/images/74135ae657819fb69d09140a6b5bc7f6.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ARY NEWS ASIA
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyjz2G05Pkodb5NboTOyQTs/m3u8
-Logo: http://172.16.29.34:80/images/f2282fba9dd9411470731f6ef3670b69.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: AXN HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA61BVEvUTViU72bEXsttoWA/m3u8
-Logo: http://172.16.29.34:80/images/6d828dc1fd135bd97c9f50d751e071f6.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BBC EARTH HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5uPpEItplo02Km--IqdQ8c/m3u8
-Logo: http://172.16.29.34:80/images/cad68f622638dbc0e55e0283b9a037fa.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: CARTOON NETWORK
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx0gjyPMSijXAXA7ZhRyX-k/m3u8
-Logo: http://172.16.29.34:80/images/2521a82890cd1cdd803fa752bc742737.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: COLORS HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4ZkkwUOd394X4Eo0NuwHGc/m3u8
-Logo: http://172.16.29.34:80/images/0ca93d472315830a7cf174ec3a4ce918.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: DISCOVERY HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ae4cffhV9yAjOyISj2XTE/m3u8
-Logo: http://172.16.29.34:80/images/24ec4d92366e1ff902030483d293ddcd.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: EKUSHEY TV
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3BS2efe8497gpL6efDrMQA/m3u8
-Logo: http://172.16.29.34:80/images/e60d32608863d89f944500a73fe08e5b.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: EUROSPORT HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0ndJdWOZEQD7BHch3bEVNI/m3u8
-Logo: http://172.16.29.34:80/images/d4f496a978dfb1613f5779a4e02c7911.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BBC LIFESTYLE HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzz68JJlPZWJZt0wKMGU5Sw/m3u8
-Logo: http://172.16.29.34:80/images/f0d0506b037143330525c502c79dec43.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: HISTORY TV18 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA63w0HrH40Zz_eOy4I63lcs/m3u8
-Logo: http://172.16.29.34:80/images/daa3d7d1999ae8a72a49f4f64e1d3834.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: MN+ HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxA7H3hlj-_Q1X8K3LqwB7w/m3u8
-Logo: http://172.16.29.34:80/images/e0bd650cf0255ed812f915710cff3e05.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: NAT GEO HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Wb1ckUItbyhIPhcQE63Qo/m3u8
-Logo: http://172.16.29.34:80/images/779081c0a7fb33f09f91fa9639bf3298.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: NAT GEO WILD HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz5RczB08W7KYwaAYnlLfss/m3u8
-Logo: http://172.16.29.34:80/images/32af5340b8b18b721c5fed3486d92592.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: NICK SD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA94MzVPKdI7F2qBKeLKpbD0/m3u8
-Logo: http://172.16.29.34:80/images/bfe6b7d2ee184d5c89f97aa224934cf7.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SOMOY TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0DYjVid5WbW8UtDN3-AE6w/m3u8
-Logo: http://172.16.29.34:80/images/fd2dbe7f3927e781a1bec97f4fbd5644.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY BBC EARTH HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1bQlrlGtXGqLaMfpykD0FQ/m3u8
-Logo: http://172.16.29.34:80/images/05eac48a3d983bc9f0e4e3739e7e64fe.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY MAX HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7keUoM9IsfncKh-TVkb5zk/m3u8
-Logo: http://172.16.29.34:80/images/fbc9456bd23ddd8a962832cef4ee832b.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY PIX HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAySO0zc2_tb3tJVZLeLIdxw/m3u8
-Logo: http://172.16.29.34:80/images/1a05ae6903c0cefed56a2ce019b8e9c8.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY TEN 1 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA03s0umUedSUliCAAO3RNs8/m3u8
-Logo: http://172.16.29.34:80/images/69582a69b467ef2333210bf39a4574fd.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY TEN 2 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5-zeaOabG-vjosNtqWeNWY/m3u8
-Logo: http://172.16.29.34:80/images/29de51f924dcb840492593065333c5ef.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY TEN 5 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8M5s-R1JCgC7RJoFr2X5Rw/m3u8
-Logo: http://172.16.29.34:80/images/f960e620caa273f1fefa805bf847b4ea.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SPORTS 18 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA98PzWIzraWb90pov-Jlhqo/m3u8
-Logo: http://172.16.29.34:80/images/c959c1df1b5e43dc74c3476d335d83d9.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR BHARAT HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwYelnJj-4e_U5eWEk3gCso/m3u8
-Logo: http://172.16.29.34:80/images/86853872a0614d96c2fd2a36353fb190.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR GOLD HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/m3u8
-Logo: http://172.16.29.34:80/images/214c6dccbc52a1f4a688d02df2b4a771.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR MOVIES SEL HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-ubsOEwtB1tgTJisY1MYWU/m3u8
-Logo: http://172.16.29.34:80/images/18b431af6807c5915dd945c66b44688c.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR PLUS HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwqgyVIvQj6A55n5tJfJ-YA/m3u8
-Logo: http://172.16.29.34:80/images/13f72442726599d7f04afc88bdb0a3c2.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR SPORTS 1 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9SmD9DBUBBFryQ6ZMeIzxM/m3u8
-Logo: http://172.16.29.34:80/images/2e302ced022c77ae2f885d9abeb31f03.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR SPORTS 2 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx6-mphBg8gl7Hrc1b_hlqQ/m3u8
-Logo: http://172.16.29.34:80/images/a80e281fce7d1d6e0b38161d71290126.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR SPORTS 3
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzWZsqMCHvXNIndhQFhrNeQ/m3u8
-Logo: http://172.16.29.34:80/images/d17c550e4e11abf5c74a2baf3c9041a8.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR SPORTS SL 1 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA324orKoVmE1EM18g8AcgYI/m3u8
-Logo: http://172.16.29.34:80/images/904de69c66d442610adafe67fa97b90a.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR SPORTS SL 2 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0GyQmEKMAZIKFiWcUqBfEM/m3u8
-Logo: http://172.16.29.34:80/images/6b8007c8a58db72c538a2026e3ebe77b.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: TLC HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yczWrend7pfGCiZrGw9LI/m3u8
-Logo: http://172.16.29.34:80/images/fd2dbe7f3927e781a1bec97f4fbd5644.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ZEE CINEMA HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz1WRBGWiIKzdeGYg5OfcuY/m3u8
-Logo: http://172.16.29.34:80/images/67791a41dd062f2f7d4fec7e09229813.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ZEE TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8_18-npr6LX9umQFmKTVRI/m3u8
-Logo: http://172.16.29.34:80/images/cce32ae945805ea8bb003500f80e4143.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: TNT SPORTS 1 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3OdK5xHLTpDcHZnEMnM-FA/m3u8
-Logo: http://172.16.29.34:80/images/fd2dbe7f3927e781a1bec97f4fbd5644.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: DW ENGLISH HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzjTq75zoOSPsOGM5Mg9--s/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: TEN SPORTS HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc/m3u8
-Logo: http://172.16.29.34:80/images/818973c6316ceb56e9492ad9acfdb448.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BBC WORLD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0HmZbyPChrarr0v1zTcBOA/m3u8
-Logo: http://172.16.29.34:80/images/c5151865a8b08fadc43eeb3177b30613.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: CNN INTERNATIONAL
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxlFmkhEoShP524f4j6nSI0/m3u8
-Logo: http://172.16.29.34:80/images/e37555ecf82cd36639ea5dbe27d782b7.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: & PRIVE HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzqvOymolrkJ2lcwcHE4jUk/m3u8
-Logo: http://172.16.29.34:80/images/08d41c9dcdc3cd5f5074b748f4d8318e.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: COLORS INFINITY HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxSahhHpr8sUNnOnXw-W9YQ/m3u8
-Logo: http://172.16.29.34:80/images/91824de901fe924acb19122fc8fa5813.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: NICK TV HD+
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5pnufO29vA1VCEDIqfgUWE/m3u8
-Logo: http://172.16.29.34:80/images/f8d7322d2f98a14e5e4227e945630a87.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY TEN2 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz8CvWgCp9hufE5nEp7b59M/m3u8
-Logo: http://172.16.29.34:80/images/29de51f924dcb840492593065333c5ef.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR SPORTS SL1 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4VAyhUIDSAU7x51LY-x7PA/m3u8
-Logo: http://172.16.29.34:80/images/904de69c66d442610adafe67fa97b90a.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR SPORTS SL2 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwy9HUkF_tLFW6RllIfexOQ/m3u8
-Logo: http://172.16.29.34:80/images/6b8007c8a58db72c538a2026e3ebe77b.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR GOLD SEL HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3mbxe8nlL2rdpEH2607g44/m3u8
-Logo: http://172.16.29.34:80/images/bf4efa7d894f1f450b3dd2121dbf9931.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: COLORS BANGLA HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1m-C_2EIhsZda2eN2z-yro/m3u8
-Logo: http://172.16.29.34:80/images/0cc19d2ca19edb250ac36ca479236a77.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: JALSHA MOVIES HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5czJZdJL5NIAEXBZ-4lMb0/m3u8
-Logo: http://172.16.29.34:80/images/5dc5e1b1267daeeb265a10a7f85b81e7.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR JALSHA HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/m3u8
-Logo: http://172.16.29.34:80/images/dfb21b1c3676fd868fb19fd3a5be5b6d.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR MOVIES HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ekp3Fy7D94wMxtS9g2lBY/m3u8
-Logo: http://172.16.29.34:80/images/01f23567667429d7a06412e0db2f529e.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: TCL HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA993B1sDkuala-9B69I6Txc/m3u8
-Logo: http://172.16.29.34:80/images/e5bc70b3999ca5756c660422158aa037.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ZEE CAFE HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-zsBzXTqzyDaNsy4YUfQBs/m3u8
-Logo: http://172.16.29.34:80/images/1f71ebfbbc83186e83e91d13ca13b6c7.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: & FLIX HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-KYkzcq1Lx-hVnGrYWojag/m3u8
-Logo: http://172.16.29.34:80/images/d4a05ee38ccd894cba248fc19d118bfd.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: EURO SPORTS HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA66mVj3wqB2MDpjz0dPPo_0/m3u8
-Logo: http://172.16.29.34:80/images/366821d7939d11a67de52c40f77516c1.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5cc-JzyUsEkIbufeH14TB4/m3u8
-Logo: http://172.16.29.34:80/images/7a1c797c64aa074507a0ac7710811a83.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: FOX LIFE HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0kE0hctTCx2ma0XE99OPy4/m3u8
-Logo: http://172.16.29.34:80/images/103779ca06b02f0221c00d6dbab26c2a.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SUB TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA48SQVRIhLk9q5F2GVkdyi8/m3u8
-Logo: http://172.16.29.34:80/images/fbc0a4058f6120dee64a164102b3d1c0.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: &TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1cLlNDXH7J1Jn8v3Onl-r4/m3u8
-Logo: http://172.16.29.34:80/images/8109cad159f9c2728c753b6af8e440da.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: HANGAMA SD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7XznN44TSPx21_EdXW9-bo/m3u8
-Logo: http://172.16.29.34:80/images/b5c558167c8c7259e27df182c3ca328a.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: POGO
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6jLJs-x9JkMCsHpFukynww/m3u8
-Logo: http://172.16.29.34:80/images/4080caba75b4aab91566c3c5f212b219.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ZEE BANGLA CINEMA HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwle_5XXDJlfauzFE6F8VsQ/m3u8
-Logo: http://172.16.29.34:80/images/79cbfb332a7df4d573a609659cb78ca7.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ZEE NEWS
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwp9F7M7dy-hUjichD4O5TA/m3u8
-Logo: http://172.16.29.34:80/images/30d10725a8cef627279bf4364bcdf0c9.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: R.TV BANGLA NEWS
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4rfRWhw54IpB93bbx7_19Y/m3u8
-Logo: http://172.16.29.34:80/images/67c2ebad2aa9abce6f4d9cd7fc0f13f5.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: & PICTURE HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_vrXS8PTCO9UR3nth01qUY/m3u8
-Logo: http://172.16.29.34:80/images/6e0762d3776fc90807cf8371a82433d1.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR SPORTS HD1 CB
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1Gjd37lfHfc1DNAOAa4jsg/m3u8
-Logo: http://172.16.29.34:80/images/904de69c66d442610adafe67fa97b90a.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: CGTN NEWS
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Rdu2rV1LqQ1_nlHo2NjTA/m3u8
-Logo: http://172.16.29.34:80/images/0e3db67d529e7c7e9d48db8b0fe0e41d.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ABP NEWS
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzp7OSZQJzZcZLRrRYRy28k/m3u8
-Logo: http://172.16.29.34:80/images/8840535f3da4d7701ff436a787a9e5b5.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: WILLOW CRICKET
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1g-_KkzBq-pqdOeKpZdC-0/m3u8
-Logo: http://172.16.29.34:80/images/3e24db626e8ad785de0c4803bf445d72.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: TNT SPORTS 2 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2YfXNYgfMH_pqpdNuFoqi8/m3u8
-Logo: http://172.16.29.34:80/images/818973c6316ceb56e9492ad9acfdb448.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: GEO SUPER
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2NnBfpteKtx5uGLNAgM5Zs/m3u8
-Logo: http://172.16.29.34:80/images/e376dd7c7b6276f29a37c513e356313e.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: 9XM
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5npyVJzmcSk1f8iLT69XKc/m3u8
-Logo: http://172.16.29.34:80/images/d3001a0d11ea53f509990918e21ffa32.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: MASTIII
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9KfTa7j96aMi6krK_pcma8/m3u8
-Logo: http://172.16.29.34:80/images/63ddaa43f53400d3b6cfcadec39131d6.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: DURONTO TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0Wn0CC-9ZOBT1v4cuqhmDU/m3u8
-Logo: http://172.16.29.34:80/images/5c6fdb54228189dca55fcd94e601f24c.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: PTV SPORTS HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2osZeAdagOcS1vRJAYWF_Y/m3u8
-Logo: http://172.16.29.34:80/images/418ee8f3ffc10df5e363d4b743b52d50.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SANGEET BANGLA
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9AHn1Xwd7BtGPZVaIfJVf8/m3u8
-Logo: http://172.16.29.34:80/images/387cf4377a1b035f81d9291388cc9277.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BTV NATIONAL HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_aUpnu3HM2-2nxHKbDe3FA/m3u8
-Logo: http://172.16.29.34:80/images/e285c0b12048a23e3b4674c6258dbd8d.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: GEO SUPER SPORTS
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxp1mLgFdzrXj-H1SqgcIpY/m3u8
-Logo: http://172.16.29.34:80/images/e376dd7c7b6276f29a37c513e356313e.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY ATTH
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8w8iYeaX0ac2OW28RzGY90/m3u8
-Logo: http://172.16.29.34:80/images/89375013d1ad3ae58a7519a2e3d8b830.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: TEN CRICKET HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxYmOdwYKD9TaHZUX2ACjo8/m3u8
-Logo: http://172.16.29.34:80/images/ec9f4f43d1fd1b4933d47724aed972db.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: T SPORTS FHD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DzImxWwZd-nNy7aKwgGzI/m3u8
-Logo: http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BEIN  SPORTS 2 ENG
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3rAU3tEQJkgiMFSDMBcrcw/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BEIN  SPORTS 1 ENG
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA88ymJzFiqlYQGcDDiw6_3Q/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BEIN SPORTS 3 ENG
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwk0wF2fXmtZee4HPoCd7Jo/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: WILLOW XTRA HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxzY-hOBEGbGvVX98TVDy-U/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SUPER PREMIER LEAGUE HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9rsD7HSqulfmiwa28oPDYw/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SUPER SPORTS CRICKET HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1k_gAKFpRKgkOIIHQ-efNw/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SUPER LALIGA HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1H6lHsiJVQxI52n77SIz4c/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: VH 1 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0FuZJqodlomE1xYx7JHZas/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: STAR GOLD 2 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0CzYiQQbxSPlxSGwgbRFHs/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: DISNEY INT. HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-7y030f1I7vS_9a9i43piM/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: DISNEY JUNIOR HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5Ky2-obyTTRwGTb9ps13M4/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: COLORS CINEPLEX HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-_zbeds-s_T_pBXJlcrz80/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BEIN SPORTS HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0yhGAdbZKR3Xm9j5oGIsYs/m3u8
-Logo: http://fanc.tmsimg.com/assets/s76942_ll_h3_ab.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ENTER 10 BANGLA
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1llPbXde722j403Rat9Xfk/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BET HD*
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbjwbYUSPCCz3TyOpCZz88/m3u8
-Logo: http://fanc.tmsimg.com/assets/s10051_ll_h3_ac.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: TNT SPORTS 4 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4AEYLf37lj8r3F9ARc5WBI/m3u8
-Logo: http://172.16.29.34:80/images/9f27721c5adba678bb39a3f4e0f3821c.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: MTV INDIA
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5h21Af785p13DD2ctFht6Q/m3u8
-Logo: http://fanc.tmsimg.com/assets/s10986_ll_h3_aa.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: COLOR RISHTEY
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DrRyURedGN_3s3UcXtH4E/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY TEN 3 HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9WNqMl3r-zVZ-NgK6By-nU/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: KHUSHBOO
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA84x18JTac-ud61DIKvpe0o/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Peace TV Bangla  HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_qgr7GyG8jkd9M5mp3pNvE/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SANGSAD TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwzRO7yk4kr2TdGWOXVTbwY/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BANGLA TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxOdahR7xRtgKc5plP6XhCU/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: MOHONA TV HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA10DnI3gLPNZ-SymRSi1opo/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: ANANDA TV
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4YELGxF2nTDmF3fpVu_0yo/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: TRAVEL XP HD
-URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1E1Nh9PgtZxs0-mWHRHjpU/m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-
 Group: BANGLA
 Name: BTV
 URL: http://38.96.178.201/live/BTV/index.m3u8
@@ -933,6 +246,11 @@ Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/head
 --------------------------------------------------
 
 Group: Bangla
+Name: ekushey Tv
+URL: https://ekusheyserver.com/etvlivesn.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png
+Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv
+--------------------------------------------------
 Name: Maasranga Tv
 URL: https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNgtSPd1tDEKCWFzOkkavM2zjEgJttKsu0J4y_DBzfa1fYvYPTFyWilmwS&s=10
@@ -956,6 +274,11 @@ Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/hea
 Name: Colors Bangla Hd
 URL: https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvIY41zgkKh90LaTkOGfa0DiFrfn6xc_jOQ&s
+Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv
+--------------------------------------------------
+Name: fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png",SONY AATH
+URL: https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+Logo: https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png
 Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv
 --------------------------------------------------
 Name: Deepto
@@ -1694,51 +1017,6 @@ Source: https://raw.githubusercontent.com/mr-masudrana/LiveTV/refs/heads/main/Ba
 --------------------------------------------------
 
 Group: Entertainment
-Name: SET HD
-URL: https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-Logo: https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony SAB HD
-URL: https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
-Logo: https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony Marathii
-URL: https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
-Logo: https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony Pal
-URL: https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-Logo: https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony Aath
-URL: https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-Logo: https://i.postimg.cc/bY12WVTm/SONY-AATH.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: & TV (And TV)
-URL: https://otttv.co.in/d2h/livestream/-tv/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/and-tv-hd.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Investigation Discovery
-URL: https://otttv.co.in/d2h/livestream/investigation-discovery/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/investigation-discovery.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Zee Bangla
-URL: https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Zee TV
-URL: https://otttv.co.in/d2h/livestream/zee-tv/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
 Name: Asian TV (720p)
 URL: https://mtlivestream.site/asian/ytlive/index.m3u8
 Logo: https://i.imgur.com/k2adSjA.png
@@ -1788,6 +1066,11 @@ Group: HINDI ENTERTAINMENT
 Name: imgsize-69938,width-400,resizemode-4/42258865.jpg" ,Anjan
 URL: https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
 Logo: https://static.toiimg.com/thumb/msid-42258865,imgsize-69938,width-400,resizemode-4/42258865.jpg
+Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
+--------------------------------------------------
+Name: SONY KAL
+URL: https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
 Name: DANGAL
@@ -2126,6 +1409,31 @@ Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/head
 --------------------------------------------------
 
 Group: India
+Name: Sony Tv
+URL: https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3-64Mdiyfvjmeleb9TBwTItkVUZB2uJ2Xg&s
+Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv
+--------------------------------------------------
+Name: Sony Sab HD
+URL: https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+Logo: https://i.imgur.com/qanBTkv.png
+Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv
+--------------------------------------------------
+Name: SONY MAX HD
+URL: https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+Logo: https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png
+Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv
+--------------------------------------------------
+Name: Sony Max 2
+URL: https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png
+Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv
+--------------------------------------------------
+Name: Sony PAL
+URL: https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+Logo: https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png
+Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv
+--------------------------------------------------
 Name: Zing
 URL: http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/1347.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcpNmDFi78ufxaR3SWta4aqLjlFItHfEECA&s
@@ -2321,18 +1629,6 @@ Logo: https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
 
-Group: Infotainment
-Name: Sony BBC Earth HD
-URL: https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
-Logo: https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Discovery Turbo
-URL: https://otttv.co.in/d2h/livestream/discovery-turbo/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/discovery-turbo.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-
 Group: Islamic
 Name: Saudi Quran
 URL: https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
@@ -2418,11 +1714,6 @@ URL: https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-
 Logo: https://i.imgur.com/chT8xP5.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
-Name: Sony Yay
-URL: https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-Logo: https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
 Name: Cartoon Network
 URL: https://aynaxpranto.vercel.app/api/stream/e73ffada-f80a-4c23-9bd8-76142e41c389.m3u8
 Logo: https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg
@@ -2444,13 +1735,6 @@ Name: Sangsad TV (1080p)
 URL: https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/9ee3b4f9-fd0a-47c5-a135-2575c5691613/9ee3b4f9-fd0a-47c5-a135-2575c5691613_3_playlist.m3u8
 Logo: https://i.imgur.com/jkouxLg.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
---------------------------------------------------
-
-Group: Lifestyle
-Name: TLC
-URL: https://otttv.co.in/d2h/livestream/tlc/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/tlc-hindi.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
 --------------------------------------------------
 
 Group: MOVIES
@@ -2630,102 +1914,10 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 
 Group: Movies
-Name: Sony MAX HD
-URL: https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-Logo: https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony MAX
-URL: https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-Logo: https://i.postimg.cc/X7MmrgCs/SONY-MAX.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony MAX 2
-URL: https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
-Logo: https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony WAH
-URL: https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
-Logo: https://sonypicturesnetworks.com/images/logos/Sony_WAH.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony PIX HD
-URL: https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-Logo: https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: & Pictures (And Pictures)
-URL: https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/and-pictures-hd.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Zee Action
-URL: https://otttv.co.in/d2h/livestream/zee-action/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/zee-action.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Zee Bangla Cinema
-URL: https://otttv.co.in/d2h/livestream/zee-bangla-cinema/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Zee Cinema
-URL: https://otttv.co.in/d2h/livestream/zee-cinema/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
 Name: &TV (1080p)
 URL: https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/32W50Y6.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
---------------------------------------------------
-
-Group: Music
-Name: 9X Jalwa
-URL: https://otttv.co.in/d2h/livestream/9x-jalwa/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/9x-jalwa.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: 9X Jhakaas
-URL: https://otttv.co.in/d2h/livestream/9x-jhakaas/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: 9X Tashan
-URL: https://otttv.co.in/d2h/livestream/9x-tashan/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/9x-tashan.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: 9XM
-URL: https://otttv.co.in/d2h/livestream/9xm/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/9xm.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: MTV Beats
-URL: https://otttv.co.in/d2h/livestream/mtv-beats/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/mtv-beats-hd.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Music India
-URL: https://otttv.co.in/d2h/livestream/music-india/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/music-india.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sangeet Bangla
-URL: https://otttv.co.in/d2h/livestream/sangeet-bangla/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Zing
-URL: https://otttv.co.in/d2h/livestream/zing/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/zing.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Zoom
-URL: https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
-Logo: https://otapp.store/uploads/tv_image/sm/zoom.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
 --------------------------------------------------
 
 Group: NEWS
@@ -3367,39 +2559,7 @@ Logo: https://i.postimg.cc/cHbJvhtS/IMG-20240926-111255-193.jpg
 Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv
 --------------------------------------------------
 
-Group: SonyLIV by CRICFy
-Name: Sony KAL
-URL: https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-Logo: https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-
 Group: Sports
-Name: Sony Sports Ten 1 HD
-URL: https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-Logo: https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony Sports Ten 2 HD
-URL: https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-Logo: https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony Sports Ten 3 HD
-URL: https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-Logo: https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony Sports Ten 4 HD
-URL: https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-Logo: https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Sony Sports Ten 5 HD
-URL: https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-Logo: https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
 Name: T Sports
 URL: http://kst.moonplex.net:8080/CH2/index.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s
@@ -3862,121 +3022,6 @@ URL: http://103.175.242.10:8080/zeecinema/index.m3u8
 Logo: http://103.175.242.10/assets/images/Zee%20Cinema1731407656.png
 Source: https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8
 --------------------------------------------------
-Name: Independent  TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/images_5.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Makkah Live
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/makkah_2-01_szhAYSd.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Ekattor TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/ekattor_WUdMZon.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Ekhon TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/m-t3v3rj1693812964839_oVRbPzq.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Jamuna TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/1662487622-mdshamimislam.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Atn News
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/ATN_news.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Songsad TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/songsodtv.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: BTV National
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/btv-national-bd.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Btv Chittagong
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/3WUFkD8.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Channel 24
-URL: https://ch24play.ncare.io/live/channel24.926f3953.m3u8?t=b738cb0516564076a627a7beffadc188
-Logo: https://appv10static.jaagobd.com/media/channel_logos/m-d4dwye1603623881083.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: ATN Bangla
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/download_QwN9T5Q.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Banglavision
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/images_1.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: MY TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/images_CuUCHSk.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Channel 9
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/Channel_9.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Boishakhi TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/s-kig7pd1652458810396.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Ananda TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/anondo-tv-logo-B99389891D-seeklogo.com.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: SA TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/SA_TV.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Bijoy TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/Bijoy_TV.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Channel I
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/channel-i-logo-F9F1100F83-seeklogo.com.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Global TV Bangladesh
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/globaltv.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Ekusheys TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/ekusheys.png
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: GTV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/gtv.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
-Name: Nexus TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-Logo: https://appv10static.jaagobd.com/media/channel_logos/nexus-tv_iLOxmte.jpg
-Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
---------------------------------------------------
 Name: TSPORTS
 URL: http://116.204.149.16/t_sports/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4032,88 +3077,693 @@ URL: https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunk
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: BTV
-URL: http://103.230.105.252:1935/live/btv/manifest.m3u8
+Name: BTV WORLD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA--NpWI16nUzntdc3QeimzQ/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: SOMOY TV
-URL: http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+Name: T SPORTS HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Ekattor TV
-URL: http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+Name: ASIAN TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3oPDxxNOHaf1vCi1T6JNGA/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Channel 24
-URL: http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+Name: ATN BANGLA
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4XcHuahYnOSqNLrioPHoVI/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: ATN NEWS
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbr7tznLQfRHlkqWyjbZrc/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BANGLA VISION
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxZs0o8I4EG1wfbna0vngpo/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BOISHAKHI TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_FyNforKHGnrkd_iikb_Hk/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: CHANNEL I HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9wNRL3H3YXOqIWwmA39Dug/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: CHANNEL24 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7xUx0YT-eZSOJM5vzFXQc0/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: DBC NEWS HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_c-juLWCidG_f87qmcpH-o/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: DEEPTO TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_7KUEPhrDuFXaAlxtVkpKE/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: DESH TV
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzCO6nUZdf53Bsy0Mzt6WU4/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: EKHON TV
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2BVl1RSX4ezkUjtgNCVHQ4/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: EKATTOR TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6mXC-KJP5guDTqwni-oYlQ/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BBC CBEEBIES HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA47gNSB7wvuox-RI3RUmV6Y/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: GAZI TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2fDdQrxKt12EKK2jKiKrEE/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
 Name: INDEPENDENT TV
-URL: http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwWYOuywRMd4zmlHoudETEg/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
 Name: JAMUNA TV
-URL: http://xtv.ooo:8080/danyear12/am809100/245917
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8v8rN6kAVbK87DTHzy3yzo/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: NEWS 24 HD
-URL: http://xtv.ooo:8080/danyear12/am809100/245903
+Name: MAASRANGA TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-0TKJRZGDHE1U_J1zGJ9fw/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: ATN NEWS [BD]
-URL: http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
+Name: MYTV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAw8nxtoUTKO6BvtfANcNQnY/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: ATN Bangla
-URL: http://xtv.ooo:8080/danyear12/am809100/245909
+Name: NAGORIK TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5xMq6_OPzwmpYbcr5_JZTc/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: NEWS24 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9Yv552eH0A8e52Dqelg-fw/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
 Name: NTV
-URL: http://103.163.247.39/local_out/ntv/video.m3u8?token=At5F1MFZYnciB3
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwxSfKoy0_7iktrmK-OpMn0/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: RTV
-URL: http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
+Name: RTV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5kBeAE3PtthB0R-LRMYhNQ/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Banglavision
-URL: http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
+Name: SATV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8IBELmjBnqWoQV3Qjbzfps/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: SATV
-URL: http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
+Name: SUN BANGLA
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yEOeIw8weNHIb2ooiEr4c/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Channel I
-URL: http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+Name: ZEE BANGLA HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2J2ObuVcLYW5xvKgig9xEk/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Desh TV
-URL: http://103.163.247.39/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3
+Name: &PRIVE HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3taxXXNZYOufkQNGg267hM/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Bangla TV
-URL: http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
+Name: 24 GHANTA
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyHpn-R4uLMN0SXhWgPmAiU/m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Bijoy tv
-URL: http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
+Name: A SPORTS HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1T9yO-JBU_w4AaSxGEvWi4/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: AL JAZEERA NEWS
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2d0FRpBn2Rga77YIALxyhs/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: ARY NEWS ASIA
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyjz2G05Pkodb5NboTOyQTs/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: AXN HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA61BVEvUTViU72bEXsttoWA/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BBC EARTH HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5uPpEItplo02Km--IqdQ8c/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: CARTOON NETWORK
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx0gjyPMSijXAXA7ZhRyX-k/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: COLORS HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4ZkkwUOd394X4Eo0NuwHGc/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: DISCOVERY HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ae4cffhV9yAjOyISj2XTE/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: EKUSHEY TV
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3BS2efe8497gpL6efDrMQA/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: EUROSPORT HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0ndJdWOZEQD7BHch3bEVNI/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BBC LIFESTYLE HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzz68JJlPZWJZt0wKMGU5Sw/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: HISTORY TV18 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA63w0HrH40Zz_eOy4I63lcs/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: MN+ HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxA7H3hlj-_Q1X8K3LqwB7w/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: NAT GEO HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Wb1ckUItbyhIPhcQE63Qo/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: NAT GEO WILD HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz5RczB08W7KYwaAYnlLfss/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: NICK SD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA94MzVPKdI7F2qBKeLKpbD0/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SOMOY TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0DYjVid5WbW8UtDN3-AE6w/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SONY BBC EARTH HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1bQlrlGtXGqLaMfpykD0FQ/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SONY MAX HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7keUoM9IsfncKh-TVkb5zk/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SONY PIX HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAySO0zc2_tb3tJVZLeLIdxw/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SONY TEN 1 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA03s0umUedSUliCAAO3RNs8/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SONY TEN 2 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5-zeaOabG-vjosNtqWeNWY/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SONY TEN 5 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8M5s-R1JCgC7RJoFr2X5Rw/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SPORTS 18 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA98PzWIzraWb90pov-Jlhqo/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR BHARAT HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwYelnJj-4e_U5eWEk3gCso/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR GOLD HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR MOVIES SEL HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-ubsOEwtB1tgTJisY1MYWU/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR PLUS HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwqgyVIvQj6A55n5tJfJ-YA/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR SPORTS 1 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9SmD9DBUBBFryQ6ZMeIzxM/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR SPORTS 2 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx6-mphBg8gl7Hrc1b_hlqQ/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR SPORTS 3
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzWZsqMCHvXNIndhQFhrNeQ/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR SPORTS SL 1 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA324orKoVmE1EM18g8AcgYI/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR SPORTS SL 2 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0GyQmEKMAZIKFiWcUqBfEM/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: TLC HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yczWrend7pfGCiZrGw9LI/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: ZEE CINEMA HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz1WRBGWiIKzdeGYg5OfcuY/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: ZEE TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8_18-npr6LX9umQFmKTVRI/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: TNT SPORTS 1 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3OdK5xHLTpDcHZnEMnM-FA/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: DW ENGLISH HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzjTq75zoOSPsOGM5Mg9--s/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: TEN SPORTS HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BBC WORLD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0HmZbyPChrarr0v1zTcBOA/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: CNN INTERNATIONAL
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxlFmkhEoShP524f4j6nSI0/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: & PRIVE HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzqvOymolrkJ2lcwcHE4jUk/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: COLORS INFINITY HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxSahhHpr8sUNnOnXw-W9YQ/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: NICK TV HD+
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5pnufO29vA1VCEDIqfgUWE/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SONY TEN2 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz8CvWgCp9hufE5nEp7b59M/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR SPORTS SL1 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4VAyhUIDSAU7x51LY-x7PA/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR SPORTS SL2 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwy9HUkF_tLFW6RllIfexOQ/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR GOLD SEL HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3mbxe8nlL2rdpEH2607g44/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: COLORS BANGLA HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1m-C_2EIhsZda2eN2z-yro/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: JALSHA MOVIES HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5czJZdJL5NIAEXBZ-4lMb0/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR JALSHA HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR MOVIES HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ekp3Fy7D94wMxtS9g2lBY/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: TCL HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA993B1sDkuala-9B69I6Txc/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: ZEE CAFE HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-zsBzXTqzyDaNsy4YUfQBs/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: & FLIX HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-KYkzcq1Lx-hVnGrYWojag/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: EURO SPORTS HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA66mVj3wqB2MDpjz0dPPo_0/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SONY HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5cc-JzyUsEkIbufeH14TB4/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: FOX LIFE HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0kE0hctTCx2ma0XE99OPy4/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SUB TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA48SQVRIhLk9q5F2GVkdyi8/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: &TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1cLlNDXH7J1Jn8v3Onl-r4/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: HANGAMA SD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7XznN44TSPx21_EdXW9-bo/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: POGO
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6jLJs-x9JkMCsHpFukynww/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: ZEE BANGLA CINEMA HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwle_5XXDJlfauzFE6F8VsQ/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: ZEE NEWS
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwp9F7M7dy-hUjichD4O5TA/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: R.TV BANGLA NEWS
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4rfRWhw54IpB93bbx7_19Y/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: & PICTURE HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_vrXS8PTCO9UR3nth01qUY/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR SPORTS HD1 CB
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1Gjd37lfHfc1DNAOAa4jsg/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: CGTN NEWS
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Rdu2rV1LqQ1_nlHo2NjTA/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: ABP NEWS
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzp7OSZQJzZcZLRrRYRy28k/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: WILLOW CRICKET
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1g-_KkzBq-pqdOeKpZdC-0/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: TNT SPORTS 2 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2YfXNYgfMH_pqpdNuFoqi8/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: GEO SUPER
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2NnBfpteKtx5uGLNAgM5Zs/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: 9XM
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5npyVJzmcSk1f8iLT69XKc/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: MASTIII
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9KfTa7j96aMi6krK_pcma8/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: DURONTO TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0Wn0CC-9ZOBT1v4cuqhmDU/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: PTV SPORTS HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2osZeAdagOcS1vRJAYWF_Y/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SANGEET BANGLA
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9AHn1Xwd7BtGPZVaIfJVf8/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BTV NATIONAL HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_aUpnu3HM2-2nxHKbDe3FA/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: GEO SUPER SPORTS
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxp1mLgFdzrXj-H1SqgcIpY/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SONY ATTH
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8w8iYeaX0ac2OW28RzGY90/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: TEN CRICKET HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxYmOdwYKD9TaHZUX2ACjo8/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: T SPORTS FHD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DzImxWwZd-nNy7aKwgGzI/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BEIN  SPORTS 2 ENG
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3rAU3tEQJkgiMFSDMBcrcw/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BEIN  SPORTS 1 ENG
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA88ymJzFiqlYQGcDDiw6_3Q/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BEIN SPORTS 3 ENG
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwk0wF2fXmtZee4HPoCd7Jo/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: WILLOW XTRA HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxzY-hOBEGbGvVX98TVDy-U/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SUPER PREMIER LEAGUE HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9rsD7HSqulfmiwa28oPDYw/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SUPER SPORTS CRICKET HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1k_gAKFpRKgkOIIHQ-efNw/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SUPER LALIGA HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1H6lHsiJVQxI52n77SIz4c/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: VH 1 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0FuZJqodlomE1xYx7JHZas/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: STAR GOLD 2 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0CzYiQQbxSPlxSGwgbRFHs/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: DISNEY INT. HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-7y030f1I7vS_9a9i43piM/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: DISNEY JUNIOR HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5Ky2-obyTTRwGTb9ps13M4/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: COLORS CINEPLEX HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-_zbeds-s_T_pBXJlcrz80/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BEIN SPORTS HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0yhGAdbZKR3Xm9j5oGIsYs/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: ENTER 10 BANGLA
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1llPbXde722j403Rat9Xfk/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BET HD*
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbjwbYUSPCCz3TyOpCZz88/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: TNT SPORTS 4 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4AEYLf37lj8r3F9ARc5WBI/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: MTV INDIA
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5h21Af785p13DD2ctFht6Q/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: COLOR RISHTEY
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DrRyURedGN_3s3UcXtH4E/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SONY TEN 3 HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9WNqMl3r-zVZ-NgK6By-nU/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: KHUSHBOO
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA84x18JTac-ud61DIKvpe0o/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: Peace TV Bangla  HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_qgr7GyG8jkd9M5mp3pNvE/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: SANGSAD TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwzRO7yk4kr2TdGWOXVTbwY/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BANGLA TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxOdahR7xRtgKc5plP6XhCU/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: MOHONA TV HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA10DnI3gLPNZ-SymRSi1opo/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: ANANDA TV
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4YELGxF2nTDmF3fpVu_0yo/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: TRAVEL XP HD
+URL: http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1E1Nh9PgtZxs0-mWHRHjpU/m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: BTV
+URL: http://103.230.105.252:1935/live/btv/manifest.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
@@ -4127,113 +3777,13 @@ URL: http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Jalsha Movies HD
-URL: http://xtv.ooo:8080/danyear12/am809100/245900
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Zee Bangla Cinema
-URL: http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
 Name: Colors Bangla
 URL: https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: Sun Bangla
-URL: http://xtv.ooo:8080/danyear12/am809100/245906
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Sangeet Bangla
-URL: http://xtv.ooo:8080/danyear12/am809100/245933
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Star Gold HD
-URL: http://xtv.ooo:8080/danyear12/am809100/66177
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Star Gold-2 HD
-URL: http://xtv.ooo:8080/danyear12/am809100/109959
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Zee Cinema
-URL: http://xtv.ooo:8080/danyear12/am809100/109958
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY SAB
-URL: http://xtv.ooo:8080/danyear12/am809100/66174
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: SONY MAX-2
-URL: http://xtv.ooo:8080/danyear12/am809100/66189
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Live Sports-1
-URL: http://xtv.ooo:8080/live/danyear12/am809100/109987.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Live Sports-2
-URL: http://xtv.ooo:8080/danyear12/am809100/346373
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Live Sports-4
-URL: http://xtv.ooo:8080/danyear12/am809100/233178
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
 Name: T-Sports [1]
 URL: http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: T-Sports [2]
-URL: http://xtv.ooo:8080/danyear12/am809100/167590
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Star Sports 1
-URL: http://xtv.ooo:8080/danyear12/am809100/220062
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Star Sports-1 Hindi
-URL: http://41.205.93.154/STARSPORTS1/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: PTV Sports
-URL: http://xtv.ooo:8080/danyear12/am809100/220059
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Ten Sports
-URL: http://xtv.ooo:8080/danyear12/am809100/220060
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BeIN Sports 1
-URL: http://xtv.ooo:8080/live/danyear12/am809100/381330.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BeIN Sports 3
-URL: http://xtv.ooo:8080/live/danyear12/am809100/381332.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BeIN Sports 4
-URL: http://xtv.ooo:8080/live/danyear12/am809100/381335.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
@@ -4302,11 +3852,6 @@ URL: http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8?
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: SONY SPORTS5
-URL: http://172.19.178.29:18190/CLOUD-TV-01/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
 Name: ATN NEWS
 URL: http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4334,21 +3879,6 @@ Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%2
 --------------------------------------------------
 Name: BANGLAVISION
 URL: http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: asiantv
-URL: https://mtlivestream.com/asian/ytlive/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: tsports
-URL: http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Ekushey TV
-URL: https://ekusheyserver.com/etvlivesn.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
@@ -4432,11 +3962,6 @@ URL: https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg0
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: PTV
-URL: https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?|drmScheme=clearkey&drmLicense=https://denver1769.in/TP/key.php
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
 Name: PEACE TV BANGLA
 URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4489,11 +4014,6 @@ Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%2
 --------------------------------------------------
 Name: Saga Music
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Zee Aflam
-URL: https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
