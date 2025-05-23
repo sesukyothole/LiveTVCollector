@@ -702,10 +702,10 @@
     "img": "https://banner2.cleanpng.com/20180808/fbg/kisspng-logo-drama-uktv-brand-blighty-drama-uktv-logo-d-tv-logo-logowow-5b6b16ba09c953.2614474415337448260401.jpg"
   },
   {
-    "name": "AXN East Asia",
+    "name": "AXN",
     "type": "Movies",
-    "url": "https://fta2-cdn-flr.visionplus.id/out/v1/6c4cc0ea7bd2454eb9a42ee7b6da9c28/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-    "img": "https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg"
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd",
+    "img": "https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png"
   },
   {
     "name": "Celestial Movies",
@@ -746,13 +746,13 @@
   {
     "name": "Galaxy",
     "type": "Movies",
-    "url": "https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+    "url": "http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_13.png"
   },
   {
     "name": "Galaxy Premium",
     "type": "Movies",
-    "url": "https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+    "url": "http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_12.png"
   },
   {
@@ -770,7 +770,7 @@
   {
     "name": "Indonesia Movie Channels",
     "type": "Movies",
-    "url": "http://202.147.193.244/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd",
+    "url": "https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_14.png"
   },
   {
@@ -782,31 +782,31 @@
   {
     "name": "Originals",
     "type": "Movies",
-    "url": "https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+    "url": "https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd",
     "img": "https://github.com/eepunx/logo/raw/refs/heads/main/originals.png"
   },
   {
     "name": "group-title=\"Movies\",Cineedge",
     "type": "Movies",
-    "url": "https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+    "url": "https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd",
     "img": "https://github.com/eepunx/logo/raw/refs/heads/main/cineedge.png"
   },
   {
     "name": "Superrix",
     "type": "Movies",
-    "url": "https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+    "url": "https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd",
     "img": "https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png"
   },
   {
     "name": "Uniques",
     "type": "Movies",
-    "url": "https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+    "url": "https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd",
     "img": "https://github.com/eepunx/logo/raw/refs/heads/main/Uniques.png"
   },
   {
     "name": "Buddy Star",
     "type": "Movies",
-    "url": "https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+    "url": "https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd",
     "img": "https://github.com/eepunx/logo/raw/refs/heads/main/buddystar.png"
   },
   {
@@ -9476,7 +9476,7 @@
   {
     "name": "INDOSIAR Liga 1",
     "type": "TV Nasional Indonesia",
-    "url": "https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts",
+    "url": "http://xtv.ooo:8080/live/387546/200900/350972.ts",
     "img": "https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Indosiar.png"
   },
   {
@@ -11404,12 +11404,6 @@
     "type": "FILM",
     "url": "https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd",
     "img": "https://i.imgur.com/Nxcpfaj.jpeg"
-  },
-  {
-    "name": "AXN 1 ON SUB INDO",
-    "type": "FILM",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd",
-    "img": "https://i.imgur.com/Suy99cF.jpeg"
   },
   {
     "name": "AXN 2 ON SUB INDO",
