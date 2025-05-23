@@ -2,13 +2,13 @@
   {
     "name": "RTP 1",
     "type": "TV",
-    "url": "https://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd",
+    "url": "https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png"
   },
   {
     "name": "RTP 2",
     "type": "TV",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8",
+    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png"
   },
   {
@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6OToxOCBBTSZoYXNoX3ZhbHVlPUhkeUpXa3dCSlZxcmxYZXVOMjRtclE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mMjAzZGQxZi01ZDY0LTQ5ZmItOWNhZS1lY2ExMGVkMGMxYTY=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDQ6Nzo0MyBQTSZoYXNoX3ZhbHVlPUtrTk14NFd1U0tVQko0YW5iUFBWZFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNTA4NGFkNC04ZTFmLTQwZTYtYWYzOC04OGM4MjJiOGU2Nzc=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6OToxOSBBTSZoYXNoX3ZhbHVlPTRMdGlTYXo5WnJCOThpSGFqYXRyQlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jZTQ0M2Y5MS0zYTQwLTQ3OWEtYWQ3Mi0yZGUwOWU4MDA5NTU=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDQ6Nzo0NCBQTSZoYXNoX3ZhbHVlPVJpc0U3WGhUdnhtTHJEWDRGQ05IRUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ZGEyZmNmYS0wZjUzLTRjZjQtOGEyNS05YjAxMjkxZWYxOWY=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6OToxOSBBTSZoYXNoX3ZhbHVlPUlBZXVteklFTnM5ajlaaTl1d0R1RXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hNWU0YWZkMi03NWUxLTRhOWYtOTgzNS1iZDFiNGFlZWZiNzk=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDQ6Nzo0NCBQTSZoYXNoX3ZhbHVlPU1wUmhYYzVoZXdtTytMOFMrRzBMMVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hNGQxZDljZS02YmFiLTRkZmEtOTJmMy0xOGVkYTY1YjcwNWI=/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -255,6 +255,30 @@
     "name": "Euronews EN",
     "type": "TV",
     "url": "https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png"
+  },
+  {
+    "name": "Euronews ES",
+    "type": "TV",
+    "url": "https://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png"
+  },
+  {
+    "name": "Euronews IT",
+    "type": "TV",
+    "url": "https://rakuten-euronews-11-it.lg.wurl.tv/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png"
+  },
+  {
+    "name": "Euronews FR",
+    "type": "TV",
+    "url": "https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png"
+  },
+  {
+    "name": "Euronews DE",
+    "type": "TV",
+    "url": "https://rakuten-euronews-13-de.lg.wurl.tv/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png"
   },
   {
@@ -616,12 +640,6 @@
     "type": "TV",
     "url": "https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png"
-  },
-  {
-    "name": "meWATCH oktolidays",
-    "type": "TV",
-    "url": "https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd",
-    "img": "https://i.imgur.com/Dt0kA7e.png"
   },
   {
     "name": "On FM Portugal",
@@ -5722,12 +5740,6 @@
     "type": "General",
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8",
     "img": "https://i.imgur.com/w7GV86i.png"
-  },
-  {
-    "name": "RTP 2 (720p) [Not 24/7]",
-    "type": "General",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/T6WUqdn.png"
   },
   {
     "name": "RTP Açores (720p) [Not 24/7]",

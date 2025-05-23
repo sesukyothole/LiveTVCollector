@@ -1555,11 +1555,6 @@ URL: https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 Logo: https://i.imgur.com/w7GV86i.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
-Name: RTP 2 (720p) [Not 24/7]
-URL: https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-Logo: https://i.imgur.com/T6WUqdn.png
-Source: https://iptv-org.github.io/iptv/countries/pt.m3u
---------------------------------------------------
 Name: RTP Açores (720p) [Not 24/7]
 URL: https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016%29.svg.png
@@ -4065,12 +4060,12 @@ Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 
 Group: TV
 Name: RTP 1
-URL: https://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
+URL: https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: RTP 2
-URL: https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+URL: https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4080,7 +4075,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6OToxOCBBTSZoYXNoX3ZhbHVlPUhkeUpXa3dCSlZxcmxYZXVOMjRtclE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mMjAzZGQxZi01ZDY0LTQ5ZmItOWNhZS1lY2ExMGVkMGMxYTY=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDQ6Nzo0MyBQTSZoYXNoX3ZhbHVlPUtrTk14NFd1U0tVQko0YW5iUFBWZFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNTA4NGFkNC04ZTFmLTQwZTYtYWYzOC04OGM4MjJiOGU2Nzc=/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4095,7 +4090,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6OToxOSBBTSZoYXNoX3ZhbHVlPTRMdGlTYXo5WnJCOThpSGFqYXRyQlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jZTQ0M2Y5MS0zYTQwLTQ3OWEtYWQ3Mi0yZGUwOWU4MDA5NTU=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDQ6Nzo0NCBQTSZoYXNoX3ZhbHVlPVJpc0U3WGhUdnhtTHJEWDRGQ05IRUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ZGEyZmNmYS0wZjUzLTRjZjQtOGEyNS05YjAxMjkxZWYxOWY=/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4140,7 +4135,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6OToxOSBBTSZoYXNoX3ZhbHVlPUlBZXVteklFTnM5ajlaaTl1d0R1RXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hNWU0YWZkMi03NWUxLTRhOWYtOTgzNS1iZDFiNGFlZWZiNzk=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDQ6Nzo0NCBQTSZoYXNoX3ZhbHVlPU1wUmhYYzVoZXdtTytMOFMrRzBMMVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hNGQxZDljZS02YmFiLTRkZmEtOTJmMy0xOGVkYTY1YjcwNWI=/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4276,6 +4271,26 @@ Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: Euronews EN
 URL: https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
+Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png
+Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
+--------------------------------------------------
+Name: Euronews ES
+URL: https://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8
+Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png
+Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
+--------------------------------------------------
+Name: Euronews IT
+URL: https://rakuten-euronews-11-it.lg.wurl.tv/playlist.m3u8
+Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png
+Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
+--------------------------------------------------
+Name: Euronews FR
+URL: https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
+Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png
+Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
+--------------------------------------------------
+Name: Euronews DE
+URL: https://rakuten-euronews-13-de.lg.wurl.tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4577,11 +4592,6 @@ Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 Name: Animax
 URL: https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png
-Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
---------------------------------------------------
-Name: meWATCH oktolidays
-URL: https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
-Logo: https://i.imgur.com/Dt0kA7e.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: On FM Portugal

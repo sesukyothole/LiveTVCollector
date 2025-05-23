@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 13:51:56",
+  "date": "2025-05-23 21:58:22",
   "channels": {
     "TV": [
       {
@@ -7,14 +7,14 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd"
+        "url": "https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd"
       },
       {
         "name": "RTP 2",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8"
+        "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
       },
       {
         "name": "SIC",
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6OToxOCBBTSZoYXNoX3ZhbHVlPUhkeUpXa3dCSlZxcmxYZXVOMjRtclE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mMjAzZGQxZi01ZDY0LTQ5ZmItOWNhZS1lY2ExMGVkMGMxYTY=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDQ6Nzo0MyBQTSZoYXNoX3ZhbHVlPUtrTk14NFd1U0tVQko0YW5iUFBWZFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNTA4NGFkNC04ZTFmLTQwZTYtYWYzOC04OGM4MjJiOGU2Nzc=/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6OToxOSBBTSZoYXNoX3ZhbHVlPTRMdGlTYXo5WnJCOThpSGFqYXRyQlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jZTQ0M2Y5MS0zYTQwLTQ3OWEtYWQ3Mi0yZGUwOWU4MDA5NTU=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDQ6Nzo0NCBQTSZoYXNoX3ZhbHVlPVJpc0U3WGhUdnhtTHJEWDRGQ05IRUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ZGEyZmNmYS0wZjUzLTRjZjQtOGEyNS05YjAxMjkxZWYxOWY=/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDg6OToxOSBBTSZoYXNoX3ZhbHVlPUlBZXVteklFTnM5ajlaaTl1d0R1RXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hNWU0YWZkMi03NWUxLTRhOWYtOTgzNS1iZDFiNGFlZWZiNzk=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDQ6Nzo0NCBQTSZoYXNoX3ZhbHVlPU1wUmhYYzVoZXdtTytMOFMrRzBMMVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hNGQxZDljZS02YmFiLTRkZmEtOTJmMy0xOGVkYTY1YjcwNWI=/"
       },
       {
         "name": "TVI África",
@@ -302,6 +302,34 @@
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Euronews ES",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",
+        "group": "TV",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Euronews IT",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",
+        "group": "TV",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://rakuten-euronews-11-it.lg.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Euronews FR",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",
+        "group": "TV",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Euronews DE",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",
+        "group": "TV",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://rakuten-euronews-13-de.lg.wurl.tv/playlist.m3u8"
       },
       {
         "name": "teleSUR",
@@ -722,13 +750,6 @@
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd"
-      },
-      {
-        "name": "meWATCH oktolidays",
-        "logo": "https://i.imgur.com/Dt0kA7e.png",
-        "group": "TV",
-        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd"
       },
       {
         "name": "On FM Portugal",
@@ -6725,13 +6746,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
-      },
-      {
-        "name": "RTP 2 (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/T6WUqdn.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
       },
       {
         "name": "RTP Açores (720p) [Not 24/7]",
