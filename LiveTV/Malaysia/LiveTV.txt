@@ -8848,7 +8848,7 @@ Logo: https://mifntechnology.github.io/siaranMy/logo/DidikTv.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: 8TV
-URL: https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+URL: https://unifi-live27.secureswiftcontent.com/UnifiHD/live08.mpd
 Logo: https://mifntechnology.github.io/siaranMy/logo/8tv.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
@@ -8893,7 +8893,7 @@ Logo: https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: Tv Alhijrah
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+URL: https://unifi-live01.secureswiftcontent.com/UnifiHD/live07.mpd
 Logo: https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
