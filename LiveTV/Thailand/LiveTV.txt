@@ -324,27 +324,27 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 
 Group: K+
 Name: K+CINE HD
-URL: https://xem.TruyenHinh.Click/BoSung/kcinehd/TruyenHinh.Click
+URL: https://freem3u.xyz/api/live/play.m3u8?tid=kcine
 Logo: https://i.imgur.com/As4bwUs.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: K+ACTION HD
-URL: https://xem.TruyenHinh.Click/BoSung/kaction/TruyenHinh.Click
+URL: https://freem3u.xyz/api/live/play.m3u8?tid=kaction
 Logo: https://i.imgur.com/QPkuBRi.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: K+SPORT1 HD
-URL: https://xem.TruyenHinh.Click/BoSung/ksport1hd/TruyenHinh.Click
+URL: https://freem3u.xyz/api/live/play.m3u8?tid=ksport1
 Logo: https://i.imgur.com/6yiAtRg.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: K+SPORT2 HD
-URL: https://xem.TruyenHinh.Click/BoSung/ksport2hd/TruyenHinh.Click
+URL: https://freem3u.xyz/api/live/play.m3u8?tid=ksport2
 Logo: https://i.imgur.com/EFeyqYX.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: K+KIDS HD
-URL: https://xem.TruyenHinh.Click/BoSung/kkidshd/TruyenHinh.Click
+URL: https://freem3u.xyz/api/live/play.m3u8?tid=kkids
 Logo: https://i.imgur.com/erWqYxh.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------

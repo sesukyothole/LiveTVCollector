@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 13:59:35",
+  "date": "2025-05-23 22:01:50",
   "channels": {
     "VTV": [
       {
@@ -235,35 +235,35 @@
         "logo": "https://i.imgur.com/As4bwUs.png",
         "group": "K+",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://xem.TruyenHinh.Click/BoSung/kcinehd/TruyenHinh.Click"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=kcine"
       },
       {
         "name": "K+ACTION HD",
         "logo": "https://i.imgur.com/QPkuBRi.png",
         "group": "K+",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://xem.TruyenHinh.Click/BoSung/kaction/TruyenHinh.Click"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=kaction"
       },
       {
         "name": "K+SPORT1 HD",
         "logo": "https://i.imgur.com/6yiAtRg.png",
         "group": "K+",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://xem.TruyenHinh.Click/BoSung/ksport1hd/TruyenHinh.Click"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=ksport1"
       },
       {
         "name": "K+SPORT2 HD",
         "logo": "https://i.imgur.com/EFeyqYX.png",
         "group": "K+",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://xem.TruyenHinh.Click/BoSung/ksport2hd/TruyenHinh.Click"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=ksport2"
       },
       {
         "name": "K+KIDS HD",
         "logo": "https://i.imgur.com/erWqYxh.png",
         "group": "K+",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://xem.TruyenHinh.Click/BoSung/kkidshd/TruyenHinh.Click"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=kkids"
       }
     ],
     "HTV": [
