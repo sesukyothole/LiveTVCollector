@@ -2960,13 +2960,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=PededwZTr4LOPtLKrPrlBQ&e=1748049175",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=qktI92sATbffcdNwzyyZ5A&e=1748081984",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=PededwZTr4LOPtLKrPrlBQ&e=1748049175",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=qktI92sATbffcdNwzyyZ5A&e=1748081984",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -5312,7 +5312,7 @@
   {
     "name": "SKYHABER TV",
     "type": "Uncategorized",
-    "url": "https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/playlist.m3u8",
+    "url": "https://cdn4.yayin.com.tr/skyhabertv/index.m3u8",
     "img": "https://i.ibb.co/mHt7rQf/Tryerel.png"
   },
   {
@@ -11112,6 +11112,24 @@
     "img": "https://i.ibb.co/Hy2GLK8/mbcloud.png"
   },
   {
+    "name": "CBC LIVE EGY",
+    "type": "Uncategorized",
+    "url": "https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8",
+    "img": "https://i.ibb.co/dQV1zQG/cbclive.jpg"
+  },
+  {
+    "name": "CBC SOFRA",
+    "type": "Uncategorized",
+    "url": "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8",
+    "img": "https://i.ibb.co/0jpsxm7/cbcsofra.png"
+  },
+  {
+    "name": "DMC EGY",
+    "type": "Uncategorized",
+    "url": "https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8",
+    "img": "https://i.ibb.co/Kcwxz7NQ/dmceg.png"
+  },
+  {
     "name": "ROTANA CINEMA KSA",
     "type": "Uncategorized",
     "url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8",
@@ -11685,6 +11703,12 @@
     "name": "RTL 102.5",
     "type": "Uncategorized",
     "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8",
+    "img": "https://i.imgur.com/KdissvS.png"
+  },
+  {
+    "name": "RTL 102.5 SEC",
+    "type": "Uncategorized",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8",
     "img": "https://i.imgur.com/KdissvS.png"
   },
   {

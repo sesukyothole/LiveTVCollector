@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-24 06:25:19",
+  "date": "2025-05-24 13:43:43",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3460,14 +3460,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=PededwZTr4LOPtLKrPrlBQ&e=1748049175"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=qktI92sATbffcdNwzyyZ5A&e=1748081984"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=PededwZTr4LOPtLKrPrlBQ&e=1748049175"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=qktI92sATbffcdNwzyyZ5A&e=1748081984"
       },
       {
         "name": "TV8",
@@ -6204,7 +6204,7 @@
         "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/playlist.m3u8"
+        "url": "https://cdn4.yayin.com.tr/skyhabertv/index.m3u8"
       },
       {
         "name": "SLOW KARADENİZ TV",
@@ -12969,6 +12969,27 @@
         "url": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8"
       },
       {
+        "name": "CBC LIVE EGY",
+        "logo": "https://i.ibb.co/dQV1zQG/cbclive.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8"
+      },
+      {
+        "name": "CBC SOFRA",
+        "logo": "https://i.ibb.co/0jpsxm7/cbcsofra.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8"
+      },
+      {
+        "name": "DMC EGY",
+        "logo": "https://i.ibb.co/Kcwxz7NQ/dmceg.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8"
+      },
+      {
         "name": "ROTANA CINEMA KSA",
         "logo": "https://i.ibb.co/7W5nWYV/rotanacinema.png",
         "group": "Uncategorized",
@@ -13639,6 +13660,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+      },
+      {
+        "name": "RTL 102.5 SEC",
+        "logo": "https://i.imgur.com/KdissvS.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8"
       },
       {
         "name": "SUPER!",
