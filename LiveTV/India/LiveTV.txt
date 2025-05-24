@@ -765,11 +765,6 @@ URL: https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 Logo: https://i.ibb.co/p4BwH0x/images-5.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Filmstream
-URL: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/DTRPV6B.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Kairali We (396p)
 URL: https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 Logo: https://i.imgur.com/zXpROBj.png

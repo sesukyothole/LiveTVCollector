@@ -216,12 +216,6 @@
     "img": "https://i.ibb.co/p4BwH0x/images-5.png"
   },
   {
-    "name": "Filmstream",
-    "type": "Movies",
-    "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/DTRPV6B.png"
-  },
-  {
     "name": "Kairali We (396p)",
     "type": "Movies",
     "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8",

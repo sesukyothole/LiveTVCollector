@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 21:44:35",
+  "date": "2025-05-24 06:27:49",
   "channels": {
     "Music": [
       {
@@ -255,13 +255,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8"
-      },
-      {
-        "name": "Filmstream",
-        "logo": "https://i.imgur.com/DTRPV6B.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"
       },
       {
         "name": "Kairali We (396p)",

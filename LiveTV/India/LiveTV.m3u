@@ -71,8 +71,6 @@ http://183.89.246.119:8881/play/a08l/index.m3u8
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4BwH0x/images-5.png" group-title="Movies",Filmeraa (720p)
 https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
-https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Movies",Kairali We (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hpShFDL.png" group-title="Movies",Maha Movie (576p) [Not 24/7]
