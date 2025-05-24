@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 21:43:08",
+  "date": "2025-05-24 06:22:48",
   "channels": {
     "Market Open and Close": [
       {
@@ -7825,42 +7825,42 @@
         "logo": "https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",
         "group": "QUỐC TẾ",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
+        "url": "http://radiocast.rtp.pt/antena180a.mp3"
       },
       {
         "name": "RDP Antena 2",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource112/v4/a9/d6/8a/a9d68ad9-1899-c688-af34-48009a1430a7/ef751706-556f-4329-bb0c-7bdf25955112.png/1200x1200bf-60.jpg",
         "group": "QUỐC TẾ",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8"
+        "url": "http://radiocast.rtp.pt/antena280a.mp3"
       },
       {
         "name": "RDP Antena 3",
         "logo": "https://www.radio.net/300/antena-3.png?version=",
         "group": "QUỐC TẾ",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8"
+        "url": "http://radiocast.rtp.pt/antena380a.mp3"
       },
       {
         "name": "RDP Radio Africa",
         "logo": "https://yt3.googleusercontent.com/CbXXkMpzrsCQMFpeSRbn2OWTD-gDCGvBmAKrcNw3pPInDCnchdu7oXoVRcaMJ924Fo7IYkKmKkU=s900-c-k-c0x00ffffff-no-rj",
         "group": "QUỐC TẾ",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8"
+        "url": "http://radiocast.rtp.pt/rdpafrica80a.mp3"
       },
       {
         "name": "RDP Radio ZigZag",
         "logo": "https://play-lh.googleusercontent.com/PuNZn6Hge3W_5A_uI1tElvF6XVismQUQ0HClci9Go9Av_5zWzuXaTI3q5GuxQ0zB7FM",
         "group": "QUỐC TẾ",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8"
+        "url": "http://radiocast.rtp.pt/zigzag280a.mp3"
       },
       {
         "name": "RDP Internacional",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkUqJYjsW6-rz3oguncrOF4JJfrmqjkcnUg&s",
         "group": "QUỐC TẾ",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8"
+        "url": "http://radiocast.rtp.pt/rdpint280a.mp3"
       },
       {
         "name": "Deutschlandfunk",
@@ -8435,6 +8435,13 @@
         "group": "QUỐC TẾ",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
         "url": "https://icecast.teveo.cu/Jdq3Rbrg"
+      },
+      {
+        "name": "Radio Habana Cuba",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/wqv46bsr447r.png",
+        "group": "QUỐC TẾ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://icecast.teveo.cu/McW3fLhs"
       },
       {
         "name": "KIIS 101.1",

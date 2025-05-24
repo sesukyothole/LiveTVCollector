@@ -2220,17 +2220,17 @@ https://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TShfkoEXtPL87y2ZP0TXKDcX3A-HBJ4I1lRFxbVYu79Wd6DuCmQud4WRo192erYo8BLzfD_V=s900-c-k-c0x00ffffff-no-rj" group-title="QUỐC TẾ",Los 40 Urban
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png" group-title="QUỐC TẾ",RDP Antena 1
-https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+http://radiocast.rtp.pt/antena180a.mp3
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PodcastSource112/v4/a9/d6/8a/a9d68ad9-1899-c688-af34-48009a1430a7/ef751706-556f-4329-bb0c-7bdf25955112.png/1200x1200bf-60.jpg" group-title="QUỐC TẾ",RDP Antena 2
-https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+http://radiocast.rtp.pt/antena280a.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/antena-3.png?version=" group-title="QUỐC TẾ",RDP Antena 3
-https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8
+http://radiocast.rtp.pt/antena380a.mp3
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CbXXkMpzrsCQMFpeSRbn2OWTD-gDCGvBmAKrcNw3pPInDCnchdu7oXoVRcaMJ924Fo7IYkKmKkU=s900-c-k-c0x00ffffff-no-rj" group-title="QUỐC TẾ",RDP Radio Africa
-https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+http://radiocast.rtp.pt/rdpafrica80a.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PuNZn6Hge3W_5A_uI1tElvF6XVismQUQ0HClci9Go9Av_5zWzuXaTI3q5GuxQ0zB7FM" group-title="QUỐC TẾ",RDP Radio ZigZag
-https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+http://radiocast.rtp.pt/zigzag280a.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkUqJYjsW6-rz3oguncrOF4JJfrmqjkcnUg&s" group-title="QUỐC TẾ",RDP Internacional
-https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+http://radiocast.rtp.pt/rdpint280a.mp3
 #EXTINF:-1 tvg-logo="https://arbeitsunrecht.de/wp-content/uploads/2023/11/Deutschlandfunk_2017_icon.png" group-title="QUỐC TẾ",Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-EaBBQWVc7sY2Q23M-Z4lVAQ-t500x500.jpg" group-title="QUỐC TẾ",Deutschlandfunk Kultur
@@ -2395,6 +2395,8 @@ https://icecast.teveo.cu/3MCwWg3V
 https://icecast.teveo.cu/ktW3mW74
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/wqv46bsr447r.png" group-title="QUỐC TẾ",Radio Cadena Habana
 https://icecast.teveo.cu/Jdq3Rbrg
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/wqv46bsr447r.png" group-title="QUỐC TẾ",Radio Habana Cuba
+https://icecast.teveo.cu/McW3fLhs
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/3c268c71-295d-47d8-8015-5eb0c766295c.png" group-title="QUỐC TẾ",KIIS 101.1
 https://i.mjh.nz/.r/radio-ih-6157.aac
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6764ac42de73b9d6cbb53fec" group-title="QUỐC TẾ",GOLD104.3

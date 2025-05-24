@@ -1806,32 +1806,32 @@ Logo: https://yt3.googleusercontent.com/TShfkoEXtPL87y2ZP0TXKDcX3A-HBJ4I1lRFxbVY
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: RDP Antena 1
-URL: https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+URL: http://radiocast.rtp.pt/antena180a.mp3
 Logo: https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: RDP Antena 2
-URL: https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+URL: http://radiocast.rtp.pt/antena280a.mp3
 Logo: https://is1-ssl.mzstatic.com/image/thumb/PodcastSource112/v4/a9/d6/8a/a9d68ad9-1899-c688-af34-48009a1430a7/ef751706-556f-4329-bb0c-7bdf25955112.png/1200x1200bf-60.jpg
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: RDP Antena 3
-URL: https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8
+URL: http://radiocast.rtp.pt/antena380a.mp3
 Logo: https://www.radio.net/300/antena-3.png?version=
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: RDP Radio Africa
-URL: https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+URL: http://radiocast.rtp.pt/rdpafrica80a.mp3
 Logo: https://yt3.googleusercontent.com/CbXXkMpzrsCQMFpeSRbn2OWTD-gDCGvBmAKrcNw3pPInDCnchdu7oXoVRcaMJ924Fo7IYkKmKkU=s900-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: RDP Radio ZigZag
-URL: https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+URL: http://radiocast.rtp.pt/zigzag280a.mp3
 Logo: https://play-lh.googleusercontent.com/PuNZn6Hge3W_5A_uI1tElvF6XVismQUQ0HClci9Go9Av_5zWzuXaTI3q5GuxQ0zB7FM
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: RDP Internacional
-URL: https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+URL: http://radiocast.rtp.pt/rdpint280a.mp3
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkUqJYjsW6-rz3oguncrOF4JJfrmqjkcnUg&s
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -2242,6 +2242,11 @@ Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/C
 --------------------------------------------------
 Name: Radio Cadena Habana
 URL: https://icecast.teveo.cu/Jdq3Rbrg
+Logo: https://static2.mytuner.mobi/media/tvos_radios/wqv46bsr447r.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: Radio Habana Cuba
+URL: https://icecast.teveo.cu/McW3fLhs
 Logo: https://static2.mytuner.mobi/media/tvos_radios/wqv46bsr447r.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
