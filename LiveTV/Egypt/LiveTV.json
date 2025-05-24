@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 21:53:30",
+  "date": "2025-05-24 06:56:10",
   "channels": {
     "Uncategorized": [
       {
@@ -1258,6 +1258,20 @@
         "url": "http://69.64.57.208/canal2international/playlist.m3u8"
       },
       {
+        "name": "CBC (1080p)",
+        "logo": "https://i.imgur.com/8apNaLP.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8"
+      },
+      {
+        "name": "DMC (1080p)",
+        "logo": "https://i.imgur.com/iy70Xxr.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8"
+      },
+      {
         "name": "Dubai One (1080p)",
         "logo": "https://i.imgur.com/Dj16oKL.png",
         "group": "General",
@@ -1390,18 +1404,11 @@
         "url": "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
       },
       {
-        "name": "AfricaNews English (720p)",
+        "name": "Africanews",
         "logo": "https://i.imgur.com/5UxU4zc.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8"
-      },
-      {
-        "name": "AfricaNews Français (720p)",
-        "logo": "https://i.imgur.com/5UxU4zc.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
+        "url": "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
       },
       {
         "name": "like Gecko) Mobile/15E148\",Al Jazeera (480p) [Not 24/7]",
@@ -1613,6 +1620,15 @@
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
+      }
+    ],
+    "Lifestyle": [
+      {
+        "name": "CBC Sofra (1080p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8"
       }
     ],
     "Education": [

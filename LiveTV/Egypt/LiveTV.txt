@@ -83,6 +83,16 @@ URL: http://69.64.57.208/canal2international/playlist.m3u8
 Logo: https://i.imgur.com/BzA2z7m.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
+Name: CBC (1080p)
+URL: https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
+Logo: https://i.imgur.com/8apNaLP.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
+Name: DMC (1080p)
+URL: https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
+Logo: https://i.imgur.com/iy70Xxr.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
 Name: Dubai One (1080p)
 URL: https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 Logo: https://i.imgur.com/Dj16oKL.png
@@ -128,6 +138,13 @@ Group: Kids
 Name: MBC 3 KSA (1080p)
 URL: https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 Logo: https://i.imgur.com/PVt8OPN.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
+
+Group: Lifestyle
+Name: CBC Sofra (1080p)
+URL: https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
+Logo: https://i.imgur.com/YAdk2WR.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 
@@ -196,13 +213,8 @@ URL: https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 Logo: https://i.imgur.com/YWIJdai.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
-Name: AfricaNews English (720p)
-URL: https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8
-Logo: https://i.imgur.com/5UxU4zc.png
-Source: https://iptv-org.github.io/iptv/countries/eg.m3u
---------------------------------------------------
-Name: AfricaNews Français (720p)
-URL: https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8
+Name: Africanews
+URL: https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 Logo: https://i.imgur.com/5UxU4zc.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
