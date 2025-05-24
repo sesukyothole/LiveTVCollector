@@ -208,7 +208,7 @@ https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakute
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="documentari",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Euronews IN DIRETTA
-https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMTE4MDNkMDQtMzY5Yi00YmNhLWEzMTctZWU3MWY5ZmYzZmI1IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYjcxZmI1MDctMGJmZS00YTA2LWFlODctNTY4Y2IzMzZkZjE1IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",The Reuters 60
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Revry News
@@ -218,7 +218,7 @@ https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Bloomberg Television
 https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Africanews
-https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTBhMjg1ZjgtZTlhNi00M2YwLWFiMmQtZDM5OGQ5YTdmYTE5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMDA5YjRkNzgtZmE4Yi00ZmJiLTlhZDYtYjNiMGQ4ZDFlZTFiIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",NewsWorld
@@ -596,9 +596,11 @@ http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314868.m3u8
 #EXTINF:-1 tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TNT SPORTS PREMIUM
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/123886
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES",TNT SPORTS 1
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314869.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34675
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES",TNT SPORTS 2
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314870.m3u8
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/tntsport.png" group-title="DEPORTES",TNT Sports (ARG)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34683
 #EXTINF:-1 tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN PREMIUM
 http://live1.cl.cdn.lla.vtrplay.com/foxsports1hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES",ESPN
@@ -672,7 +674,7 @@ http://200.60.124.19:29000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="CINE Y SERIES",CINE LATINO
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9626
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313042
+http://181.78.27.128:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES",HBO
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322827.m3u8
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png" group-title="CINE Y SERIES",HBO PLUS
@@ -730,7 +732,7 @@ http://181.78.27.128:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES",TCM
 http://live1.cl.cdn.lla.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES",USA
-http://live1.cl.cdn.lla.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+http://179.49.163.34:45000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE Y SERIES",+CINE
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322809.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="CINE Y SERIES",STUDIO UNIVERSAL
@@ -749,7 +751,7 @@ http://live1.cl.cdn.lla.vtrplay.com/universalrealityhdchi/vxfmt=dp/playlist.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://epodcastnetwork.com/wp-content/uploads/2015/04/BabyFirst_LOGO-300x96.png" group-title="INFANTILES",BABYFIRST
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9854
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest?cb=20250307002717" group-title="INFANTILES",BITME
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="INFANTILES",BITME
 http://179.49.163.34:45000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES",DREAMWORKS
 http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
