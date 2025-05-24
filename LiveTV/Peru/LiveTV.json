@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 21:46:33",
+  "date": "2025-05-24 06:34:21",
   "channels": {
     "News": [
       {
@@ -1840,13 +1840,6 @@
         "url": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8"
       },
       {
-        "name": "Filmstream",
-        "logo": "https://i.imgur.com/DTRPV6B.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
         "name": "Filmstream (clasicos ingles) (720p)",
         "logo": "https://i.imgur.com/DTRPV6B.png",
         "group": "Movies",
@@ -2050,11 +2043,11 @@
     ],
     "Cooking": [
       {
-        "name": "Tastemade en Español (1080p)",
+        "name": "Tastemade en Espanol [Geo-blocked]",
         "logo": "https://i.imgur.com/8s6aRwv.png",
         "group": "Cooking",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8"
+        "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Tastemade en Español (1080p)",
