@@ -3846,12 +3846,6 @@
     "img": "https://i.imgur.com/rHxcraT.png"
   },
   {
-    "name": "Filmstream",
-    "type": "Movies",
-    "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/DTRPV6B.png"
-  },
-  {
     "name": "Ghost TV (712p) [Not 24/7]",
     "type": "Movies",
     "url": "https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8",
@@ -6064,6 +6058,12 @@
     "type": "Entertainment",
     "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
     "img": "https://i.imgur.com/TZF55f9.png"
+  },
+  {
+    "name": "UMA TV (1080p)",
+    "type": "Entertainment",
+    "url": "https://acesso.ecast.site:3011/live/umatvlive.m3u8",
+    "img": "https://i.imgur.com/m0RVb79.png"
   },
   {
     "name": "VRT Channel (720p)",

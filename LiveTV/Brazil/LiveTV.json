@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 21:40:11",
+  "date": "2025-05-24 06:09:22",
   "channels": {
     "": [
       {
@@ -4518,13 +4518,6 @@
         "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
       },
       {
-        "name": "Filmstream",
-        "logo": "https://i.imgur.com/DTRPV6B.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
         "name": "Ghost TV (712p) [Not 24/7]",
         "logo": "https://i.imgur.com/ZVO8GVI.png",
         "group": "Movies",
@@ -7158,6 +7151,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
+      },
+      {
+        "name": "UMA TV (1080p)",
+        "logo": "https://i.imgur.com/m0RVb79.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://acesso.ecast.site:3011/live/umatvlive.m3u8"
       },
       {
         "name": "VRT Channel (720p)",
