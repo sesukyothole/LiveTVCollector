@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 21:54:16",
+  "date": "2025-05-24 06:58:07",
   "channels": {
     "News": [
       {
@@ -1082,13 +1082,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "Filmstream",
-        "logo": "https://i.imgur.com/DTRPV6B.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"
       }
     ],
     "Comedy": [
@@ -1188,11 +1181,11 @@
     ],
     "Cooking": [
       {
-        "name": "Tastemade en Español (1080p)",
+        "name": "Tastemade en Espanol [Geo-blocked]",
         "logo": "https://i.imgur.com/8s6aRwv.png",
         "group": "Cooking",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8"
+        "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
       }
     ],
     "Business": [
