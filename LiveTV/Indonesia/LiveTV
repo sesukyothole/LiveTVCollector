@@ -747,7 +747,7 @@
     "name": "Galaxy",
     "type": "Movies",
     "url": "http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd",
-    "img": "https://www.mncvision.id/userfiles/image/channel/channel_13.png"
+    "img": "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png"
   },
   {
     "name": "Galaxy Premium",
@@ -780,34 +780,34 @@
     "img": "https://i.ibb.co/zrxvFLV/images-6-modified.png"
   },
   {
-    "name": "Originals",
+    "name": "ORIGINALS",
     "type": "Movies",
     "url": "https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd",
-    "img": "https://github.com/eepunx/logo/raw/refs/heads/main/originals.png"
+    "img": "https://www.mncvision.id/userfiles/image/channel/channel_7.png"
   },
   {
-    "name": "group-title=\"Movies\",Cineedge",
+    "name": "Cineedge",
     "type": "Movies",
     "url": "https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd",
-    "img": "https://github.com/eepunx/logo/raw/refs/heads/main/cineedge.png"
+    "img": "https://www.mncvision.id/userfiles/image/channel/channel_8.png"
   },
   {
-    "name": "Superrix",
+    "name": "SUPERRIX",
     "type": "Movies",
     "url": "https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd",
-    "img": "https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png"
+    "img": "https://www.lyngsat.com/logo/tv/ss/superrix-uk.png"
   },
   {
-    "name": "Uniques",
+    "name": "Uniquest",
     "type": "Movies",
     "url": "https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd",
-    "img": "https://github.com/eepunx/logo/raw/refs/heads/main/Uniques.png"
+    "img": "https://www.mncvision.id/userfiles/image/channel/channel_6.png"
   },
   {
     "name": "Buddy Star",
     "type": "Movies",
     "url": "https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd",
-    "img": "https://github.com/eepunx/logo/raw/refs/heads/main/buddystar.png"
+    "img": "https://www.mncvision.id/userfiles/image/channel/channel_9.png"
   },
   {
     "name": "Cinemax",
@@ -2132,7 +2132,7 @@
   {
     "name": "Sportstars 1",
     "type": "Sports",
-    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
+    "url": "https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8",
     "img": "https://i.imgur.com/OkQzNhc.png"
   },
   {
@@ -2144,7 +2144,7 @@
   {
     "name": "Sportstars 3",
     "type": "Sports",
-    "url": "https://terabit.web.id/media.mpd?id=114&type=dash|Referer=https://www.visionplus.id",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd",
     "img": "https://i.imgur.com/dIcTZj3.png"
   },
   {
@@ -11358,12 +11358,6 @@
     "img": "https://alkhalifitv.github.io/TV/big/aniplus.png"
   },
   {
-    "name": "Sportstar 3",
-    "type": "OLAHRAGA LOKAL",
-    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd",
-    "img": "https://i.imgur.com/IQkwAXJ.jpeg"
-  },
-  {
     "name": "NBA TV (Indi)",
     "type": "OLAHRAGA LOKAL",
     "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd",
@@ -13468,6 +13462,12 @@
     "type": "SPORTS INDO",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd",
     "img": "https://i.imgur.com/68y2OmC.png"
+  },
+  {
+    "name": "Sportstars 1 HD",
+    "type": "SPORTS INDO",
+    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
+    "img": "https://i.imgur.com/OkQzNhc.png"
   },
   {
     "name": "Sportstars 3",

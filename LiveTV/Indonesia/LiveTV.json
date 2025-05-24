@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 21:43:33",
+  "date": "2025-05-24 06:24:29",
   "channels": {
     "INDONESIA": [
       {
@@ -874,7 +874,7 @@
       },
       {
         "name": "Galaxy",
-        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_13.png",
+        "logo": "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd"
@@ -915,36 +915,36 @@
         "url": "http://202.147.193.244/live/eds/Paramount/sa_dash/Paramount.mpd"
       },
       {
-        "name": "Originals",
-        "logo": "https://github.com/eepunx/logo/raw/refs/heads/main/originals.png",
+        "name": "ORIGINALS",
+        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_7.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd"
       },
       {
-        "name": "group-title=\"Movies\",Cineedge",
-        "logo": "https://github.com/eepunx/logo/raw/refs/heads/main/cineedge.png",
+        "name": "Cineedge",
+        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_8.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd"
       },
       {
-        "name": "Superrix",
-        "logo": "https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png",
+        "name": "SUPERRIX",
+        "logo": "https://www.lyngsat.com/logo/tv/ss/superrix-uk.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd"
       },
       {
-        "name": "Uniques",
-        "logo": "https://github.com/eepunx/logo/raw/refs/heads/main/Uniques.png",
+        "name": "Uniquest",
+        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_6.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd"
       },
       {
         "name": "Buddy Star",
-        "logo": "https://github.com/eepunx/logo/raw/refs/heads/main/buddystar.png",
+        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_9.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd"
@@ -2500,7 +2500,7 @@
         "logo": "https://i.imgur.com/OkQzNhc.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd"
+        "url": "https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8"
       },
       {
         "name": "Sportstars 2",
@@ -2514,7 +2514,7 @@
         "logo": "https://i.imgur.com/dIcTZj3.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://terabit.web.id/media.mpd?id=114&type=dash|Referer=https://www.visionplus.id"
+        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd"
       },
       {
         "name": "Sportstars 4",
@@ -13316,13 +13316,6 @@
     ],
     "OLAHRAGA LOKAL": [
       {
-        "name": "Sportstar 3",
-        "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
-        "group": "OLAHRAGA LOKAL",
-        "source": "https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd"
-      },
-      {
         "name": "NBA TV (Indi)",
         "logo": "https://i.imgur.com/K3FXClz.jpeg ",
         "group": "OLAHRAGA LOKAL",
@@ -15834,6 +15827,13 @@
         "group": "SPORTS INDO",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd"
+      },
+      {
+        "name": "Sportstars 1 HD",
+        "logo": "https://i.imgur.com/OkQzNhc.png",
+        "group": "SPORTS INDO",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd"
       },
       {
         "name": "Sportstars 3",
