@@ -10446,22 +10446,16 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png"
   },
   {
-    "name": "811 Astro Premier League",
+    "name": "815 Astro Badminton HD",
     "type": "SPORT BACKUP",
-    "url": "https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDc4MTk2NDAsImlzcyI6IlZSIiwiZXhwIjoxNzQ3ODY2NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.oOQwfAq4uGT2nM8x-pcAcPYvFCYToe41nrLcwuMY_cs",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png"
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png"
   },
   {
-    "name": "812 Astro Premier League 2",
+    "name": "816 Astro Badminton 2 HD",
     "type": "SPORT BACKUP",
-    "url": "https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDc4MTk2NDAsImlzcyI6IlZSIiwiZXhwIjoxNzQ3ODY2NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzI5ZmZkZmYtNzg3My00MDI3LWEwZjAtMWZhOGFkNWViMDcxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.oOQwfAq4uGT2nM8x-pcAcPYvFCYToe41nrLcwuMY_cs",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png"
-  },
-  {
-    "name": "813 Astro PremierLeague 3 HD",
-    "type": "SPORT BACKUP",
-    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd",
-    "img": "https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp"
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd",
+    "img": "https://i.ibb.co/mcmpN9b/Astro-Badminton-2.webp"
   },
   {
     "name": "Angel TV Far East (720p)",
