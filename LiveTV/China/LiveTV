@@ -8166,12 +8166,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "浙江影视",
-    "type": "电影频道",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "电影大卫贝肯倒霉特工熊",
     "type": "电影频道",
     "url": "https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8",
@@ -9342,12 +9336,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "广东体育",
-    "type": "地方频道",
-    "url": "https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "CRIHITFM",
     "type": "地方频道",
     "url": "https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8",
@@ -9411,6 +9399,12 @@
     "name": "内蒙经济",
     "type": "地方频道",
     "url": "https://ls.qingting.fm/live/1885/64k.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "北京新闻",
+    "type": "地方频道",
+    "url": "https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9600,12 +9594,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "延边2",
-    "type": "地方频道",
-    "url": "https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "张掖新闻综合",
     "type": "地方频道",
     "url": "https://play.kankanlive.com/live/1720583434627241.m3u8",
@@ -9621,6 +9609,18 @@
     "name": "成县综合",
     "type": "地方频道",
     "url": "https://play.kankanlive.com/live/1702454377323961.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "无锡娱乐",
+    "type": "地方频道",
+    "url": "https://stream.thmz.com/wxtv2/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "无锡生活",
+    "type": "地方频道",
+    "url": "https://stream.thmz.com/wxtv4/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11154,12 +11154,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "中央电视塔东",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "中央电视塔南",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8",
@@ -11172,51 +11166,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "丽江古城大水车",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "丽江古城大研花巷观景",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "乌镇全景",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "乌镇蓝印花布",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "乌镇西市河",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "乌镇龙形田",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "乐山大佛全景",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "云南丽江冰川",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11232,57 +11184,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "云南丽江玉龙雪山草甸",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "云南丽江蓝月谷",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "云南大理崇圣寺三塔中景",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "云南大理崇圣寺三塔远景",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "云南白沙远眺玉龙雪山",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "五彩池",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "八里沟风景区天界山玻璃栈道",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "八里沟风景区桃花湾瀑布",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "六盘山红军长征景区",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11295,12 +11205,6 @@
     "name": "厦门鼓浪屿",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "四川四姑娘山隆珠措",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11322,24 +11226,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "四川峨眉山远眺贡嘎雪山",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "天涯石",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "安徽池州九华山风景区九华山",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "安徽黟县芦村远眺",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8",
@@ -11352,33 +11238,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "广西桂林漓江景区",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "广西玉林大容山莲花山顶",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "张掖七彩丹霞",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "恒山悬空寺全景",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "普陀山",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11388,27 +11250,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "望乡台",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "江苏南京牛首山",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "江苏徐州云龙湖风景区云龙山观景台西",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "泰山主峰",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11424,45 +11268,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "泰山大观峰",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "泰山太平岭",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "泰山望人松",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "泰山玉皇顶",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "泰山白云亭悬崖",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "泰山碧霞祠",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "浙江舟山东极岛",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11478,12 +11292,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "湖南张家界御笔峰",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "湖南张家界水绕四门",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8",
@@ -11493,18 +11301,6 @@
     "name": "狮子山鸟瞰丽江古城",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "福建武夷山玉女峰",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "福建漳州醉美沙滩翡翠湾",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11538,24 +11334,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "青岛崂山八水河",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "青岛崂山双福",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "鸣沙山",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "黄山",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8",
@@ -11568,43 +11346,13 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "黄山排云亭",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "黄山飞来石",
     "type": "直播中国",
     "url": "https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "黄果树六角亭瀑布",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "黄花城水长城01",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "黄花城水长城03",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "黄龙",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "2025-05-24 12:25:19",
+    "name": "2025-05-24 18:27:57",
     "type": "更新时间",
     "url": "https://vd4.bdstatic.com/mda-reiihfhe5xjm4s3e/1080p/cae_h264/1747660062050484190/mda-reiihfhe5xjm4s3e.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
