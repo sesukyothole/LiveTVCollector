@@ -255,6 +255,11 @@ URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: National Geographic Latin America
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: El Histonauta TV (360p)
 URL: https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w368121454.m3u8
 Logo: https://i.imgur.com/H4SFkx6.png
@@ -297,6 +302,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Impacto Televisión (360p) [Not 24/7]
 URL: https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 Logo: https://i.imgur.com/bkpCGP6.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: La Tele
+URL: https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/512px-LaTele_Per%C3%BA_2018_Logo.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Lifetime
@@ -356,9 +366,9 @@ Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/head
 --------------------------------------------------
 
 Group: Entertainment;Lifestyle;Music
-Name: Spectrum Channel (720p)
+Name: PRIDEtv LATAM (720p)
 URL: https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
-Logo: https://cdn.energeek.cl/logos/spectrumtv-512.png
+Logo: https://neotv.cl/img/pridetv-512.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
@@ -370,6 +380,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
 Group: General
+Name: America Television
+URL: https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: ATM Televisión (720p)
 URL: https://v4.tustreaming.cl/atmtv/index.m3u8
 Logo: https://i.imgur.com/pdmh1pT.png
@@ -453,6 +468,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Genios TV (720p) [Not 24/7]
 URL: https://live.obslivestream.com/geniostvmux/index.m3u8
 Logo: https://i.imgur.com/iH2Lx6E.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Global TV
+URL: https://live-evg1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
+Logo: https://i.imgur.com/yuEou9C.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Intuitiva TV (720p)
@@ -553,6 +573,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Sistema 1 [Geo-blocked]
 URL: https://inliveserver.com:1936/9514/9514/playlist.m3u8
 Logo: https://i.imgur.com/GaEfzuG.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: TELE 6
+URL: https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
+Logo: https://i.imgur.com/p7tt72X.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Telecanal
@@ -934,6 +959,11 @@ Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/head
 --------------------------------------------------
 
 Group: Music
+Name: Angienet TV
+URL: https://servilive.com:3624/stream/play.m3u8
+Logo: https://i.imgur.com/GCCriH4.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Best Cable Music Perú (720p)
 URL: https://tv.godo.net.pe/bestcablemusic/index.m3u8
 Logo: https://i.imgur.com/PXm4osQ.png
@@ -952,6 +982,16 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Galáctica TV (1080p) [Not 24/7]
 URL: https://pacific.direcnode.com:3715/hybrid/play.m3u8
 Logo: https://i.imgur.com/byL1zCV.jpeg
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: HTV
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+Logo: https://i.imgur.com/NlKFNHS.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Karibena
+URL: https://live-evg1.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8
+Logo: https://i.imgur.com/cgHjg1e.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: La Ribereña (Pucallpa) (480p) [Not 24/7]
@@ -1221,6 +1261,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Like TV
 URL: https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 Logo: https://i.imgur.com/5IwS0sJ.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: PBO
+URL: https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
+Logo: https://i.imgur.com/vBpxX4S.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Red de Comunicación Regional (RCR) (720p) [Not 24/7]
@@ -3084,6 +3129,11 @@ URL: https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 Logo: https://i.imgur.com/GtNkuAc.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: Studio Universal Latin America
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Super Canal Yurimaguas (720p) [Not 24/7]
 URL: https://live.obslivestream.com/supercanal/index.m3u8
 Logo: https://i.imgur.com/eotfCMd.png
@@ -3147,6 +3197,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Uranio TV (Yurimaguas) (720p) [Not 24/7]
 URL: https://live.obslivestream.com/uraniotv/index.m3u8
 Logo: https://i.imgur.com/EeNpfIr.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: USA Network Latin America
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Viva TV Yurimaguas (720p)
