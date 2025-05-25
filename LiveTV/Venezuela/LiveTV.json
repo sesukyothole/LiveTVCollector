@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-24 21:52:09",
+  "date": "2025-05-25 07:16:40",
   "channels": {
     "News": [
       {
@@ -43,6 +43,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "http://200.115.193.177/live/26hd-720/playlist.m3u8"
+      },
+      {
+        "name": "Canal I (720p)",
+        "logo": "https://i.imgur.com/vKfOavW.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://vcp10.myplaytv.com/canali/canali/playlist.m3u8"
       },
       {
         "name": "DW Español (1080p)",
@@ -327,6 +334,13 @@
         "url": "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8"
       },
       {
+        "name": "Telesol TV (720p)",
+        "logo": "https://i.imgur.com/iagCG6y.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8"
+      },
+      {
         "name": "Torococo TV (720p) [Not 24/7]",
         "logo": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
         "group": "General",
@@ -446,6 +460,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
+      },
+      {
+        "name": "HTV",
+        "logo": "https://i.imgur.com/NlKFNHS.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8"
       },
       {
         "name": "Italianissimo (360p) [Not 24/7]",
@@ -1038,6 +1059,13 @@
         "url": "https://bozztv.com/gusa/gusa-goldentv/index.m3u8"
       },
       {
+        "name": "Studio Universal Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8"
+      },
+      {
         "name": "Telefe Internacional (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/HNcCX3h.png",
         "group": "Undefined",
@@ -1057,18 +1085,23 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
-      }
-    ],
-    "Kids": [
+      },
       {
-        "name": "Clan TVE Internacional (1080p)",
-        "logo": "https://i.imgur.com/03jFV68.png",
-        "group": "Kids",
+        "name": "USA Network Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
+        "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8"
       }
     ],
     "Movies": [
+      {
+        "name": "Cinecanal",
+        "logo": "https://comteco.com.bo/img/upload/canales/qvJQXi.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8"
+      },
       {
         "name": "De Película (576p)",
         "logo": "https://i.imgur.com/aksM8pa.png",
@@ -1082,6 +1115,15 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Clan TVE Internacional (1080p)",
+        "logo": "https://i.imgur.com/03jFV68.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
       }
     ],
     "Comedy": [
@@ -1116,6 +1158,13 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
+      },
+      {
+        "name": "National Geographic Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
       }
     ],
     "Animation;Entertainment": [
@@ -1161,6 +1210,15 @@
         "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
       }
     ],
+    "Entertainment;Lifestyle;Music": [
+      {
+        "name": "PRIDEtv LATAM (720p)",
+        "logo": "https://neotv.cl/img/pridetv-512.png",
+        "group": "Entertainment;Lifestyle;Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
+      }
+    ],
     "Culture;Music": [
       {
         "name": "Radio Suyai TV (1080p)",
@@ -1168,15 +1226,6 @@
         "group": "Culture;Music",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe"
-      }
-    ],
-    "Entertainment;Lifestyle;Music": [
-      {
-        "name": "Spectrum Channel (720p)",
-        "logo": "https://cdn.energeek.cl/logos/spectrumtv-512.png",
-        "group": "Entertainment;Lifestyle;Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
       }
     ],
     "Cooking": [

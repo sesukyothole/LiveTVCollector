@@ -93,6 +93,11 @@ URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
+Name: National Geographic Latin America
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
 
 Group: Education
 Name: Platzi TV (1080p)
@@ -169,9 +174,9 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
 Group: Entertainment;Lifestyle;Music
-Name: Spectrum Channel (720p)
+Name: PRIDEtv LATAM (720p)
 URL: https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
-Logo: https://cdn.energeek.cl/logos/spectrumtv-512.png
+Logo: https://neotv.cl/img/pridetv-512.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
@@ -463,6 +468,11 @@ URL: https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8
 Logo: https://i.imgur.com/QtRNfaj.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
+Name: Telesol TV (720p)
+URL: https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8
+Logo: https://i.imgur.com/iagCG6y.png
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
 Name: Torococo TV (720p) [Not 24/7]
 URL: https://us.streaminghd.cl/torococotelevision/video.m3u8
 Logo: https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png
@@ -558,6 +568,11 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
 Group: Movies
+Name: Cinecanal
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+Logo: https://comteco.com.bo/img/upload/canales/qvJQXi.png
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
 Name: De Película (576p)
 URL: https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/aksM8pa.png
@@ -608,6 +623,11 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 Name: Frecuencia Musical TV [Not 24/7]
 URL: https://s2.tvdatta.com:3307/hybrid/play.m3u8
 Logo: https://i.imgur.com/vPxvbVv.png
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
+Name: HTV
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+Logo: https://i.imgur.com/NlKFNHS.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 Name: Italianissimo (360p) [Not 24/7]
@@ -690,6 +710,11 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 Name: Canal 26 (720p)
 URL: http://200.115.193.177/live/26hd-720/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
+Name: Canal I (720p)
+URL: https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
+Logo: https://i.imgur.com/vKfOavW.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 Name: DW Español (1080p)
@@ -861,6 +886,11 @@ URL: https://bozztv.com/gusa/gusa-goldentv/index.m3u8
 Logo: https://i.imgur.com/NNd1lYl.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
+Name: Studio Universal Latin America
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
 Name: Telefe Internacional (720p) [Not 24/7]
 URL: https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
 Logo: https://i.imgur.com/HNcCX3h.png
@@ -874,6 +904,11 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 Name: UCL (720p)
 URL: https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 Logo: https://i.imgur.com/BzQphbw.png
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
+Name: USA Network Latin America
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 

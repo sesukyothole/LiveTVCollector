@@ -36,6 +36,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png"
   },
   {
+    "name": "Canal I (720p)",
+    "type": "News",
+    "url": "https://vcp10.myplaytv.com/canali/canali/playlist.m3u8",
+    "img": "https://i.imgur.com/vKfOavW.png"
+  },
+  {
     "name": "DW Español (1080p)",
     "type": "News",
     "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
@@ -276,6 +282,12 @@
     "img": "https://i.imgur.com/QtRNfaj.png"
   },
   {
+    "name": "Telesol TV (720p)",
+    "type": "General",
+    "url": "https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8",
+    "img": "https://i.imgur.com/iagCG6y.png"
+  },
+  {
     "name": "Torococo TV (720p) [Not 24/7]",
     "type": "General",
     "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
@@ -376,6 +388,12 @@
     "type": "Music",
     "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
     "img": "https://i.imgur.com/vPxvbVv.png"
+  },
+  {
+    "name": "HTV",
+    "type": "Music",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8",
+    "img": "https://i.imgur.com/NlKFNHS.png"
   },
   {
     "name": "Italianissimo (360p) [Not 24/7]",
@@ -858,6 +876,12 @@
     "img": "https://i.imgur.com/NNd1lYl.png"
   },
   {
+    "name": "Studio Universal Latin America",
+    "type": "Undefined",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png"
+  },
+  {
     "name": "Telefe Internacional (720p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8",
@@ -876,10 +900,16 @@
     "img": "https://i.imgur.com/BzQphbw.png"
   },
   {
-    "name": "Clan TVE Internacional (1080p)",
-    "type": "Kids",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8",
-    "img": "https://i.imgur.com/03jFV68.png"
+    "name": "USA Network Latin America",
+    "type": "Undefined",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png"
+  },
+  {
+    "name": "Cinecanal",
+    "type": "Movies",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8",
+    "img": "https://comteco.com.bo/img/upload/canales/qvJQXi.png"
   },
   {
     "name": "De Película (576p)",
@@ -892,6 +922,12 @@
     "type": "Movies",
     "url": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8",
     "img": "https://i.imgur.com/MMhSmDK.png"
+  },
+  {
+    "name": "Clan TVE Internacional (1080p)",
+    "type": "Kids",
+    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8",
+    "img": "https://i.imgur.com/03jFV68.png"
   },
   {
     "name": "Distrito Comedia (576p)",
@@ -916,6 +952,12 @@
     "type": "Documentary",
     "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png"
+  },
+  {
+    "name": "National Geographic Latin America",
+    "type": "Documentary",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
   },
   {
     "name": "Kanade (1080p)",
@@ -948,16 +990,16 @@
     "img": "https://i.imgur.com/OSet4en.png"
   },
   {
+    "name": "PRIDEtv LATAM (720p)",
+    "type": "Entertainment;Lifestyle;Music",
+    "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8",
+    "img": "https://neotv.cl/img/pridetv-512.png"
+  },
+  {
     "name": "Radio Suyai TV (1080p)",
     "type": "Culture;Music",
     "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe",
     "img": "https://radio.suyaitv.cl/wp-content/uploads/2024/04/cropped-radiosuyaitvcuadrado512.png"
-  },
-  {
-    "name": "Spectrum Channel (720p)",
-    "type": "Entertainment;Lifestyle;Music",
-    "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8",
-    "img": "https://cdn.energeek.cl/logos/spectrumtv-512.png"
   },
   {
     "name": "Tastemade en Espanol [Geo-blocked]",
