@@ -1841,6 +1841,8 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="General",Sertão TV (720p)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="General",TELE 6
+https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rsfnv4Z.png" group-title="General",TV Aldeia (720p)
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eqmOhtP.png" group-title="General",TV Aliança Catarinense (720p)
@@ -1939,6 +1941,8 @@ https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Undefined",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="Undefined",TV Cultura
+https://cdn-1.nxplay.com.br/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="Undefined",TV Guará (720p) [Not 24/7]
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iuQVDpq.jpg" group-title="Undefined",TV Interlagos (360p)
@@ -1967,6 +1971,8 @@ http://cdn.tvmatic.net/facebook.m3u8
 http://cdn.tvmatic.net/funny.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="Undefined",TVMatic TikTok (720p)
 http://cdn.tvmatic.net/tiktok.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Undefined",USA Network Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Portuguese (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelportuguese_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="Religious",Fonte TV (1080p) [Not 24/7]
@@ -2075,6 +2081,8 @@ https://streamer1.nexgen.bz/VH1/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="Documentary",Pluto TV Investigação (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Animation;Entertainment",Kanade (1080p)
@@ -2087,12 +2095,12 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="Comedy",TVMatic Comedy (720p)
 http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.cl/img/pridetv-512.png" group-title="Entertainment;Lifestyle;Music",PRIDEtv LATAM (720p)
+https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://radio.suyaitv.cl/wp-content/uploads/2024/04/cropped-radiosuyaitvcuadrado512.png" group-title="Culture;Music",Radio Suyai TV (1080p)
 https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$" group-title="Lifestyle",Revry Brasil
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/spectrumtv-512.png" group-title="Entertainment;Lifestyle;Music",Spectrum Channel (720p)
-https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Culture;News",STZ TV (720p)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png" group-title="Culture",Suyai TV (1080p)

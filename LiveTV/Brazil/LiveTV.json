@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-24 21:38:27",
+  "date": "2025-05-25 06:15:27",
   "channels": {
     "": [
       {
@@ -6520,6 +6520,13 @@
         "url": "http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8"
       },
       {
+        "name": "TELE 6",
+        "logo": "https://i.imgur.com/p7tt72X.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://envivo.bolivia-link.com:3337/live/tele6live.m3u8"
+      },
+      {
         "name": "TV Aldeia (720p)",
         "logo": "https://i.imgur.com/rsfnv4Z.png",
         "group": "General",
@@ -6867,6 +6874,13 @@
         "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
       },
       {
+        "name": "TV Cultura",
+        "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://cdn-1.nxplay.com.br/TV_CULTURA/index.m3u8"
+      },
+      {
         "name": "TV Guará (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/8PErNBT.png",
         "group": "Undefined",
@@ -6963,6 +6977,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "http://cdn.tvmatic.net/tiktok.m3u8"
+      },
+      {
+        "name": "USA Network Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8"
       }
     ],
     "Religious": [
@@ -7367,6 +7388,13 @@
         "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
       },
       {
+        "name": "National Geographic Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
+      },
+      {
         "name": "Pluto TV Investigação (720p)",
         "logo": "https://i.imgur.com/JlQq0YJ.png",
         "group": "Documentary",
@@ -7417,6 +7445,15 @@
         "url": "http://cdn.tvmatic.net/comedy.m3u8"
       }
     ],
+    "Entertainment;Lifestyle;Music": [
+      {
+        "name": "PRIDEtv LATAM (720p)",
+        "logo": "https://neotv.cl/img/pridetv-512.png",
+        "group": "Entertainment;Lifestyle;Music",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
+      }
+    ],
     "Culture;Music": [
       {
         "name": "Radio Suyai TV (1080p)",
@@ -7433,15 +7470,6 @@
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8"
-      }
-    ],
-    "Entertainment;Lifestyle;Music": [
-      {
-        "name": "Spectrum Channel (720p)",
-        "logo": "https://cdn.energeek.cl/logos/spectrumtv-512.png",
-        "group": "Entertainment;Lifestyle;Music",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
       }
     ],
     "Culture;News": [

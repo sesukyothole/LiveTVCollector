@@ -449,6 +449,11 @@ URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
+Name: National Geographic Latin America
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
 Name: Pluto TV Investigação (720p)
 URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Logo: https://i.imgur.com/JlQq0YJ.png
@@ -616,9 +621,9 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
 Group: Entertainment;Lifestyle;Music
-Name: Spectrum Channel (720p)
+Name: PRIDEtv LATAM (720p)
 URL: https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
-Logo: https://cdn.energeek.cl/logos/spectrumtv-512.png
+Logo: https://neotv.cl/img/pridetv-512.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
@@ -998,6 +1003,11 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: Sertão TV (720p)
 URL: http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 Logo: https://i.imgur.com/b5xOCsC.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: TELE 6
+URL: https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
+Logo: https://i.imgur.com/p7tt72X.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: TV Aldeia (720p)
@@ -4637,6 +4647,11 @@ URL: https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 Logo: https://i.imgur.com/CpXjcyE.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
+Name: TV Cultura
+URL: https://cdn-1.nxplay.com.br/TV_CULTURA/index.m3u8
+Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
 Name: TV Guará (720p) [Not 24/7]
 URL: https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 Logo: https://i.imgur.com/8PErNBT.png
@@ -4705,6 +4720,11 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: TVMatic TikTok (720p)
 URL: http://cdn.tvmatic.net/tiktok.m3u8
 Logo: https://i.imgur.com/l5PBcKN.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: USA Network Latin America
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 

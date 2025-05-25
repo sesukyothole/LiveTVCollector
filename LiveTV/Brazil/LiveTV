@@ -5526,6 +5526,12 @@
     "img": "https://i.imgur.com/b5xOCsC.png"
   },
   {
+    "name": "TELE 6",
+    "type": "General",
+    "url": "https://envivo.bolivia-link.com:3337/live/tele6live.m3u8",
+    "img": "https://i.imgur.com/p7tt72X.png"
+  },
+  {
     "name": "TV Aldeia (720p)",
     "type": "General",
     "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
@@ -5820,6 +5826,12 @@
     "img": "https://i.imgur.com/CpXjcyE.png"
   },
   {
+    "name": "TV Cultura",
+    "type": "Undefined",
+    "url": "https://cdn-1.nxplay.com.br/TV_CULTURA/index.m3u8",
+    "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
+  },
+  {
     "name": "TV Guará (720p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
@@ -5902,6 +5914,12 @@
     "type": "Undefined",
     "url": "http://cdn.tvmatic.net/tiktok.m3u8",
     "img": "https://i.imgur.com/l5PBcKN.png"
+  },
+  {
+    "name": "USA Network Latin America",
+    "type": "Undefined",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png"
   },
   {
     "name": "Angel TV Portuguese (720p)",
@@ -6228,6 +6246,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png"
   },
   {
+    "name": "National Geographic Latin America",
+    "type": "Documentary",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
+  },
+  {
     "name": "Pluto TV Investigação (720p)",
     "type": "Documentary",
     "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
@@ -6264,6 +6288,12 @@
     "img": "https://i.imgur.com/l5PBcKN.png"
   },
   {
+    "name": "PRIDEtv LATAM (720p)",
+    "type": "Entertainment;Lifestyle;Music",
+    "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8",
+    "img": "https://neotv.cl/img/pridetv-512.png"
+  },
+  {
     "name": "Radio Suyai TV (1080p)",
     "type": "Culture;Music",
     "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe",
@@ -6274,12 +6304,6 @@
     "type": "Lifestyle",
     "url": "https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8",
     "img": "https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$"
-  },
-  {
-    "name": "Spectrum Channel (720p)",
-    "type": "Entertainment;Lifestyle;Music",
-    "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8",
-    "img": "https://cdn.energeek.cl/logos/spectrumtv-512.png"
   },
   {
     "name": "STZ TV (720p)",
