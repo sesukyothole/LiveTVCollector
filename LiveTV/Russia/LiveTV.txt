@@ -6,9 +6,21 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Animation;Kids
+Name: Solnce
+URL: http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+Logo: https://i.imgur.com/rec9akk.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Мультимания (576p)
 URL: https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/abh8ZBA.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: Auto
+Name: Auto Plus
+URL: http://s1.merlive.am/Avtoplus/index.m3u8
+Logo: https://i.imgur.com/sVc8cFt.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
@@ -29,10 +41,27 @@ Logo: https://i.imgur.com/CwhmJby.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
+Group: Classic;Music
+Name: BRIDGE Classic
+URL: http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+Logo: https://i.imgur.com/JJTQq81.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
 Group: Comedy
 Name: Fail Army (720p)
 URL: https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 Logo: https://i.imgur.com/VIpQJxL.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Gagsnetwork
+URL: https://s7.merlive.am/gagsnetwork/index.m3u8
+Logo: https://i.imgur.com/ENj5GIp.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Komedia
+URL: http://s1.merlive.am/Komedia/index.m3u8
+Logo: https://i.imgur.com/VRC5juh.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: viju+ Comedy (1080p)
@@ -47,6 +76,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Cooking
+Name: FoodTime
+URL: http://31.148.48.15/Eda_Premium_HD/index.m3u8
+Logo: https://i.imgur.com/gxCYAwH.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Kulinar TV Show
 URL: https://api.alpaca.t62a.com/hls/9110/index.m3u8
 Logo: https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png
@@ -64,6 +98,11 @@ URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv
 Logo: https://i.imgur.com/WbjURLo.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Teatr
+URL: http://31.148.48.15/Sochi_HD/index.m3u8
+Logo: https://i.imgur.com/nc2ijCH.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: like Gecko) Mobile/15E148",Культура (480p) [Not 24/7]
 URL: http://ott-cdn.ucom.am/s16/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png
@@ -76,14 +115,24 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Documentary
+Name: HDL
+URL: http://31.148.48.15/HD_Life/index.m3u8
+Logo: https://i.imgur.com/tKgmhxh.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: RTД
 URL: https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 Logo: https://i.imgur.com/aeu5zIC.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: viju History
-URL: http://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-Logo: https://i.imgur.com/FqWkeXb.png
+Name: Tayny Galaktiki
+URL: https://s1.merlive.am/TainiGalaktiki/index.m3u8
+Logo: https://i.imgur.com/fR3abSD.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: TERRA
+URL: https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+Logo: https://i.imgur.com/ZxUjCpF.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: like Gecko) Mobile/15E148",Арсенал (480p) [Not 24/7]
@@ -108,6 +157,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Education
+Name: EGE TV
+URL: http://194.143.148.28:8080/RT_DOC/index.m3u8
+Logo: https://i.imgur.com/XxJBLt4.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: MOSOBR.TV (720p)
 URL: http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 Logo: https://i.imgur.com/t6PmOD5.png
@@ -115,6 +169,16 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Entertainment
+Name: .black
+URL: http://s1.merlive.am/black/index.m3u8
+Logo: https://i.imgur.com/Q4A6ci4.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: India
+URL: http://31.148.48.15/Zee_TV_Russia/index.m3u8
+Logo: https://i.imgur.com/xDVcDOc.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Tvoe TV HD
 URL: http://tvoetv.space:8080/tvoetv/index.m3u8
 Logo: https://i.imgur.com/kKAM7dP.png
@@ -130,11 +194,6 @@ URL: http://31.148.48.15/Poehali/index.m3u8
 Logo: https://i.imgur.com/mxsBZaC.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Пятница
-URL: http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-Logo: https://i.imgur.com/UfmlXxe.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: like Gecko) Mobile/15E148",Пятница! International (480p) [Not 24/7]
 URL: http://ott-cdn.ucom.am/s50/index.m3u8
 Logo: https://i.imgur.com/N2z3EZC.png
@@ -145,11 +204,6 @@ URL: https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 Logo: https://i.imgur.com/vhLQtSd.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: ТВ3
-URL: http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
-Logo: https://i.imgur.com/JLAvq8O.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: like Gecko) Mobile/15E148",ТНТ4 (480p) [Not 24/7]
 URL: http://ott-cdn.ucom.am/s100/index.m3u8
 Logo: https://i.imgur.com/gBokU5i.png
@@ -158,11 +212,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: like Gecko) Mobile/15E148",ТНТ (480p) [Not 24/7]
 URL: http://ott-cdn.ucom.am/s19/index.m3u8
 Logo: https://i.imgur.com/T4A6rEI.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: Че!
-URL: http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-Logo: https://i.imgur.com/ZOcDGpB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Ю
@@ -189,11 +238,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: General
-Name: 5 канал
-URL: http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-Logo: https://i.imgur.com/KPXMa3U.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: 12 канал
 URL: https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 Logo: https://i.imgur.com/OA9hm6e.png
@@ -207,6 +251,16 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Abaza TV
 URL: https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 Logo: https://i.imgur.com/7Jo7UAf.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: KTOKUDA
+URL: https://s7.merlive.am/ktokuda/index.m3u8
+Logo: https://ntvplus.tv/files/image/68/79/06/9wn.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: REN TV International
+URL: https://cdn4.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+Logo: https://i.imgur.com/gBjk9oF.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Sochi Live HD (720p) [Not 24/7]
@@ -289,11 +343,6 @@ URL: http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 Logo: https://i.imgur.com/gCmCRfe.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Лен ТВ 24 (540p) [Geo-blocked]
-URL: https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-Logo: https://i.imgur.com/d02uxkB.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: like Gecko) Mobile/15E148",Мир (480p) [Not 24/7]
 URL: http://ott-cdn.ucom.am/s39/index.m3u8
 Logo: https://i.imgur.com/AqWaJT8.png
@@ -349,11 +398,6 @@ URL: https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 Logo: https://i.imgur.com/skkDR7q.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Общественное Телевидение России
-URL: http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-Logo: https://i.imgur.com/VaWlnjZ.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Осетия Ирыстон
 URL: https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 Logo: https://i.imgur.com/N0Zn4zU.png
@@ -367,11 +411,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: like Gecko) Mobile/15E148",Первый канал (480p) [Not 24/7]
 URL: http://ott-cdn.ucom.am/s14/index.m3u8
 Logo: https://i.imgur.com/RUSX0rX.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: РЕН ТВ
-URL: http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-Logo: https://i.imgur.com/0Tu5lte.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: like Gecko) Mobile/15E148",Россия РТР (480p) [Not 24/7]
@@ -428,9 +467,34 @@ URL: http://31.148.48.15/Ani/index.m3u8
 Logo: https://i.imgur.com/i2AP0hp.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Carousel International
+URL: https://cdn4.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+Logo: https://i.imgur.com/DnlngRZ.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: ducktv (720p)
 URL: https://jmp2.uk/sam-ESBC4700001GR.m3u8
 Logo: https://i.imgur.com/gRFQ35W.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Mama
+URL: http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+Logo: https://i.imgur.com/kmMIjjf.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Mult
+URL: http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+Logo: https://i.imgur.com/xi351Fx.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Mult i muzyka
+URL: http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+Logo: https://i.imgur.com/SYt6BZP.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Multilandia
+URL: http://s1.merlive.am/multilandia/index.m3u8
+Logo: https://i.imgur.com/ccwijY0.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Nickelodeon
@@ -438,9 +502,29 @@ URL: http://31.148.48.15/Nickelodeon/index.m3u8
 Logo: https://i.imgur.com/w8iE8dV.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Smaylik TV
+URL: https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+Logo: https://i.imgur.com/CBj8XCT.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: STS kids
+URL: http://31.148.48.15/STS_Kids_HD/index.m3u8
+Logo: https://i.imgur.com/o9kLpAL.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: SuperGeroi
+URL: http://178.124.179.122:8088/Malish/index.m3u8
+Logo: https://i.imgur.com/c0zZUR1.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: like Gecko) Mobile/15E148",Tiji (480p) [Not 24/7]
 URL: http://ott-cdn.ucom.am/s59/index.m3u8
 Logo: https://i.imgur.com/QCOUJ30.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: V gostyakh u skazki
+URL: https://s1.merlive.am/vgostyaxuskazki/index.m3u8
+Logo: https://i.imgur.com/jNJkLHl.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: like Gecko) Mobile/15E148",Детский мир (480p) [Not 24/7]
@@ -449,7 +533,7 @@ Logo: https://i.imgur.com/bBVEP0S.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Карусель
-URL: http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+URL: https://streaming.skynetconnect.online/live/232.m3u8
 Logo: https://i.imgur.com/4wmnx1W.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
@@ -477,9 +561,19 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Lifestyle
+Name: Domashnie Zhivotnye
+URL: http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
+Logo: https://i.imgur.com/ISJzQGP.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: FashionTV Europe (1080p)
 URL: https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Otkritiy mir. Zdorove
+URL: https://v4.proofix.ru/0mir/index.m3u8
+Logo: https://i.imgur.com/7orZOJA.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: like Gecko) Mobile/15E148",Домашний (480p) [Not 24/7]
@@ -499,24 +593,59 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Movies
+Name: Cinema
+URL: http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+Logo: https://i.imgur.com/b5e9qUA.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Evrokino
+URL: https://s1.merlive.am/eurokino/index.m3u8
+Logo: https://i.imgur.com/8LPtPf6.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Feniks plus Kino
+URL: http://31.148.48.15/Feniks_plus_kino/index.m3u8
+Logo: https://i.imgur.com/S9OPMLE.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Illusion+
+URL: https://s1.merlive.am/iluzionplus/index.m3u8
+Logo: https://i.imgur.com/9GvuHQ5.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Kineko
+URL: http://194.143.148.28:8080/KINEKO/index.m3u8
+Logo: https://i.imgur.com/Otfvlmf.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Kino 24
 URL: http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Logo: https://i.imgur.com/QAdDARF.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: viju TV1000
-URL: http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-Logo: https://i.imgur.com/ZMsyjSr.png
+Name: Kino TV
+URL: http://vod.tuva.ru/kinotv/index.m3u8
+Logo: https://i.imgur.com/sMpamNO.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Muzhskoy
+URL: https://s1.merlive.am/mujskoy/index.m3u8
+Logo: https://i.imgur.com/xyztpBf.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Russkiy roman
+URL: https://s7.merlive.am/ruskiroman/index.m3u8
+Logo: https://i.imgur.com/cQN0P2B.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Star Cinema
+URL: http://s1.merlive.am/starsinema/index.m3u8
+Logo: https://i.imgur.com/5sis895.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: viju TV1000 action (1080p)
 URL: http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 Logo: https://i.imgur.com/TMmyuzh.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: viju TV1000 russkoe
-URL: http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-Logo: https://i.imgur.com/Meak2y4.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: viju+ Premiere (1080p)
@@ -561,6 +690,11 @@ URL: http://ott-cdn.ucom.am/s64/index.m3u8
 Logo: https://i.imgur.com/UUjehw9.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Bolt
+URL: http://95.142.88.250:80/Bolt/index.m3u8
+Logo: https://i.imgur.com/YdIHXOR.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 
 Group: Music
 Name: Amedia 1
@@ -573,6 +707,16 @@ URL: http://ott-cdn.ucom.am/s34/index.m3u8
 Logo: https://i.imgur.com/qYObfrG.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: BRIDGE Deluxe
+URL: http://31.148.48.15/Bridge_TV_HD/index.m3u8
+Logo: https://i.imgur.com/EazL8w7.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: BRIDGE Hits
+URL: http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+Logo: https://i.imgur.com/sIW9oR4.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: like Gecko) Mobile/15E148",Mezzo (480p) [Not 24/7]
 URL: http://ott-cdn.ucom.am/s35/index.m3u8
 Logo: https://i.imgur.com/auNdGeW.png
@@ -581,6 +725,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: MTV Hits Europe
 URL: http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 Logo: https://i.imgur.com/zNscEST.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: o2tv
+URL: https://s7.merlive.am/o2tv/index.m3u8
+Logo: https://i.imgur.com/CM6z7fA.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: RU TV
@@ -733,6 +882,33 @@ Logo: https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-tol
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
+Group: Outdoor
+Name: Dikaya okhota
+URL: https://s1.merlive.am/dikayaoxota/index.m3u8
+Logo: https://i.imgur.com/EOue13e.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Dikaya rybalka
+URL: https://s1.merlive.am/dikaiaribalka/index.m3u8
+Logo: https://i.imgur.com/e3BFVgt.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Konniy mir
+URL: https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
+Logo: https://i.imgur.com/X6otbK0.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Moya Planeta
+URL: http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
+Logo: https://i.imgur.com/uIiAdBv.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Okhota i rybalka
+URL: https://s1.merlive.am/oxotairibalka/index.m3u8
+Logo: https://i.imgur.com/nZwBaeW.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
 Group: Religious
 Name: EWTN Africa Asia (720p)
 URL: https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
@@ -776,6 +952,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Science
+Name: .sci-fi
+URL: http://s1.merlive.am/Sci-Fi/index.m3u8
+Logo: https://i.imgur.com/nSSUHcg.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: like Gecko) Mobile/15E148",Космический (480p) [Not 24/7]
 URL: http://ott-cdn.ucom.am/s44/index.m3u8
 Logo: https://i.imgur.com/N1Ze5IE.png
@@ -825,6 +1006,21 @@ Group: Sports
 Name: FIFA+ (720p)
 URL: https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 Logo: https://i.imgur.com/l5iax42.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Football
+URL: https://s1.merlive.am/futboltv/index.m3u8
+Logo: https://i.imgur.com/pEuaZVx.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: KHL Prime
+URL: http://194.143.148.28:8080/KHL_HD/index.m3u8
+Logo: https://i.imgur.com/pwxT0ON.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: MMA-TV.com
+URL: https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+Logo: https://i.imgur.com/QhdxNsB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: like Gecko) Mobile/15E148",Viju Sport (480p) [Not 24/7]
@@ -1297,6 +1493,18 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 
+Group: Travel
+Name: RTG TV
+URL: http://194.143.148.28:8080/RTG_HD/index.m3u8
+Logo: https://i.imgur.com/ZMKPAho.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Teleputeshestviya
+URL: http://31.148.48.15/Teleputeshestviya/index.m3u8
+Logo: https://i.imgur.com/eXJm1n3.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
 Group: Undefined
 Name: Hard Knocks Fighting Championship (720p)
 URL: https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
@@ -1358,6 +1566,11 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Tochka otryva
+URL: http://s1.merlive.am/tochkaotriva/index.m3u8
+Logo: https://i.imgur.com/TZiBQDK.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: TOP Barca (1080p)
 URL: https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg
@@ -1388,14 +1601,39 @@ URL: https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/play
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/77aa6871-a13f-470b-a2d5-ca5650f63323-width200-quality90.jpeg
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: YuTV
+URL: https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+Logo: https://i.imgur.com/b8CXEr7.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Z Nation (720p)
 URL: https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Zagorodnyy Int
+URL: http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+Logo: https://i.imgur.com/n7zOS06.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Zee One (720p)
 URL: https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b2b4d09d-3471-4dbf-a831-3191cfc66bec-width200-quality90.jpeg
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Zhivaya Planeta
+URL: http://s1.merlive.am/jivayaplaneta/index.m3u8
+Logo: https://i.imgur.com/onNv1tM.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Zhivaya priroda
+URL: https://s1.merlive.am/Jivaiapriroda/index.m3u8
+Logo: https://i.imgur.com/9lHQPdN.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Zoopark
+URL: https://s1.merlive.am/Zoopark/index.m3u8
+Logo: https://i.imgur.com/IO5jegK.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Архыз 24 (1080p)
@@ -1541,11 +1779,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Соловьев LIVE
 URL: https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 Logo: https://i.imgur.com/v0OYe1d.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: Суббота! (450p) [Geo-blocked]
-URL: https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-Logo: https://i.imgur.com/nsk8PpB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Сургут 24 (720p) [Not 24/7]
@@ -1731,47 +1964,47 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Шалун HD
-URL: http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxNTQyNjYsImlhdCI6MTc0ODA2Nzg2NiwiY2lkIjo2LCJ1aWQiOjkxODc0OTMzMiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.4GJzVHg51s5i3rVsivQAGp_UpyVlv8VZ7BfRkirKr8A&offset=10
+URL: http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxOTk2ODQsImlhdCI6MTc0ODExMzI4NCwiY2lkIjo2LCJ1aWQiOjkxODkxMjM4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.iaxLCF4y0aRPdS6ahYcAdfQGi5-joldTotnHgXElawU&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Exxxotica HD
-URL: http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxNTQyNjYsImlhdCI6MTc0ODA2Nzg2NiwiY2lkIjo2LCJ1aWQiOjkxODc0OTMzMiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.4GJzVHg51s5i3rVsivQAGp_UpyVlv8VZ7BfRkirKr8A&offset=10
+URL: http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxOTk2ODQsImlhdCI6MTc0ODExMzI4NCwiY2lkIjo2LCJ1aWQiOjkxODkxMjM4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.iaxLCF4y0aRPdS6ahYcAdfQGi5-joldTotnHgXElawU&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Blue Hustler
-URL: http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxNTQyNjYsImlhdCI6MTc0ODA2Nzg2NiwiY2lkIjo2LCJ1aWQiOjkxODc0OTMzMiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.4GJzVHg51s5i3rVsivQAGp_UpyVlv8VZ7BfRkirKr8A&offset=10
+URL: http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxOTk2ODQsImlhdCI6MTc0ODExMzI4NCwiY2lkIjo2LCJ1aWQiOjkxODkxMjM4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.iaxLCF4y0aRPdS6ahYcAdfQGi5-joldTotnHgXElawU&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Erox
-URL: http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxNTQyNjYsImlhdCI6MTc0ODA2Nzg2NiwiY2lkIjo2LCJ1aWQiOjkxODc0OTMzMiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.4GJzVHg51s5i3rVsivQAGp_UpyVlv8VZ7BfRkirKr8A&offset=10
+URL: http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxOTk2ODQsImlhdCI6MTc0ODExMzI4NCwiY2lkIjo2LCJ1aWQiOjkxODkxMjM4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.iaxLCF4y0aRPdS6ahYcAdfQGi5-joldTotnHgXElawU&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Brazzers TV Europe
-URL: http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxNTQyNjYsImlhdCI6MTc0ODA2Nzg2NiwiY2lkIjo2LCJ1aWQiOjkxODc0OTMzMiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.4GJzVHg51s5i3rVsivQAGp_UpyVlv8VZ7BfRkirKr8A&offset=10
+URL: http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxOTk2ODQsImlhdCI6MTc0ODExMzI4NCwiY2lkIjo2LCJ1aWQiOjkxODkxMjM4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.iaxLCF4y0aRPdS6ahYcAdfQGi5-joldTotnHgXElawU&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Red Lips HD
-URL: http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxNTQyNjYsImlhdCI6MTc0ODA2Nzg2NiwiY2lkIjo2LCJ1aWQiOjkxODc0OTMzMiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.4GJzVHg51s5i3rVsivQAGp_UpyVlv8VZ7BfRkirKr8A&offset=10
+URL: http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxOTk2ODQsImlhdCI6MTc0ODExMzI4NCwiY2lkIjo2LCJ1aWQiOjkxODkxMjM4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.iaxLCF4y0aRPdS6ahYcAdfQGi5-joldTotnHgXElawU&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Playboy TV
-URL: http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxNTQyNjYsImlhdCI6MTc0ODA2Nzg2NiwiY2lkIjo2LCJ1aWQiOjkxODc0OTMzMiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.4GJzVHg51s5i3rVsivQAGp_UpyVlv8VZ7BfRkirKr8A&offset=10
+URL: http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxOTk2ODQsImlhdCI6MTc0ODExMzI4NCwiY2lkIjo2LCJ1aWQiOjkxODkxMjM4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.iaxLCF4y0aRPdS6ahYcAdfQGi5-joldTotnHgXElawU&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Babes TV
-URL: http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxNTQyNjYsImlhdCI6MTc0ODA2Nzg2NiwiY2lkIjo2LCJ1aWQiOjkxODc0OTMzMiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.4GJzVHg51s5i3rVsivQAGp_UpyVlv8VZ7BfRkirKr8A&offset=10
+URL: http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxOTk2ODQsImlhdCI6MTc0ODExMzI4NCwiY2lkIjo2LCJ1aWQiOjkxODkxMjM4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.iaxLCF4y0aRPdS6ahYcAdfQGi5-joldTotnHgXElawU&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Русская ночь
-URL: http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxNTQyNjYsImlhdCI6MTc0ODA2Nzg2NiwiY2lkIjo2LCJ1aWQiOjkxODc0OTMzMiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.4GJzVHg51s5i3rVsivQAGp_UpyVlv8VZ7BfRkirKr8A&offset=10
+URL: http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgxOTk2ODQsImlhdCI6MTc0ODExMzI4NCwiY2lkIjo2LCJ1aWQiOjkxODkxMjM4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.iaxLCF4y0aRPdS6ahYcAdfQGi5-joldTotnHgXElawU&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4413,7 +4646,7 @@ Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.
 
 Group: Спорт
 Name: Eurosport 1 HD
-URL: https://tv.movielab.pro/145/video.m3u8?token=9ff23b12861a251744c815ae11f5e5876f52486f-9adec2188efad8434de51af2f4bd1544-1748153968-1748067568
+URL: https://tv.movielab.pro/145/video.m3u8?token=73546f74f58659e60229ea90794cf1afccac92c0-a231bc0c23dd19f31e42817b1d345a9a-1748199385-1748112985
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4423,12 +4656,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Setanta Sports 1 HD
-URL: https://tv.movielab.pro/942/video.m3u8?token=4a444b304bfb46270fb076abc25a86f74c5bc729-e74c162ca71b9d6dc7d710a12a6b5919-1748153968-1748067568
+URL: https://tv.movielab.pro/942/video.m3u8?token=13427df38261bc94fd064c549c6f3de829d2ebba-d591720f79ea478bf7b41793cf04acd5-1748199385-1748112985
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Setanta Sports 2 HD
-URL: https://tv.movielab.pro/943/video.m3u8?token=9ee0d7b3e4a12cc11c88e27cc8061751acec528d-4b2e7d6a89b309146bd0dc0301f0adea-1748153968-1748067568
+URL: https://tv.movielab.pro/943/video.m3u8?token=74e88a46a95f5bd4ebe798942179a5491301575e-0b72f8729320954388751cf486b365f3-1748199385-1748112985
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
