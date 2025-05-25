@@ -12844,7 +12844,7 @@ Logo: https://i.imgur.com/GeEDOPN.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Med Muzik (720p)
-URL: https://med-musik.icdndhcp.com/live3/live3.m3u8
+URL: http://54.36.110.140/live3/live3.m3u8
 Logo: https://i.imgur.com/gtUFmCD.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
